@@ -1,0 +1,17 @@
+{% if page.active == "home" %}
+<li class="active"><a href="/">Home</a></li>
+{% else %}
+<li><a href="/">Home</a></li>
+{% endif %}
+{% if page.active == "farm2014" %}
+<li class="active"><a href="/2014/">FARM 2014</a></li>
+{% else %}
+<li><a href="/2014/">FARM 2014</a></li>
+{% endif %}
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle"
+  data-toggle="dropdown">Past Workshops <b class="caret"></b></a>
+  <ul class="dropdown-menu">
+    <li><a href="/2013/">2013</a></li>
+  </ul>
+</li>
