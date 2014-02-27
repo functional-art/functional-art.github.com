@@ -57,10 +57,10 @@ itself, please contact the organisers at:
 
 <table>
 <tr>
-<td style="padding-right:10px">Abstract (for Full Papers) submission deadline</td><td>7 May</td>
+<td style="padding-right:10px">Abstract (for Full Papers) submission deadline</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+paper+abstracts+due&amp;iso=20140507T2355&amp;p1=1033">7 May</a></td>
 </tr>
 <tr>
-<td style="padding-right:10px">Full Paper and Demo Abstract submission Deadline</td><td>11 May</td>
+<td style="padding-right:10px">Full Paper and Demo Abstract submission Deadline</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+papers+and+demo+abstracts+due&amp;iso=20140511T2355&amp;p1=1033">11 May</a></td>
 </tr>
 <tr>
 <td style="padding-right:10px">Author Notification</td><td>30 May</td>
