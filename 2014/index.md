@@ -11,6 +11,9 @@ active: farm2014
 **September 6, 2014**, co-located with [ICFP
 2014](http://icfpconference.org/icfp2014/) in Gothenburg, Sweden
 
+Receive news via [Twitter](http://twitter.com/WorkshopFARM) or
+[Lanyrd](http://lanyrd.com/2014/farm2014/).
+
 ### About
 
 The functional programming community is largely interested in writing
