@@ -75,7 +75,7 @@ itself, please contact the organisers at:
 
 ### Submission
 
-Submissions will be via EasyChair; link will appear here soon.
+Submissions are via EasyChair - [here](https://www.easychair.org/conferences/?conf=farm-2014).
 
 All papers and demo abstracts must be in portable document format
 (PDF), using the [ACM SIGPLAN style
