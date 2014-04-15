@@ -16,22 +16,17 @@ Receive news via [Twitter](http://twitter.com/WorkshopFARM) or
 
 ### About
 
-The functional programming community is largely interested in writing
-beautiful programs. The ACM SIGPLAN International Workshop on
-Functional Art, Music, Modelling and Design (FARM) is intended to
-gather researchers and practitioners interested in writing **beautiful
-programs which generate beautiful artifacts or experiences**, or perhaps
-even challenge notions of beauty. FARM encourages submissions from
-across art, craft and design, including textiles, visual art, music,
-3D sculpture, animation, GUIs, video games, physical models,
-architectural models, choreographies for dance, poetry, and even VLSI
-layouts, GPU configurations, or mechanical engineering designs. The
-language used need not be purely functional ("mostly functional" is
-fine); may be based on abstractions such as higher-order functions,
-monads, arrows, or streams; and may be manifested as a domain specific
-language or tool. Theoretical foundations, language design,
-implementation issues, and applications in industry or the arts are
-all within the scope of the workshop.
+The ACM SIGPLAN International Workshop on Functional Art, Music,
+Modelling and Design (FARM) gathers together people who are harnessing
+functional techniques in the pursuit of creativity and expression.
+
+Functional Programming has emerged as a mainstream software
+development paradigm, and its artistic and creative use is booming. A
+growing number of software toolkits, frameworks and environments for
+art, music and design now employ functional programming languages and
+techniques. FARM is a forum for exploration and critical evaluation of
+these developments, for example to consider potential benefits of
+greater consistency, tersity, and closer mapping to a problem domain.
 
 ### Submit a paper or a demo proposal!
 
