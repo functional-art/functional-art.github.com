@@ -77,7 +77,16 @@ itself, please contact the organisers at:
 
 ### Submission
 
-Submissions are via EasyChair - [here](https://www.easychair.org/conferences/?conf=farm-2014).
+Submissions are via EasyChair -
+[here](https://www.easychair.org/conferences/?conf=farm-2014).
+We'd appreciate an advance e-mail if you intend to submit, to:
+
+[`workshop2014@functional-art.org`](mailto:workshop2014@functional-art.org)
+
+<span style="color:red">Attention! EasyChair is currently undergoing
+maintenance.  If you have trouble submitting, e-mail us at
+[`workshop2014@functional-art.org`](mailto:workshop2014@functional-art.org).
+ Thanks!</span>
 
 All papers and demo abstracts must be in portable document format
 (PDF), using the [ACM SIGPLAN style
