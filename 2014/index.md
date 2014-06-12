@@ -38,7 +38,8 @@ On the evening of September 6 (after the workshop) we will have an
 evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
-Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/).
+Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
+starting at 8PM.
 
 The evening will feature performances by [Sam
 Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
