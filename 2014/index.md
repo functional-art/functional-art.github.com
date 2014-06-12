@@ -28,29 +28,27 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
-### Submit a paper or a demo proposal!
+### Program
 
-The call for papers and demo proposals is [here](cfp.html).
+We are currently assembling the program, to be announced soon.
 
-### Key Dates
+### Live Performances
 
-<table>
-<tr>
-<td style="padding-right:10px">Abstract (for Full Papers) submission deadline</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+paper+abstracts+due&amp;iso=20140507T2355&amp;p1=1033">7 May</a></td>
-</tr>
-<tr>
-<td style="padding-right:10px">Full Paper and Demo Abstract submission Deadline</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+papers+and+demo+abstracts+due&amp;iso=20140511T2355&amp;p1=1033">11 May</a></td>
-</tr>
-<tr>
-<td style="padding-right:10px">Author Notification</td><td>30 May</td>
-</tr>
-<tr>
-<td style="padding-right:10px">Camera Ready</td><td>18 June</td>
-</tr>
-<tr>
-<td style="padding-right:10px">Workshop</td><td>6 September</td>
-</tr>
-</table>
+On the evening of September 6 (after the workshop) we will have an
+evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
+[Palle
+Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/).
+
+The evening will feature performances by [Sam
+Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
+and [LiveCodeLab](http://livecodelab.net/).
+
+Details to be announced soon.
+
+### Call for Papers and Demo Proposals
+
+The call for papers and demo proposals (expired) is [here](cfp.html).
 
 ### Workshop Organisation
 
