@@ -35,7 +35,7 @@ We are currently assembling the program, to be announced soon.
 ### Live Performances
 
 On the evening of September 6 (after the workshop) we will have an
-evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+evening of live performances at [3:e VÃ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
@@ -46,6 +46,17 @@ Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
 and [LiveCodeLab](http://livecodelab.net/).
 
 Details to be announced soon.
+
+### Key Dates
+
+<table>
+<tr>
+<td style="padding-right:10px">Camera Ready</td><td>25 June</td>
+</tr>
+<tr>
+<td style="padding-right:10px">Workshop</td><td>6 September</td>
+</tr>
+</table>
 
 ### Call for Papers and Demo Proposals
 
