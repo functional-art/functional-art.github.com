@@ -14,6 +14,21 @@ active: farm2014
 Receive news via [Twitter](http://twitter.com/WorkshopFARM) or
 [Lanyrd](http://lanyrd.com/2014/farm2014/).
 
+### Registration
+
+*Registration is open!*
+
+You can register via the ICFP 2014 registration
+[here](https://regmaster4.com/2014conf/ICFP14/register.php).
+
+Don't be confused that it says "ICFP" - FARM is part of a larger event
+around [ICFP 2014](http://icfpconference.org/icfp2014/), and you can
+register for FARM without registering for ICFP.
+
+Early registration deadline is <a
+href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+early+registration+deadline&amp;iso=20140803T2355&amp;p1=1033">3
+August.</a>
+
 ### About
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
@@ -37,7 +52,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Computer Laboratory, University of Cambridge; Alan Blackwell,
   Computer Laboratory, University of Cambridge.
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
-  University; David Janin, LaBRI, Université de Bordeaux.
+  University; David Janin, LaBRI, UniversitÃ© de Bordeaux.
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
      Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
 
@@ -49,21 +64,21 @@ greater consistency, tersity, and closer mapping to a problem domain.
   University of Wellington.
 * **Scripthica: a web environment for collective algorithmic
   composition.** <br/> Gabriel Sanchez, New York University.
-* **Music Suite: A Family of Musical Representations.** Hans Höglund.
+* **Music Suite: A Family of Musical Representations.** Hans HÃ¶glund.
 * **Patterning: Repetitive and recursive pattern generation using
      Clojure and Quil.**  <br/> Phil Jones, Alchemy Islands.
 * **Using Haskell as DSL for controlling immersive media
-  experiences.** <br/> Henrik Bäärnhielm, Integral Systems
+  experiences.** <br/> Henrik BÃ¤Ã¤rnhielm, Integral Systems
   Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
-  Technology; Daniel Sundström, Integral Systems Engineering
+  Technology; Daniel SundstrÃ¶m, Integral Systems Engineering
 * **Sound and Soundness -- Practical Total Functional Data-Flow
-  Programming.** <br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
+  Programming.** <br/> Baltasar TrancÃ³n Y Widemann, TU Ilmenau; Markus
   Lepper, semantics GmbH.
 
 ### Live Performances
 
 On the evening of September 6 (after the workshop) we will have an
-evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+evening of live performances at [3:e VÃ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
@@ -82,6 +97,9 @@ Details to be announced soon.
 <table>
 <tr>
 <td style="padding-right:10px">Camera Ready</td><td>25 June</td>
+</tr>
+<tr>
+<td style="padding-right:10px">Early Registration Deadline</td><td>3 August</td>
 </tr>
 <tr>
 <td style="padding-right:10px">Workshop</td><td>6 September</td>
