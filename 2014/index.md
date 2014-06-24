@@ -47,6 +47,14 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 #### Full papers
 
+* **Functional Generation of Harmony and Melody.** <br/> José Pedro
+  Magalhães, Department of Computer Science, University of Oxford;
+  Hendrik Vincent Koops, Department of Information and Computing
+  Sciences, Utrecht University.
+* **Exploring melody space in a live context using declarative
+  functional programming.** <br/> Thomas Kristensen.
+* **Making programming languages to dance to: Live Coding with Tidal.**
+  <br/> Alex McLean,
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
   Computer Laboratory, University of Cambridge; Alan Blackwell,
