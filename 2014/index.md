@@ -30,12 +30,40 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 ### Program
 
-We are currently assembling the program, to be announced soon.
+#### Full papers
+
+* **Temporal semantics for a live coding language.** <br/> Sam Aaron,
+  Computer Laboratory, University of Cambridge; Dominic Orchard,
+  Computer Laboratory, University of Cambridge; Alan Blackwell,
+  Computer Laboratory, University of Cambridge.
+* **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
+  University; David Janin, LaBRI, Université de Bordeaux.
+* **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
+     Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
+
+#### Demos
+
+* **littleBits Synth Kit as a livecoded, functional, monadic,
+  physically-embodied, domain specific programming language.** <br/> James
+  Noble, Victoria University of Wellington; Timothy Jones, Victoria
+  University of Wellington.
+* **Scripthica: a web environment for collective algorithmic
+  composition.** <br/> Gabriel Sanchez, New York University.
+* **Music Suite: A Family of Musical Representations.** Hans Höglund.
+* **Patterning: Repetitive and recursive pattern generation using
+     Clojure and Quil.**  <br/> Phil Jones, Alchemy Islands.
+* **Using Haskell as DSL for controlling immersive media
+  experiences.** <br/> Henrik Bäärnhielm, Integral Systems
+  Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
+  Technology; Daniel Sundström, Integral Systems Engineering
+* **Sound and Soundness -- Practical Total Functional Data-Flow
+  Programming.** <br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
+  Lepper, semantics GmbH.
 
 ### Live Performances
 
 On the evening of September 6 (after the workshop) we will have an
-evening of live performances at [3:e VÃ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+evening of live performances at [3:e VÃÂ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
