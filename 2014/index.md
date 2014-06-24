@@ -52,7 +52,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Computer Laboratory, University of Cambridge; Alan Blackwell,
   Computer Laboratory, University of Cambridge.
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
-  University; David Janin, LaBRI, UniversitÃ© de Bordeaux.
+  University; David Janin, LaBRI, Université de Bordeaux.
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
      Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
 
@@ -64,21 +64,21 @@ greater consistency, tersity, and closer mapping to a problem domain.
   University of Wellington.
 * **Scripthica: a web environment for collective algorithmic
   composition.** <br/> Gabriel Sanchez, New York University.
-* **Music Suite: A Family of Musical Representations.** Hans HÃ¶glund.
+* **Music Suite: A Family of Musical Representations.** Hans Höglund.
 * **Patterning: Repetitive and recursive pattern generation using
      Clojure and Quil.**  <br/> Phil Jones, Alchemy Islands.
 * **Using Haskell as DSL for controlling immersive media
-  experiences.** <br/> Henrik BÃ¤Ã¤rnhielm, Integral Systems
+  experiences.** <br/> Henrik Bäärnhielm, Integral Systems
   Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
-  Technology; Daniel SundstrÃ¶m, Integral Systems Engineering
+  Technology; Daniel Sundström, Integral Systems Engineering.
 * **Sound and Soundness -- Practical Total Functional Data-Flow
-  Programming.** <br/> Baltasar TrancÃ³n Y Widemann, TU Ilmenau; Markus
+  Programming.** <br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
   Lepper, semantics GmbH.
 
 ### Live Performances
 
 On the evening of September 6 (after the workshop) we will have an
-evening of live performances at [3:e VÃ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
