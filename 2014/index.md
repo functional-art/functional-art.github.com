@@ -63,15 +63,17 @@ greater consistency, tersity, and closer mapping to a problem domain.
 ### Live Performances
 
 On the evening of September 6 (after the workshop) we will have an
-evening of live performances at [3:e VÃÂ¥ningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
+evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
 starting at 8PM.
 
-The evening will feature performances by [Sam
-Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
-and [LiveCodeLab](http://livecodelab.net/).
+The evening will feature:
+
+* [Sam Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
+* [LiveCodeLab](http://livecodelab.net/)
+* [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 
 Details to be announced soon.
 
