@@ -94,7 +94,8 @@ starting at 8PM.
 
 The evening will feature:
 
-* [Sam Aaron](http://sam.aaron.name/) with [Sonic Pi](http://sonic-pi.net/)
+* [Sam Aaron](http://sam.aaron.name/) with [Dominic
+  Orchard](http://www.cl.cam.ac.uk/~dao29/) with [Sonic Pi](http://sonic-pi.net/)
 * [LiveCodeLab](http://livecodelab.net/)
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 
