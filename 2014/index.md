@@ -52,7 +52,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Hendrik Vincent Koops, Department of Information and Computing
   Sciences, Utrecht University.
 * **Exploring melody space in a live context using declarative
-  functional programming.** <br/> Thomas Kristensen.
+  functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
 * **Making programming languages to dance to: Live Coding with Tidal.**
   <br/> Alex McLean,
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
@@ -120,7 +120,8 @@ The call for papers and demo proposals (expired) is [here](cfp.html).
 
 ### Workshop Organisation
 
-**Workshop Chair:** [Alex McLean](http://music.leeds.ac.uk/people/alex-mclean/), University of Leeds
+**Workshop Chair:** [Alex
+McLean](http://music.leeds.ac.uk/people/alex-mclean/), School of Music, University of Leeds
 
 **Program Chair:** [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/), University of Nottingham
 
