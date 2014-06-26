@@ -72,7 +72,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   University of Wellington.
 * **Scripthica: a web environment for collective algorithmic
   composition.** <br/> Gabriel Sanchez, New York University.
-* **Music Suite: A Family of Musical Representations.** Hans Höglund.
+* **Music Suite: A Family of Musical Representations.** <br/> Hans Höglund.
 * **Patterning: Repetitive and recursive pattern generation using
      Clojure and Quil.**  <br/> Phil Jones, Alchemy Islands.
 * **Using Haskell as DSL for controlling immersive media
