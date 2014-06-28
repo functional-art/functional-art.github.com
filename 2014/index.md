@@ -54,7 +54,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Exploring melody space in a live context using declarative
   functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
 * **Making programming languages to dance to: Live Coding with Tidal.**
-  <br/> Alex McLean,
+  <br/> Alex McLean, School of Music, University of Leeds.
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
   Computer Laboratory, University of Cambridge; Alan Blackwell,
