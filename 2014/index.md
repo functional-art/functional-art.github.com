@@ -43,45 +43,70 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
-### Program
+### Program and Schedule
 
-#### Full papers
+09:00-09:10: Welcome from the chairs
+
+#### 09:10-10:40 (Session 1)
+
+* **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
+     Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
+* **Scripthica: a web environment for collective algorithmic
+  composition.** (demo) <br/> Gabriel Sanchez, New York University.
+
+10:00-10:30: Break
+
+#### 10:30-11:20 (Session 2)
 
 * **Functional Generation of Harmony and Melody.** <br/> José Pedro
   Magalhães, Department of Computer Science, University of Oxford;
   Hendrik Vincent Koops, Department of Information and Computing
   Sciences, Utrecht University.
+* **Using Haskell as DSL for controlling immersive media
+  experiences.** (demo) <br/> Henrik Bäärnhielm, Integral Systems
+  Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
+  Technology; Daniel Sundström, Integral Systems Engineering.
+
+11:20-11:40: Break
+
+#### 11:40-12:30 (Session 3)
+
+* **Music Suite: A Family of Musical Representations.** (demo) <br/> Hans Höglund.
 * **Exploring melody space in a live context using declarative
   functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
-* **Making programming languages to dance to: Live Coding with Tidal.**
-  <br/> Alex McLean, School of Music, University of Leeds.
+
+12:30-14:00 Lunch
+
+#### 14:00-14:50 (Session 4)
+
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
   Computer Laboratory, University of Cambridge; Alan Blackwell,
   Computer Laboratory, University of Cambridge.
+* **Sound and Soundness -- Practical Total Functional Data-Flow
+  Programming.** (demo)<br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
+  Lepper, semantics GmbH.
+
+14:50-15:10 Break
+
+#### 16:10-16:00 (Session 5)
+
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
   University; David Janin, LaBRI, Université de Bordeaux.
-* **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
-     Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
-
-#### Demos
-
 * **littleBits Synth Kit as a livecoded, functional, monadic,
-  physically-embodied, domain specific programming language.** <br/> James
+  physically-embodied, domain specific programming language.** (demo) <br/> James
   Noble, Victoria University of Wellington; Timothy Jones, Victoria
   University of Wellington.
-* **Scripthica: a web environment for collective algorithmic
-  composition.** <br/> Gabriel Sanchez, New York University.
-* **Music Suite: A Family of Musical Representations.** <br/> Hans Höglund.
+
+16:00-16:30 Break
+
+#### 16:30-17:20 (Session 6)
+* **Making programming languages to dance to: Live Coding with Tidal.**
+  <br/> Alex McLean, School of Music, University of Leeds.
 * **Patterning: Repetitive and recursive pattern generation using
-     Clojure and Quil.**  <br/> Phil Jones, Alchemy Islands.
-* **Using Haskell as DSL for controlling immersive media
-  experiences.** <br/> Henrik Bäärnhielm, Integral Systems
-  Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
-  Technology; Daniel Sundström, Integral Systems Engineering.
-* **Sound and Soundness -- Practical Total Functional Data-Flow
-  Programming.** <br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
-  Lepper, semantics GmbH.
+     Clojure and Quil.** (demo)<br/> Phil Jones, Alchemy Islands.
+	 
+17:20-17:30 Closing Words
 
 ### Live Performances
 
