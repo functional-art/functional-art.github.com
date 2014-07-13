@@ -89,7 +89,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 14:50-15:10 Break
 
-#### 16:10-16:00 (Session 5)
+#### 15:10-16:00 (Session 5)
 
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
   University; David Janin, LaBRI, Université de Bordeaux.
