@@ -47,7 +47,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 09:00-09:10: Welcome from the chairs
 
-#### 09:10-10:40 (Session 1)
+#### 09:10-10:00 (Session 1)
 
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
      Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
@@ -71,9 +71,9 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 #### 11:40-12:30 (Session 3)
 
-* **Music Suite: A Family of Musical Representations.** (demo) <br/> Hans Höglund.
 * **Exploring melody space in a live context using declarative
   functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
+* **Music Suite: A Family of Musical Representations.** (demo) <br/> Hans Höglund.
 
 12:30-14:00 Lunch
 
