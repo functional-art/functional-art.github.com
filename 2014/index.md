@@ -47,7 +47,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 09:00-09:10: Welcome from the chairs
 
-#### 09:10-10:00 (Session 1)
+#### 09:10-10:00 (Session 1, Chair: Alex McLean)
 
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
      Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
@@ -56,7 +56,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 10:00-10:30: Break
 
-#### 10:30-11:20 (Session 2)
+#### 10:30-11:20 (Session 2, Chair: David Duke)
 
 * **Functional Generation of Harmony and Melody.** <br/> José Pedro
   Magalhães, Department of Computer Science, University of Oxford;
@@ -69,7 +69,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 11:20-11:40: Break
 
-#### 11:40-12:30 (Session 3)
+#### 11:40-12:30 (Session 3, Chair: Paul Hudak)
 
 * **Exploring melody space in a live context using declarative
   functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
@@ -77,7 +77,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 12:30-14:00 Lunch
 
-#### 14:00-14:50 (Session 4)
+#### 14:00-14:50 (Session 4, Chair: David Janin)
 
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
@@ -89,7 +89,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 14:50-15:10 Break
 
-#### 15:10-16:00 (Session 5)
+#### 15:10-16:00 (Session 5, Chair: Sam Aaron)
 
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
   University; David Janin, LaBRI, Université de Bordeaux.
@@ -100,7 +100,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 16:00-16:30 Break
 
-#### 16:30-17:20 (Session 6)
+#### 16:30-17:20 (Session 6, Chair: Henrik Nilsson)
 * **Making programming languages to dance to: Live Coding with Tidal.**
   <br/> Alex McLean, School of Music, University of Leeds.
 * **Patterning: Repetitive and recursive pattern generation using
