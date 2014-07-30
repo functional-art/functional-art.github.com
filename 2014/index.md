@@ -121,10 +121,10 @@ The evening will feature:
 
 * [Sam Aaron](http://sam.aaron.name/) and [Dominic
   Orchard](http://www.cl.cam.ac.uk/~dao29/) with [Sonic Pi](http://sonic-pi.net/)
-* [LiveCodeLab](http://livecodelab.net/)
+* [Davide della Casa](http://www.davidedc.com/) and [Guy John](http://rumblesan.com/) with [LiveCodeLab](http://livecodelab.net/)
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
-
-Details to be announced soon.
+* **Gabriel Sanchez** exploring the boundaries of stability and chaos by
+  live coding with the Wolfram language + SuperCollider
 
 ### Key Dates
 
