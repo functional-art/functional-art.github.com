@@ -112,7 +112,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 On the evening of September 6 (after the workshop) we will have an
 evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
-with [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
+[Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
 starting at 8PM.
@@ -124,7 +124,7 @@ The evening will feature:
 * [Davide della Casa](http://www.davidedc.com/) and [Guy John](http://rumblesan.com/) with [LiveCodeLab](http://livecodelab.net/)
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
-  live coding with the Wolfram language + SuperCollider
+  live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
 
 ### Key Dates
 
