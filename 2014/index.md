@@ -117,6 +117,8 @@ evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd f
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
 starting at 8PM.
 
+**Admission to the event is free!**
+
 The evening will feature:
 
 * [Sam Aaron](http://sam.aaron.name/) and [Dominic
@@ -125,6 +127,8 @@ The evening will feature:
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
   live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
+
+Details - specifically how to get there - are [here](performance.html).
 
 ### Key Dates
 
