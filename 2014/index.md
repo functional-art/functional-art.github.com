@@ -128,7 +128,10 @@ The evening will feature:
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
   live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
 
-Details - specifically how to get there - are [here](performance.html).
+A group will meet near the registration area at **6:40PM** and then
+take a tram to the venue.
+
+More details - specifically how to get there - are [here](performance.html).
 
 ### Key Dates
 

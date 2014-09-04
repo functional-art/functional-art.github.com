@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FARM 2014
+title: FARM 2014 Live Performances
 active: farm2014
 ---
 
@@ -27,6 +27,9 @@ The evening will feature:
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
   live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
+
+There is also a [performance by workshop chair Alex
+McLean](alex-performance.html) on Friday at 7PM.
 
 ### Getting to the venue
 
@@ -60,4 +63,3 @@ the Korsvägen stop.
 
 The venue is a fairly long walk from the conference venue - about
 1h15.  The address of the venue is "Sockerbruket 9 Göteborg".
-
