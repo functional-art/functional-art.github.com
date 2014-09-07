@@ -47,6 +47,9 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 09:00-09:10: Welcome from the chairs
 
+* Prelude: Video [A Study in Keith](http://vimeo.com/2433947) by
+  Andrew Sorensen
+
 #### 09:10-10:00 (Session 1, Chair: Alex McLean)
 
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
@@ -127,6 +130,12 @@ The evening will feature:
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
   live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
+* [REPL Electric](http://www.repl-electric.com/) ([Joseph
+  Wilk](http://blog.josephwilk.net/)) performing live with
+  [Overtone](https://github.com/overtone/overtone).
+* [Yaxu](http://yaxu.org/) ([Alex
+  McLean](http://music.leeds.ac.uk/people/alex-mclean/)) performing
+  with [Tidal](http://yaxu.org/tidal/).
 
 A group will meet near the registration area at **6:40PM** and then
 take a tram to the venue.

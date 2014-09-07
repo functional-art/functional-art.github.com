@@ -26,7 +26,14 @@ The evening will feature:
 * [Davide della Casa](http://www.davidedc.com/) and [Guy John](http://rumblesan.com/) with [LiveCodeLab](http://livecodelab.net/)
 * [James Noble](http://ecs.victoria.ac.nz/Main/JamesNoble) with *Classic computer science algorithms assembled into algorave*
 * **Gabriel Sanchez** exploring the boundaries of stability and chaos by
-  live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.net/)
+  live coding with the [Wolfram language](http://www.wolfram.com/programming-cloud/) + [SuperCollider](http://supercollider.sourceforge.REPL/)
+* [REPL Electric](http://www.repl-electric.com/) ([Joseph
+  Wilk](http://blog.josephwilk.net/)) performing live with
+  [Overtone](https://github.com/overtone/overtone).
+* [Yaxu](http://yaxu.org/) ([Alex
+  McLean](http://music.leeds.ac.uk/people/alex-mclean/)) performing
+  with [Tidal](http://yaxu.org/tidal/).
+
 
 There is also a [performance by workshop chair Alex
 McLean](alex-performance.html) on Friday at 7PM.
