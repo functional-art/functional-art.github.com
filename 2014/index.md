@@ -53,9 +53,9 @@ greater consistency, tersity, and closer mapping to a problem domain.
 #### 09:10-10:00 (Session 1, Chair: Alex McLean)
 
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
-     Della Casa, LiveCodeLab; Guy John, LiveCodeLab.
+     Della Casa, LiveCodeLab; Guy John, LiveCodeLab. [slides](LiveCodeLab and LiveCodeLang FARM slides.pdf)
 * **Scripthica: a web environment for collective algorithmic
-  composition.** (demo) <br/> Gabriel Sanchez, New York University.
+  composition.** (demo) <br/> Gabriel Sanchez, New York University. [slides](scripthica.pdf)
 
 10:00-10:30: Break
 
@@ -64,19 +64,20 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Functional Generation of Harmony and Melody.** <br/> José Pedro
   Magalhães, Department of Computer Science, University of Oxford;
   Hendrik Vincent Koops, Department of Information and Computing
-  Sciences, Utrecht University.
+  Sciences, Utrecht University. [slides](Functional Generation of Harmony and Melody.pdf)
 * **Using Haskell as DSL for controlling immersive media
   experiences.** (demo) <br/> Henrik Bäärnhielm, Integral Systems
   Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
-  Technology; Daniel Sundström, Integral Systems Engineering.
+  Technology; Daniel Sundström, Integral Systems Engineering. [slides](M-Vejdemo-Johansson-Celestra.pdf)
 
 11:20-11:40: Break
 
 #### 11:40-12:30 (Session 3, Chair: Paul Hudak)
 
 * **Exploring melody space in a live context using declarative
-  functional programming.** <br/> Thomas Kristensen, uSwitch Ltd.
-* **Music Suite: A Family of Musical Representations.** (demo) <br/> Hans Höglund.
+  functional programming.** <br/> Thomas Kristensen, uSwitch Ltd. [slides](ThomasGKristensen.pdf)
+* **Music Suite: A Family of Musical Representations.** (demo) <br/>
+  Hans Höglund. [slides](MusicSuite/FARM2014Slides.html)
 
 12:30-14:00 Lunch
 
@@ -85,7 +86,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
   Computer Laboratory, University of Cambridge; Alan Blackwell,
-  Computer Laboratory, University of Cambridge.
+  Computer Laboratory, University of Cambridge. [slides](sam-aaron-dominic-orchard-FARM-2014.pdf)
 * **Sound and Soundness -- Practical Total Functional Data-Flow
   Programming.** (demo)<br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
   Lepper, semantics GmbH.
@@ -95,11 +96,11 @@ greater consistency, tersity, and closer mapping to a problem domain.
 #### 15:10-16:00 (Session 5, Chair: Sam Aaron)
 
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
-  University; David Janin, LaBRI, Université de Bordeaux.
+  University; David Janin, LaBRI, Université de Bordeaux. [slides](TPTM-FARM.pdf)
 * **littleBits Synth Kit as a livecoded, functional, monadic,
   physically-embodied, domain specific programming language.** (demo) <br/> James
   Noble, Victoria University of Wellington; Timothy Jones, Victoria
-  University of Wellington.
+  University of Wellington. [slides](littleBits.pdf)
 
 16:00-16:30 Break
 
