@@ -11,24 +11,6 @@ active: farm2014
 **September 6, 2014**, co-located with [ICFP
 2014](http://icfpconference.org/icfp2014/) in Gothenburg, Sweden
 
-Receive news via [Twitter](http://twitter.com/WorkshopFARM) or
-[Lanyrd](http://lanyrd.com/2014/farm2014/).
-
-### Registration
-
-*Registration is open!*
-
-You can register via the ICFP 2014 registration
-[here](https://regmaster4.com/2014conf/ICFP14/register.php).
-
-Don't be confused that it says "ICFP" - FARM is part of a larger event
-around [ICFP 2014](http://icfpconference.org/icfp2014/), and you can
-register for FARM without registering for ICFP.
-
-Early registration deadline is <a
-href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2014+early+registration+deadline&amp;iso=20140803T2355&amp;p1=1033">3
-August.</a>
-
 ### About
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
@@ -114,16 +96,14 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 ### Live Performances
 
-On the evening of September 6 (after the workshop) we will have an
+On the evening of September 6 (after the workshop) we had an
 evening of live performances at [3:e Våningen](http://www.3vaningen.se/) (3rd floor), in collaboration with
 [Anders Carlsson aka goto80](http://goto80.com/blog/promo) and
 [Palle
 Dahlstedt](http://www.ait.gu.se/kontaktaoss/personal/palle_dahlstedt/),
 starting at 8PM.
 
-**Admission to the event is free!**
-
-The evening will feature:
+The evening featured:
 
 * [Sam Aaron](http://sam.aaron.name/) and [Dominic
   Orchard](http://www.cl.cam.ac.uk/~dao29/) with [Sonic Pi](http://sonic-pi.net/)
@@ -137,25 +117,6 @@ The evening will feature:
 * [Yaxu](http://yaxu.org/) ([Alex
   McLean](http://music.leeds.ac.uk/people/alex-mclean/)) performing
   with [Tidal](http://yaxu.org/tidal/).
-
-A group will meet near the registration area at **6:40PM** and then
-take a tram to the venue.
-
-More details - specifically how to get there - are [here](performance.html).
-
-### Key Dates
-
-<table>
-<tr>
-<td style="padding-right:10px">Camera Ready</td><td>25 June</td>
-</tr>
-<tr>
-<td style="padding-right:10px">Early Registration Deadline</td><td>3 August</td>
-</tr>
-<tr>
-<td style="padding-right:10px">Workshop</td><td>6 September</td>
-</tr>
-</table>
 
 ### Call for Papers and Demo Proposals
 
