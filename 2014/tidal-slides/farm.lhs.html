@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>farm.lhs</title>
+<meta name="generator" content="emacs 24.3.1; htmlfontify 0.21" />
+<style type="text/css"><!-- 
+body { font-family: Monaco;  font-stretch: normal;  font-weight: 500;  font-style: normal;  color: #000000;  background: #ffffff;  font-size: 12pt;  text-decoration: none; }
+span.default   { font-family: Monaco;  font-stretch: normal;  font-weight: 500;  font-style: normal;  color: #000000;  background: #ffffff;  font-size: 12pt;  text-decoration: none; }
+span.default a { font-family: Monaco;  font-stretch: normal;  font-weight: 500;  font-style: normal;  color: #000000;  background: #ffffff;  font-size: 12pt;  text-decoration: underline; }
+ --></style>
+
+    <script type="text/javascript"><!--
+  // this function is needed to work around
+  // a bug in IE related to element attributes
+  function hasClass(obj)
+  {
+      var result = false;
+      if (obj.getAttributeNode("class") != null)
+      {
+          result = obj.getAttributeNode("class").value;
+      }
+      return result;
+  }
+
+  function stripe(id)
+  {
+      // the flag we'll use to keep track of
+      // whether the current row is odd or even
+      var even = false;
+
+      // if arguments are provided to specify the colors
+      // of the even & odd rows, then use the them;
+      // otherwise use the following defaults:
+      var evenColor = arguments[1] ? arguments[1] : "#fff";
+      var oddColor  = arguments[2] ? arguments[2] : "#ddd";
+
+      // obtain a reference to the desired table
+      // if no such table exists, abort
+      var table = document.getElementById(id);
+      if (! table) { return; }
+
+      // by definition, tables can have more than one tbody
+      // element, so we'll have to get the list of child
+      // &lt;tbody&gt;s
+      var tbodies = table.getElementsByTagName("tbody");
+
+      // and iterate through them...
+      for (var h = 0; h < tbodies.length; h++)
+      {
+          // find all the &lt;tr&gt; elements...
+          var trs = tbodies[h].getElementsByTagName("tr");
+
+          // ... and iterate through them
+          for (var i = 0; i < trs.length; i++)
+          {
+              // avoid rows that have a class attribute
+              // or backgroundColor style
+              if (! hasClass(trs[i]) &&
+                  ! trs[i].style.backgroundColor)
+              {
+                  // get all the cells in this row...
+                  var tds = trs[i].getElementsByTagName("td");
+
+                  // and iterate through them...
+                  for (var j = 0; j < tds.length; j++)
+                  {
+                      var mytd = tds[j];
+
+                      // avoid cells that have a class attribute
+                      // or backgroundColor style
+                      if (! hasClass(mytd) &&
+                          ! mytd.style.backgroundColor)
+                      {
+                          mytd.style.backgroundColor =
+                            even ? evenColor : oddColor;
+                      }
+                  }
+              }
+              // flip from odd to even, or vice-versa
+              even =  ! even;
+          }
+      }
+  }
+
+  function toggle_invis( name )
+  {
+      var filter =
+        { acceptNode:
+          function( node )
+          { var classname = node.id;
+            if( classname )
+            { var classbase = classname.substr( 0, name.length );
+              if( classbase == name ) { return NodeFilter.FILTER_ACCEPT; } }
+            return NodeFilter.FILTER_SKIP; } };
+      var walker = document.createTreeWalker( document.body           ,
+                                              NodeFilter.SHOW_ELEMENT ,
+                                              filter                  ,
+                                              false                   );
+      while( walker.nextNode() )
+      {
+          var e = walker.currentNode;
+          if( e.style.display == "none" ) { e.style.display = "inline"; }
+          else                            { e.style.display = "none";   }
+      }
+  }
+--> </script>
+  </head>
+  <body onload="stripe('index'); return true;">
+
+<pre>%% -*- mode: literate-tidal; mode: iimage; mode: visual-line -*-
+
+[To run examples, install tidal (from http://yaxu.org/tidal/) and
+tidal-vis (from hackage), and evaluate the code at the end.]
+
+Making Programming Languages to Dance to: Live Coding 
+with Tidal
+Alex McLean
+University of Leeds
+
+
+<img src="sonar_800x600.jpg"></img>
+
+Principles 
+
+* Programmer as human
+* Code as artistic expression
+* Against autonomy
+* Connecting with people through code
+
+Live coding
+
+<img src="toplap.png"></img>
+         http://toplap.org/
+
+<img src="livecoding_800x600.jpg"></img>
+
+&quot;Black slate&quot; live coding as a design challenge
+
+* Focused, creative flow, working in environment
+* Just in time
+* Immediate interaction with others through code changes
+* Highly expressive; terse, and with close domain mapping 
+between code
+  and music
+* Ability to change more important than ability to understand
+* Little time for TDD, etc..
+
+<img src="silicone_800x600.jpg"></img>
+
+Live coding and Functional programming
+
+* Overtone
+* LiveCodeLab
+* Fluxus
+* Extempore
+* Conductive
+* Live-Sequencer
+* Tidal
+
+<img src="Tidal_800x600.png"></img>
+
+Vague timeline to Tidal
+
+* 2000 - London - Slub formed with Ade Ward, a lot of Perl scripts, RealBasic and C
+* 2001 - Paradiso - First room dancing to our code (Paradiso, Amsterdam)
+* 2001/2 - Berlin - Transmediale software art award
+* 2004 - Hamburg - First live coding workshop, TOPLAP is born (and then feedback.pl)
+* 2005 - Barcelona - Dave Griffiths joined, first good live coded slub performance (Sonar festival)
+* 2006 - started learning Haskell (during MSc)
+* 2009 - First Tidal-esque pattern language appeared
+* 2012 - London - First ``Algorave''
+* 2012 - Goldsmiths - Completed PhD ``Artist-Programmers and Programming Languages for the Arts''
+* 2013 - Barcelona - Tidal became installable by others
+
+<img src="beam_800x600.jpg"></img>
+
+Tidal: Developed through performance
+
+* 'Fully' improvised
+* Hundreds of diverse performances
+* Mainly with other live coders, percussionists, plus singers, dancers,
+  noise artists, a roots band, a punk banjo player..
+* Broken techno and free Jazz
+
+<img src="slubvivo_800x600.jpg"></img>
+Slub
+
+<img src="sicchio_mclean_800x600.png"></img>
+SC &lt;&gt; BC
+
+<img src="canute_800x600.jpg"></img>
+Canute (+ Shelly Knotts)
+
+<img src="hairofthehorse_800x600.jpg"></img>
+Hair of the horse with Hester Reeve
+
+<img src="corlab2_800x600.jpg"></img>
+Corlab
+
+<img src="algorave_800x600.jpg"></img>
+Algorave
+
+<img src="crowd_800x600.png"></img>
+Algoravers
+
+
+Tidal and Time
+
+<img src="mechanical_drum_800x600.jpg"></img>
+
+Tidal's Pattern Datatype
+
+* Time is Rational
+* Time is cyclic (with a period of 1) 
+* Polyrhythm works fine
+* An Arc is a time range
+* An Event is a value that is active within its own arc
+* A Pattern is a function giving all the events occuring within a given arc
+* May represent both discrete and continuous events
+
+<img src="spiral_800x600.png"></img>
+
+
+<img src="function_small.png"></img>
+
+&gt; type Time = Rational
+&gt; type Arc = (Time, Time)
+&gt; type Event a = (Arc, Arc, a)
+&gt; data Pattern a = Pattern (Arc -&gt; [Event a])
+
+
+Building and combining patterns
+
+Starting with nothing: 
+
+&gt; silence :: Pattern a
+&gt; silence = Pattern $ const []
+
+A 'pure' value, one event every cycle:
+
+&gt; pure x = 
+&gt;   Pattern $ \(s, e) -&gt; 
+&gt;     map (\t -&gt; ((t%1, (t+1)%1), 
+&gt;                 (t%1, (t+1)%1),
+&gt;                  x
+&gt;                 )
+&gt;                )
+&gt;                [floor s .. ((ceiling e) - 1)]
+
+&gt; d1 $ sound (pure &quot;bd&quot;)
+
+Manipulating time
+
+&gt; mapArc :: (Time -&gt; Time) -&gt; Arc -&gt; Arc
+&gt; mapArc f (s,e) = (f s, f e)
+
+&gt; withQueryArc :: (Arc -&gt; Arc) -&gt; Pattern a -&gt; Pattern a
+&gt; withQueryArc f p = Pattern $ \a -&gt; arc p (f a)
+
+&gt; withQueryTime :: (Time -&gt; Time) -&gt; Pattern a -&gt; Pattern a
+&gt; withQueryTime = withQueryArc . mapArc
+
+&gt; withResultArc :: (Arc -&gt; Arc) -&gt; Pattern a -&gt; Pattern a
+&gt; withResultArc f p = Pattern $ \a -&gt; mapArcs f $ arc p a
+
+&gt; withResultTime :: (Time -&gt; Time) -&gt; Pattern a -&gt; Pattern a
+&gt; withResultTime = withResultArc . mapArc
+
+Shifting time
+
+&gt; (&lt;~) :: Time -&gt; Pattern a -&gt; Pattern a
+&gt; (&lt;~) t p = withResultTime (subtract t) $ withQueryTime (+ t) p
+
+&gt; (~&gt;) = (&lt;~) . (0-)
+
+Compressing time
+
+&gt; density :: Time -&gt; Pattern a -&gt; Pattern a
+&gt; density r p = withResultTime (/ r) $ withQueryTime (* r) p
+
+&gt; vis $ density 3 (cat [pure red, pure blue])
+
+&gt; densityGap :: Time -&gt; Pattern a -&gt; Pattern a
+&gt; densityGap r p = splitQueries $ withResultArc (\(s,e) -&gt; (sam s + ((s - sam s)/r), (sam s + ((e - sam s)/r)))) $ Pattern (\a -&gt; arc p $ mapArc (\t -&gt; sam t + (min 1 (r * cyclePos t))) a)
+
+&gt; vis $ density 2 $ densityGap 2 (cat [pure red, pure blue])
+
+&gt; vis $ density 4 $ densityGap 2 (cat [pure red, pure blue])
+
+&gt; compress :: Arc -&gt; Pattern a -&gt; Pattern a
+&gt; compress a@(s,e) p = s ~&gt; densityGap (1/(e-s)) p
+
+&gt; vis $ compress (1%4, 1%2) (cat [pure red, pure blue])
+
+Merging patterns
+
+&gt; overlay :: Pattern a -&gt; Pattern a -&gt; Pattern a
+&gt; overlay p p' = Pattern $ \a -&gt; (arc p a) ++ (arc p' a)
+
+&gt; vis $ overlay (pure red) (pure green)
+
+&gt; stack :: [Pattern a] -&gt; Pattern a
+&gt; stack ps = foldr overlay silence ps
+
+&gt; cat :: [Pattern a] -&gt; Pattern a
+&gt; cat ps = stack $ map (\(n, p) -&gt; 
+&gt;       compress ((fromIntegral n) % (fromIntegral $ length ps), (fromIntegral n+1) % (fromIntegral $ length ps)) p) (zip [0..] ps)
+
+&gt; vis $ cat [pure red, pure blue]
+
+&gt; vis $ cat [&quot;red blue&quot;, &quot;green orange purple&quot;]
+
+Polyrhythmic DSL - Parsing strings
+
+&gt; vis $ density 4 $ p &quot;red [blue, green purple] orange&quot;
+
+&gt; vis $ p &quot;[blue, ~ [green [yellow tomato]], orange]*16&quot;
+
+Overloading strings saves a couple of characters
+
+&gt; vis $ &quot;[blue, ~ [green yellow], orange]*16&quot;
+
+Different brackets for different kinds of polyrhythm:
+
+&gt; vis $ density 6 $ &quot;[red black, blue orange green]&quot;
+
+&gt; vis $ density 6 $ &quot;{red black, blue orange green}&quot;
+
+&gt; vis $ &quot;white*128?&quot;
+
+&gt; vis $ &quot;[[black white]*32, [[yellow ~ pink]*3 purple]*5, [white black]*16]]*16&quot;
+
+Pattern as a functor
+
+&gt; vis $ fmap (blend 0.5 red) &quot;blue black&quot;
+
+&gt; vis $ blend 0.5 
+&gt;   &lt;$&gt; &quot;[blue orange, yellow grey]*16&quot; 
+&gt;   &lt;*&gt; &quot;white blue black red&quot;
+
+TRANSFORMATIONS
+
+Reversal
+
+How to reverse an infinite pattern?
+
+&gt; vis $ density 16 $ every 3 rev &quot;blue grey orange&quot;
+
+every
+
+&gt; vis $ density 16 $ every 3 rev &quot;blue grey orange&quot;
+
+&gt; vis $ density 4 $ every 4 ((1/3) &lt;~) &quot;blue grey purple&quot;
+
+&gt; grid $ every 4 ((1/3) &lt;~) &quot;blue grey purple&quot;
+
+whenmod
+
+&gt; vis $ density 16 $ whenmod 6 3 rev &quot;blue grey orange&quot;
+
+iter
+
+&gt; vis $ density 4 $ iter 4 $ &quot;blue green purple orange&quot;
+
+superimpose
+
+&gt; vis $ density 4 $ superimpose (iter 4) $ &quot;blue green purple orange&quot;
+
+Combining transformations
+
+&gt; vis $ density 8 $ whenmod 8 4 (slow 4) $ every 2 ((1/2) &lt;~) $
+&gt;   every 3 (density 4) $ iter 4 &quot;grey darkgrey green black&quot;
+
+Dirt
+
+&gt; d1 $ jux (iter 4) $ sound &quot;bd sn:2&quot;
+&gt;    |+| (slow 3 $ speed &quot;1 2&quot;)
+
+&gt; d1 $ (jux (|+| speed &quot;2&quot;) $ every 3 rev $ slow 8 $ striate 128 $ sound &quot;bev&quot;)
+  |+| vowel &quot;a e i o&quot;
+
+&gt; d1 $ every 3 (density 2) $ every 4 (density 2) $ (slow 2 $ spread' (chop) (every 3 rev &quot;8 16 32 64&quot;) $ sound &quot;[bass3 [~ bass3:8*2]]&quot;)
+&gt;   |+| speed &quot;[4 2]/5&quot;
+
+&gt; d4 $ slowspread ($) [id, rev, iter 4, density 2, (|+| speed &quot;4&quot;)] $ sound (pick &lt;$&gt; &quot;bd*2 lighter*4&quot; &lt;*&gt; (slow 3 $ run 12))
+  |+| vowel &quot;a e i o u&quot;
+
+&gt; d3 $ every 4 (within (0, 0.25) (density 4)) $  every 3 (0.25 &lt;~) $ jux (iter 4) $ slow 4 $ chop 16 $ sound &quot;shackup&quot;
+
+&gt; d1 $ every 3 rev $ slow 2 $ every 2 (density 2) $ sound (samples &quot;amencutup*4 sd8*4&quot; (slow 1.5 $ run 12))
+&gt;         |+| shape &quot;0.4&quot;
+&gt;         |+| speed (scale 1 2 (slow 8 sine1) )
+
+&gt; d2 $ rev $ every 2 (inside 2 rev) $ chop 8 $ sound &quot;breaks165&quot;
+
+&gt; d5 $ slow 3 $ stack [(stut 8 0.9 1.5 $ sound &quot;latibro:4 [[latibro:2*2 latibro:0*2] latibro:5*4]/8&quot;) |+| cutoff &quot;[0.02 0.02 0.03 0.02 0.04 0.02 0.06 0.03]/8&quot; |+| resonance &quot;[0.7 0.4]/2&quot; |+| gain &quot;1.2&quot; |+| pan &quot;0.7&quot;
+&gt;             ,(density 1.5 $ stut 8 0.9 1.5 $ sound &quot;latibro:4 [[latibro:2*2 latibro:0*2] latibro:5*4]/8&quot;)
+&gt;             |+| cutoff (0.25 &lt;~ &quot;[0.02 0.025 0.03 0.03 0.04 0.03 0.06 0.03]/8&quot;) |+| resonance &quot;[0.7 0.4]/2&quot; |+| gain &quot;1.2&quot; |+| pan &quot;0.3&quot;
+&gt;            ]
+
+&gt; d7 $ slow 4 $ jux (|+| speed &quot;8.08&quot;) $ spread' (stut 4 0.95) &quot;[1/8 1/8 1/8 1/8, 1/3 5 3 2]/4&quot; $ sound &quot;~ [tok tok:1 tok:2 tok:3]&quot; |+| speed &quot;8&quot;
+
+&gt; d1 $ slow 4 $ spread ($) [id, trunc (1/4), (0.25 &lt;~), (|+| begin &quot;0&quot;) . (|+| end &quot;1&quot;) . chop 4] $ every 2 (0.25 ~&gt;) $ jux (|+| speed &quot;1.64 ! ! 4&quot;) $ sound &quot;[bass3:6 ~ ~ bass3:6] [~ bass3:6]&quot; |+| speed ((*1) &lt;$&gt; &quot;[1.66 ! ! 4.02]&quot;)
+
+&gt; d1 $ slow 2 $ jux ((stut 2 0.5 3) . (|+| speed &quot;1&quot;)) $ slow 4 $ striate 32 $ sound &quot;mef*2&quot;
+         |+| speed &quot;2&quot;
+
+&gt; d1 $ jux (iter 4) $ every 4 (0.5 &lt;~) $ every 3 (0.25 &lt;~) $ chop 8 $ sound &quot;rave:6 rave:7?&quot;
+         |+| shape &quot;0.3&quot;
+
+
+
+THANKS FOR LISTENING
+
+Grab it here:
+ http://yaxu.org/tidal/
+
+
+
+
+
+
+
+
+
+
+import Sound.Tidal.Vis
+import qualified Graphics.Rendering.Cairo as C 
+import Data.Colour
+import Data.Colour.Names
+import Data.Colour.SRGB
+import System.Cmd
+
+let vis pat = do vLines (C.withSVGSurface) &quot;vis.svg&quot; (400,100) pat 1 1
+                 rawSystem &quot;/home/alex/Dropbox/bin/fixsvg.pl&quot; [&quot;vis.svg&quot;]
+                 rawSystem &quot;convert&quot; [&quot;vis.svg&quot;, &quot;vis.pdf&quot;]
+                 return ()
+    grid pat = do vLines (C.withSVGSurface) &quot;vis.svg&quot; (400,400) pat 10 10
+                  rawSystem &quot;/home/alex/Dropbox/bin/fixsvg.pl&quot; [&quot;vis.svg&quot;]
+                  rawSystem &quot;convert&quot; [&quot;vis.svg&quot;, &quot;vis.pdf&quot;]
+                  return ()
+
+
+
+</pre>
+
+ </body>
+</html>
