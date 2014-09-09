@@ -88,7 +88,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 #### 16:30-17:20 (Session 6, Chair: Henrik Nilsson)
 * **Making programming languages to dance to: Live Coding with Tidal.**
-  <br/> Alex McLean, School of Music, University of Leeds.
+  <br/> Alex McLean, School of Music, University of Leeds. [slides](tidal-slides.pdf)
 * **Patterning: Repetitive and recursive pattern generation using
      Clojure and Quil.** (demo)<br/> Phil Jones, Alchemy Islands.
 	 
