@@ -71,7 +71,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Computer Laboratory, University of Cambridge. [slides](sam-aaron-dominic-orchard-FARM-2014.pdf)
 * **Sound and Soundness -- Practical Total Functional Data-Flow
   Programming.** (demo)<br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
-  Lepper, semantics GmbH.
+  Lepper, semantics GmbH. [slides](TranconLepper2014FARM.pdf)
 
 14:50-15:10 Break
 
