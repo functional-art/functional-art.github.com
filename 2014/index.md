@@ -25,6 +25,11 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
+### Videos
+
+HD videos are available in the [FARM 2014 YouTube
+channel](https://www.youtube.com/channel/UCf7H_pjnsMB3FQyf_mUXBAA).
+
 ### Program and Schedule
 
 09:00-09:10: Welcome from the chairs
@@ -35,9 +40,12 @@ greater consistency, tersity, and closer mapping to a problem domain.
 #### 09:10-10:00 (Session 1, Chair: Alex McLean)
 
 * **LiveCodeLab 2.0 and its language LiveCodeLang.** <br/> Davide
-     Della Casa, LiveCodeLab; Guy John, LiveCodeLab. [slides](LiveCodeLab and LiveCodeLang FARM slides.pdf)
+     Della Casa, LiveCodeLab; Guy John,
+     LiveCodeLab. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633650&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](LiveCodeLab and LiveCodeLang FARM
+     slides.pdf) [video](https://www.youtube.com/watch?v=fDXNoQs15CM)
 * **Scripthica: a web environment for collective algorithmic
-  composition.** (demo) <br/> Gabriel Sanchez, New York University. [slides](scripthica.pdf)
+  composition.** (demo) <br/> Gabriel Sanchez, New York
+  University. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633640&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](scripthica.pdf) [video](https://www.youtube.com/watch?v=JQzvofku6Y4)
 
 10:00-10:30: Break
 
@@ -46,20 +54,25 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Functional Generation of Harmony and Melody.** <br/> José Pedro
   Magalhães, Department of Computer Science, University of Oxford;
   Hendrik Vincent Koops, Department of Information and Computing
-  Sciences, Utrecht University. [slides](Functional Generation of Harmony and Melody.pdf)
+  Sciences, Utrecht
+  University. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633645&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](Functional Generation of
+  Harmony and Melody.pdf) [video](https://www.youtube.com/watch?v=F6jOcR0izqs)
 * **Using Haskell as DSL for controlling immersive media
   experiences.** (demo) <br/> Henrik Bäärnhielm, Integral Systems
   Engineering; Mikael Vejdemo-Johansson, KTH Royal Institute of
-  Technology; Daniel Sundström, Integral Systems Engineering. [slides](M-Vejdemo-Johansson-Celestra.pdf)
+  Technology; Daniel Sundström, Integral Systems
+  Engineering. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633643&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](M-Vejdemo-Johansson-Celestra.pdf) [video](https://www.youtube.com/watch?v=gE6i39Dz9-w)
 
 11:20-11:40: Break
 
 #### 11:40-12:30 (Session 3, Chair: Paul Hudak)
 
 * **Exploring melody space in a live context using declarative
-  functional programming.** <br/> Thomas Kristensen, uSwitch Ltd. [slides](ThomasGKristensen.pdf)
+  functional programming.** <br/> Thomas Kristensen, uSwitch
+  Ltd. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633646&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](ThomasGKristensen.pdf) [video](https://www.youtube.com/watch?v=Y12tGSrJjc4)
 * **Music Suite: A Family of Musical Representations.** (demo) <br/>
-  Hans Höglund. [slides](MusicSuite/FARM2014Slides.html)
+  Hans
+  Höglund. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633641&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](MusicSuite/FARM2014Slides.html) [video](https://www.youtube.com/watch?v=Cr2wdBuJU-8)
 
 12:30-14:00 Lunch
 
@@ -68,29 +81,34 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Temporal semantics for a live coding language.** <br/> Sam Aaron,
   Computer Laboratory, University of Cambridge; Dominic Orchard,
   Computer Laboratory, University of Cambridge; Alan Blackwell,
-  Computer Laboratory, University of Cambridge. [slides](sam-aaron-dominic-orchard-FARM-2014.pdf)
+  Computer Laboratory, University of
+  Cambridge. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633648&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](sam-aaron-dominic-orchard-FARM-2014.pdf) [video](https://www.youtube.com/watch?v=E8jCR0LYQyY)
 * **Sound and Soundness -- Practical Total Functional Data-Flow
   Programming.** (demo)<br/> Baltasar Trancón Y Widemann, TU Ilmenau; Markus
-  Lepper, semantics GmbH. [slides](TranconLepper2014FARM.pdf)
+  Lepper, semantics GmbH. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633644&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](TranconLepper2014FARM.pdf) [video](https://www.youtube.com/watch?v=lg1fye0e1Tw)
 
 14:50-15:10 Break
 
 #### 15:10-16:00 (Session 5, Chair: Sam Aaron)
 
 * **Tiled Polymorphic Temporal Media.** <br/> Paul Hudak, Yale
-  University; David Janin, LaBRI, Université de Bordeaux. [slides](TPTM-FARM.pdf)
+  University; David Janin, LaBRI, Université de
+  Bordeaux. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633649&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](TPTM-FARM.pdf) [video](https://www.youtube.com/watch?v=2crt-8zZ3ec)
 * **littleBits Synth Kit as a livecoded, functional, monadic,
   physically-embodied, domain specific programming language.** (demo) <br/> James
   Noble, Victoria University of Wellington; Timothy Jones, Victoria
-  University of Wellington. [slides](littleBits.pdf)
+  University of
+  Wellington. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633639&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](littleBits.pdf) [video](https://www.youtube.com/watch?v=Gb4hwQ5KafI)
 
 16:00-16:30 Break
 
 #### 16:30-17:20 (Session 6, Chair: Henrik Nilsson)
 * **Making programming languages to dance to: Live Coding with Tidal.**
-  <br/> Alex McLean, School of Music, University of Leeds. [slides](tidal-slides/farm.lhs.html)
+  <br/> Alex McLean, School of Music, University of
+  Leeds. [paper](http://dl.acm.org/citation.cfm?id=2633638.2633647&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [slides](tidal-slides/farm.lhs.html) [video](https://www.youtube.com/watch?v=VDLUmyx_Vxg)
 * **Patterning: Repetitive and recursive pattern generation using
-     Clojure and Quil.** (demo)<br/> Phil Jones, Alchemy Islands.
+     Clojure and Quil.** (demo)<br/> Phil Jones, Alchemy
+     Islands. [abstract](http://dl.acm.org/citation.cfm?id=2633638.2633642&coll=DL&dl=GUIDE&CFID=431100116&CFTOKEN=10660488) [video](https://www.youtube.com/watch?v=_GJuf188J0Q)
 	 
 17:20-17:30 Closing Words
 
