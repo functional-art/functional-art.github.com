@@ -13,3 +13,4 @@ Current members are:
 * [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/)
 * [Alex McLean](http://music.leeds.ac.uk/people/alex-mclean/)
 * [Mike Sperber](http://www.deinprogramm.de/sperber/)
+* [Brent Yorgey](http://www.cis.upenn.edu/~byorgey/)
