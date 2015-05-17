@@ -62,11 +62,9 @@ please contact the organisers at:
 ### Key Dates:
 
 
-
 <table>
 <tr>
-<td style="padding-right:10px">Submission deadline </td>
-<td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2015+paper+abstracts+due&amp;iso=20150517T2355&amp;p1=1033">17 May</a></td>
+<td style="padding-right:10px">Submission deadline (<span style="color:red">NEW!</span>)</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2015+paper+abstracts+due&amp;iso=20150527T2355&amp;p1=1033">27 May</a></td>
 </tr>
 
 <tr>
