@@ -67,7 +67,7 @@ Quick, Mark Santolucito and Daniel Winograd-Cort
 14:50 - 15:10 Break
 
 #### 15:10 - 16:00 Session 4: D. Janin & H. Nilsson (Chairs) 
-  **Discussion: functional programing in arts?** 
+*  **Discussion: functional programing in arts?** 
 
 16:00 - 16:30 Tea and Coffee Break
 
@@ -79,11 +79,11 @@ organized downtown. Please send performance proposals to
 
 *REGISTRATION IS OPEN:*
 
-   https://regmaster4.com/2015conf/ICFP15/register.php
+   [https://regmaster4.com/2015conf/ICFP15/register.php](https://regmaster4.com/2015conf/ICFP15/register.php)
 
 Local arrangements (including travel and accommodation):
 
-   http://www.icfpconference.org/icfp2015/local.html
+   [http://www.icfpconference.org/icfp2015/local.html](http://www.icfpconference.org/icfp2015/local.html)
 
 Hoping to see you in the FARM@Vancouver!
 
