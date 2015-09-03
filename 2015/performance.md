@@ -26,7 +26,7 @@ and others.
 
 There will be drinks, but no food.
 
-If you're coming, *we request you check our Doodle* so we can adjust
+If you're coming, *we request you sign up on our Doodle* so we can adjust
 room size and drinks:
 
 [Click if you're coming!](http://doodle.com/poll/x867iniybmkue2st)
