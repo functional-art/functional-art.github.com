@@ -73,9 +73,18 @@ Quick, Mark Santolucito and Daniel Winograd-Cort
 
 ### 16:30 - 16:40 Farewell & Closing
 
-The workshop day could be followed by a FARM open stage evening
-organized downtown. Please send performance proposals to
-<a href="mailto:farm-2015@easychair.org">farm-2015@easychair.org</a>
+### 20:30 Live Performances
+
+We will have an evening of [live performances](performance.html) in Room *Regency E* of
+the [Hyatt Regency](http://vancouver.hyatt.com/en/hotel/home.html)
+(the same room FARM is in) starting at 8:30PM.
+
+**Admission to the event is free!**
+
+If you're coming, *we request you check our Doodle* so we can adjust
+room size and drinks:
+
+[Click if you're coming!](http://doodle.com/poll/x867iniybmkue2st#admin)
 
 *REGISTRATION IS OPEN:*
 
