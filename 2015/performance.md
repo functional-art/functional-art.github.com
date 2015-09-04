@@ -19,10 +19,8 @@ FARM is in) starting at 8:30PM.
 
 The evening will feature:
 
-* [REPL Electric](http://www.repl-electric.com/) ([Joseph
-  Wilk](http://blog.josephwilk.net/))
+* [griotspeak](http://www.mod-12.com/) (T.J. Usiyan)
 
-and others.
 
 There will be drinks, but no food.
 
