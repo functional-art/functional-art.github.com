@@ -19,7 +19,7 @@ FARM is in) starting at 8:30PM.
 
 The evening will feature:
 
-* [griotspeak](http://www.mod-12.com/) (T.J. Usiyan)
+* [griotspeak](http://www.mod-12.com/) (TJ Usiyan)
 
 
 There will be drinks, but no food.
