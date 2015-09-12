@@ -90,19 +90,6 @@ the [Hyatt Regency](http://vancouver.hyatt.com/en/hotel/home.html)
 
 **Admission to the event is free!**
 
-If you're coming, *we request you check our Doodle* so we can adjust
-room size and drinks:
-
-[Click if you're coming!](http://doodle.com/poll/x867iniybmkue2st#admin)
-
-*REGISTRATION IS OPEN:*
-
-   [https://regmaster4.com/2015conf/ICFP15/register.php](https://regmaster4.com/2015conf/ICFP15/register.php)
-
-Local arrangements (including travel and accommodation):
-
-   [http://www.icfpconference.org/icfp2015/local.html](http://www.icfpconference.org/icfp2015/local.html)
-
 Hoping to see you in the FARM@Vancouver!
 
 Henrik Nilsson & David Janin
