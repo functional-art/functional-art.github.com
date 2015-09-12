@@ -36,15 +36,20 @@ three research papers and three demos.
 
 #### 9:10 - 10:00 Session 1: D. Janin (Chair)
 * **Invited Keynote: Mathematics, Textiles, and Programming: Scripted Scarves**<br/>
-     Fabienne Serrière		
+     Fabienne Serrière
+     [paper](http://dl.acm.org/citation.cfm?id=2808083.2814202&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822) [slides (odp)](slides/mathematicstextilesfinal.odp) [video](https://www.youtube.com/watch?v=kZPGqd2OnQA)
 
 10:00 - 10:30 Tea and Coffee Break
 
 #### 10:30 - 11:20 Session 2: H. Nilsson (Chair)
 * **Real-Time Interactive Music in Haskell**<br/> Paul Hudak, Donya
 Quick, Mark Santolucito and Daniel Winograd-Cort
+[paper](http://dl.acm.org/citation.cfm?id=2808087) [slides
+(pdf)](slides/santolucito-farm2015-slides.pdf) [video](http://dl.acm.org/citation.cfm?id=2808083.2814202&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822)
 * **An efficient implementation of Tiled Polymorphic Temporal
-  Media**<br/> Simon Archipoff
+  Media**<br/> Simon Archipoff [paper](An efficient implementation of
+  Tiled Polymorphic Temporal) [slides
+  (pdf)](slides/simon_archipoff_slides.pdf) [video](https://www.youtube.com/watch?v=B4ytb9Gc4oY)
 
 11:20 - 11:40 Break
 
@@ -52,8 +57,10 @@ Quick, Mark Santolucito and Daniel Winograd-Cort
 
 *  **Repl Electric Performance: End of Buffer**<br/>
    Joseph Wilk
+   [paper](http://dl.acm.org/citation.cfm?id=2808083.2808084&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822) [video](https://www.youtube.com/watch?v=znpsrrh1J2Q)
 *  **Diagrams — A Functional EDSL for Vector Graphics**<br/>
     Ryan Yates and Brent Yorgey
+    [paper](http://dl.acm.org/citation.cfm?id=2808083.2808085&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822) [slides (pdf)](slides/diagrams-FARM-15.pdf) [video](https://www.youtube.com/watch?v=oAz8AEf7WDA)
 
 12:30 - 14:00 Lunch
 
@@ -61,8 +68,10 @@ Quick, Mark Santolucito and Daniel Winograd-Cort
 
 * **The Shepard Tone and Higher-Order Multi-Rate Synchronous Data-Flow Programming in Sig**<br/>
     Baltasar Trancon Y Widemann and Markus Lepper
+    [paper](http://dl.acm.org/citation.cfm?id=2808083.2808086&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822) [slides (pdf)](slides/trancon-farm2015-slides.pdf) [video](https://www.youtube.com/watch?v=2ecBWJT0J54)
 * **Moodler: A digital modular synthesiser with an analogue user interface**<br/>
     Dan Piponi
+    [paper](http://dl.acm.org/citation.cfm?id=2808083.2808088&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822) [slides (pdf)](slides/Moodler.pdf) [video](https://www.youtube.com/watch?v=E3TwfIq-SGg)
 		
 14:50 - 15:10 Break
 
