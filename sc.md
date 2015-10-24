@@ -9,8 +9,8 @@ workshop.
 
 Current members are:
 
-* [Paul Hudak](http://haskell.cs.yale.edu/people/paul-hudak/) (chair)
-* [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/)
+* [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/) (Chair)
 * [Alex McLean](http://music.leeds.ac.uk/people/alex-mclean/)
 * [Mike Sperber](http://www.deinprogramm.de/sperber/)
 * [Brent Yorgey](http://www.cis.upenn.edu/~byorgey/)
+* [David Janin](http://www.labri.fr/perso/janin/)
