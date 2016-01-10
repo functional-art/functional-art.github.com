@@ -65,12 +65,15 @@ please contact the organisers at:
 
 <table>
 <tr>
-<td style="padding-right:10px">Submission deadline (<span style="color:red">NEW!</span>)</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+paper+abstracts+due&amp;iso=20160527T2355&amp;p1=1033">FIXME</a></td>
+<td style="padding-right:10px">Submission deadline (<span
+style="color:red">NEW!</span>)</td><td><a
+href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submission+Deadline&iso=20160615T235959&p1=%3A">June
+15</a></td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Author Notification</td>
-<td>FIXME</td>
+<td>15 July</td>
 </tr>
 
 <tr>
