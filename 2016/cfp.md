@@ -1,13 +1,13 @@
 ---
 layout: default
-title: FARM 2015 Call for Papers & Demos
+title: FARM 2016 Call for Papers & Demos
 --- 
 
-## 3rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
+## 4rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
 # Call for Papers and Demos
 
-### Vancouver, British Columbia, Canada, 5 September, 2015
+### Nara, Japan, X September, 2016
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
 Modelling and Design (FARM) gathers together people who are harnessing
@@ -27,7 +27,7 @@ textiles, visual art, music, 3D sculpture, animation, GUIs, video games,
 VLSI layouts, GPU configurations, or mechanical engineering designs. The
 language used need not be purely functional ("mostly functional" is
 fine), and may be manifested as a domain specific language or
-tool. Theoretical foundations, language design, implementation issues,
+tool.  Theoretical foundations, language design, implementation issues,
 and applications in industry or the arts are all within the scope of the
 workshop.
 
@@ -35,7 +35,7 @@ workshop.
 
 #### Full papers 
 
-5 to 12 pages using the ACM SIGPLAN template. FARM 2015 is an
+5 to 12 pages using the ACM SIGPLAN template. FARM 2016 is an
 interdisciplinary conference, so a wide range of approaches are
 encouraged and we recognize that the appropriate length of a paper may
 vary considerably depending on the approach. However, all submissions
@@ -56,7 +56,7 @@ If you have any questions about what type of contributions that might be
 suitable, or anything else regarding submission or the workshop itself,
 please contact the organisers at:
 
-[`farm-2015@easychair.org`](mailto:farm-2015@easychair.org)
+[`farm-2016@easychair.org`](mailto:farm-2016@easychair.org)
 
 
 ### Key Dates:
@@ -64,22 +64,22 @@ please contact the organisers at:
 
 <table>
 <tr>
-<td style="padding-right:10px">Submission deadline (<span style="color:red">NEW!</span>)</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2015+paper+abstracts+due&amp;iso=20150527T2355&amp;p1=1033">27 May</a></td>
+<td style="padding-right:10px">Submission deadline (<span style="color:red">NEW!</span>)</td><td><a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+paper+abstracts+due&amp;iso=20160527T2355&amp;p1=1033">FIXME</a></td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Author Notification</td>
-<td>26 June</td>
+<td>FIXME</td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Camera Ready</td>
-<td>19 July</td>
+<td>FIXME</td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Workshop</td>
-<td>5 September</td>
+<td>FIXME</td>
 </tr>
 
 </table>
@@ -91,7 +91,7 @@ format (PDF), using the ACM SIGPLAN style guidelines. The
 text should be in a 9-point font in two columns. The
 submission itself will be via EasyChair:
 
-<a class="btn btn-lg btn-success" href="https://easychair.org/conferences/?conf=farm2015" role="button">Submit via EasyChair</a>
+<a class="btn btn-lg btn-success" href="https://easychair.org/conferences/?conf=farm2016" role="button">Submit via EasyChair</a>
 
 
 ### Publication
@@ -104,30 +104,23 @@ material for publication along with their paper (source code, data,
 videos, images, etc.); authors retain all rights to the auxiliary
 material.
 
-
-
 ### Workshop Organisation
 
-**Workshop Chair**: [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/), University of Nottingham
+**Workshop Chair**: [David Janin](http://www.labri.fr/perso/janin/), University of Bordeaux
 
-**Program Chair**: [David Janin](http://www.labri.fr/perso/janin/), University of Bordeaux
+**Program Chair**: [Mike Sperber](http://deinprogramm.de/sperber/),
+  Active Group GmbH
 
-**Publicity Chair**: [Samuel Aaron](http://sam.aaron.name), University of Cambridge
+**Publicity Chair**: FIXME
+
+**Performance Chair**: [Renick Bell](http://www.renickbell.net/)
 
 Program Committee:
 
-* [Samuel Aaron](http://sam.aaron.name), University of Cambridge
-* [Jean Bresson](http://repmus.ircam.fr/bresson), IRCAM Paris
-* [David Broman](http://www.eecs.berkeley.edu/~broman/), KTH and UC Berkeley
-* [Paul Hudak](http://www.cs.yale.edu/people/hudak.html), Yale University
-* [David Janin](http://www.labri.fr/perso/janin/), University of Bordeaux
-* [Anton Kholomiov](https://github.com/anton-k), Orffeus instrumental ensemble Moscow
-* [Alex Mclean](http://music.leeds.ac.uk/people/alex-mclean/), University of Leeds
-* [Carin Meier](http://gigasquidsoftware.com/), Outpace Systems
-* [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/), University of Nottingham
-* [Yann Orlarey](http://www.grame.fr/qui-sommes-nous/compositeurs-associes/yann-orlarey), GRAME Lyon
-* [Donya Quick](http://donyaquick.com), Yale University
-* [Shigeki Sagayama](http://hil.t.u-tokyo.ac.jp/~sagayama/index-e.html), Meiji University
-* [Chung-chieh Shan](http://www.soic.indiana.edu/all-people/profile.html?profile_id=295), Indiana University
-* [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group GmbH
-* [Bodil Stokke](http://bodil.org), FutureAdLabs
+* [Renick Bell](http://www.renickbell.net/) (performance chair)
+* [David Janin](http://www.labri.fr/perso/janin/), University of
+  Bordeaux (co-chair)
+* [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
+GmbH (co-chair)
+
+
