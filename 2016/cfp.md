@@ -29,11 +29,12 @@ language used need not be purely functional ("mostly functional" is
 fine), and may be manifested as a domain specific language or
 tool.  Theoretical foundations, language design, implementation issues,
 and applications in industry or the arts are all within the scope of the
-workshop.
+workshop.  Moreover, submissions focussing on questions or issues
+about the use of functional programming are within the scope
 
 **Submissions are invited in two categories:**
 
-#### Full papers 
+#### Research papers 
 
 5 to 12 pages using the ACM SIGPLAN template. FARM 2016 is an
 interdisciplinary conference, so a wide range of approaches are
@@ -42,8 +43,9 @@ vary considerably depending on the approach. However, all submissions
 must propose an original contribution to the FARM theme, cite relevant
 previous work, and apply appropriate research methods.
 
+#### SOMETHING ELSE: FIXME
 
-#### Demo abstracts
+#### Demos
 
 Demo abstracts should describe the demonstration and its context,
 connecting it with the themes of FARM. A demo could be in the form of a
@@ -57,7 +59,6 @@ suitable, or anything else regarding submission or the workshop itself,
 please contact the organisers at:
 
 [`farm-2016@easychair.org`](mailto:farm-2016@easychair.org)
-
 
 ### Key Dates:
 
