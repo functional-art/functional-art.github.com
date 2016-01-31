@@ -1,13 +1,14 @@
 ---
 layout: default
 title: FARM 2016 Call for Papers & Demos
+active: farm2016
 --- 
 
 ## 4rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
 # Call for Papers and Demos
 
-### Nara, Japan, X September, 2016
+### Nara, Japan, 24 September, 2016
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
 Modelling and Design (FARM) gathers together people who are harnessing
