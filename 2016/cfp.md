@@ -120,12 +120,22 @@ material.
 
 **Performance Chair**: [Renick Bell](http://www.renickbell.net/)
 
-Program Committee:
+#### Program Committee:
 
 * [Renick Bell](http://www.renickbell.net/) (performance chair)
+* [Rebecca Fiebrink](http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html),
+ Goldsmiths University of London
 * [David Janin](http://www.labri.fr/perso/janin/), University of
   Bordeaux (co-chair)
+* [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
+  and Chordify
+* [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
+* [Dan Piponi](https://plus.google.com/+DanPiponi), Google
+* [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde/), University of Waterloo
+* [Mark Sontolucito](http://marksantolucito.com/), Yale (publicity chair)
 * [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
 GmbH (co-chair)
+* [John Stell](http://www.comp.leeds.ac.uk/jgs/), University of Leeds
+
 
 
