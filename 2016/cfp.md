@@ -133,7 +133,8 @@ material.
 * [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
 * [Dan Piponi](https://plus.google.com/+DanPiponi), Google
 * [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde/), University of Waterloo
-* [Mark Sontolucito](http://marksantolucito.com/), Yale (publicity chair)
+* [Mark Santolucito](http://marksantolucito.com/), Yale (publicity chair)
+* [Fabienne Serrière](http://fabienne.us/), KnitYak  
 * [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
 GmbH (co-chair)
 * [John Stell](http://www.comp.leeds.ac.uk/jgs/), University of Leeds
