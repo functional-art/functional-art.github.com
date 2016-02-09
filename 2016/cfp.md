@@ -33,36 +33,76 @@ and applications in industry or the arts are all within the scope of the
 workshop.  Moreover, submissions focussing on questions or issues
 about the use of functional programming are within the scope
 
-**Submissions are invited in two categories:**
+## Submissions
 
-#### Research papers 
+Submissions are invited in several categories:
 
-5 to 12 pages using the ACM SIGPLAN template. FARM 2016 is an
-interdisciplinary conference, so a wide range of approaches are
-encouraged and we recognize that the appropriate length of a paper may
-vary considerably depending on the approach. However, all submissions
-must propose an original contribution to the FARM theme, cite relevant
-previous work, and apply appropriate research methods.
+#### Original papers 
 
-#### SOMETHING ELSE: FIXME
+We solicit original papers in the following categories:
 
-#### Demos
+* original research
+* overview / state of the art
+* technology tutorial
+
+All submissions must propose an original contribution to the FARM
+theme.  FARM 2016 is an interdisciplinary conference, so a wide range
+of approaches are encouraged.
+
+An original paper should have 5 to 12 pages, be in portable
+document format (PDF), using the ACM SIGPLAN style guidelines and
+use the [ACM SIGPLAN template](http://www.sigplan.org/Resources/Author/).
+
+Accepted papers will be published in the ACM Digital Library as part
+of the FARM 2016 proceedings.  See
+[http://authors.acm.org/main.cfm](this page) for information on the
+options available to authors. Authors are encouraged to submit
+auxiliary material for publication along with their paper (source
+code, data, videos, images, etc.); authors retain all rights to the
+auxiliary material.
+
+#### Demo proposals
 
 Demo abstracts should describe the demonstration and its context,
 connecting it with the themes of FARM. A demo could be in the form of a
 short (10-20 minute) tutorial, presentation of work-in-progress, an
-exhibition of some work, or even a performance. Abstracts should be no
-longer than 2 pages, using the ACM SIGPLAN template and will be subject
-to a light-touch peer review.
+exhibition of some work, or even a performance.  Demo proposals should
+be in plain text, HTML or Markdown format, and not exceed 2000 words.
+
+Demo proposals will be published on the FARM website.
+
+#### Calls for help
+
+Calls for help should describe a need for technology or expertise
+related to the FARM theme.  Examples may include but are not
+restricted to:
+
+* art projects in need of realization
+* existing software or hardware that may benefit from functional
+  programming
+* unfinished projects in need of inspiration
+
+Calls for help should be in plain text, HTML or Markdown format, and
+not exceed 5000 words.
+
+Calls for help will be published on the FARM website.
+
+#### Submission is via EasyChair:
+
+<a class="btn btn-lg btn-success" href="https://easychair.org/conferences/?conf=farm2016" role="button">Submit</a>
+
+### Questions
 
 If you have any questions about what type of contributions that might be
 suitable, or anything else regarding submission or the workshop itself,
 please contact the organisers at:
 
-[`farm-2016@easychair.org`](mailto:farm-2016@easychair.org)
+[`farm-2016@functional-art.org`](mailto:farm-2016@functional-art.org)
+
+All presentations at FARM 2016 will be recorded.  Permission to
+publish the resulting video will be requested on-site.
 
 ### Key Dates:
-
 
 <table>
 <tr>
@@ -84,30 +124,10 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 
 <tr>
 <td style="padding-right:10px">Workshop</td>
-<td>FIXME</td>
+<td>September 24, 20161</td>
 </tr>
 
 </table>
-
-### Submission
-
-All papers and demo abstracts must be in portable document
-format (PDF), using the ACM SIGPLAN style guidelines. The
-text should be in a 9-point font in two columns. The
-submission itself will be via EasyChair:
-
-<a class="btn btn-lg btn-success" href="https://easychair.org/conferences/?conf=farm2016" role="button">Submit via EasyChair</a>
-
-
-### Publication
-
-Accepted papers will be included in the formal proceedings published by
-ACM Press and will also be made available through the the ACM Digital
-Library; see http://authors.acm.org/main.cfm for information on the
-options available to authors. Authors are encouraged to submit auxiliary
-material for publication along with their paper (source code, data,
-videos, images, etc.); authors retain all rights to the auxiliary
-material.
 
 ### Workshop Organisation
 
