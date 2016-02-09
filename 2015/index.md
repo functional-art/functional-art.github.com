@@ -45,7 +45,7 @@ three research papers and three demos.
 * **Real-Time Interactive Music in Haskell**<br/> Paul Hudak, Donya
 Quick, Mark Santolucito and Daniel Winograd-Cort
 [paper](http://dl.acm.org/citation.cfm?id=2808087) [slides
-(pdf)](slides/santolucito-farm2015-slides.pdf) [video](http://dl.acm.org/citation.cfm?id=2808083.2814202&coll=DL&dl=GUIDE&CFID=543088018&CFTOKEN=26580822)
+(pdf)](slides/santolucito-farm2015-slides.pdf) [video](https://www.youtube.com/watch?v=9xfOslqAz7U)
 * **An efficient implementation of Tiled Polymorphic Temporal
   Media**<br/> Simon Archipoff [paper](http://dl.acm.org/citation.cfm?id=2808089) [slides
   (pdf)](slides/simon_archipoff_slides.pdf) [video](https://www.youtube.com/watch?v=B4ytb9Gc4oY)
