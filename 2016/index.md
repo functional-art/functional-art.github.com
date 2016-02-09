@@ -43,7 +43,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
  Goldsmiths University of London
 * [David Janin](http://www.labri.fr/perso/janin/), University of
   Bordeaux (co-chair)
-* [John Lato](johnlato.blogspot.de)
+* [John Lato](http://johnlato.blogspot.de/)
 * [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
   and Chordify
 * [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
