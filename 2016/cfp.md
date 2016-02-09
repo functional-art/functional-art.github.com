@@ -22,16 +22,18 @@ is a forum for exploration and critical evaluation of these
 developments, for example to consider potential benefits of greater
 consistency, tersity, and closer mapping to a problem domain.
 
-FARM encourages submissions from across art, craft and design, including
-textiles, visual art, music, 3D sculpture, animation, GUIs, video games,
-3D printing and architectural models, choreography, poetry, and even
-VLSI layouts, GPU configurations, or mechanical engineering designs. The
-language used need not be purely functional ("mostly functional" is
-fine), and may be manifested as a domain specific language or
-tool.  Theoretical foundations, language design, implementation issues,
-and applications in industry or the arts are all within the scope of the
-workshop.  Moreover, submissions focussing on questions or issues
-about the use of functional programming are within the scope
+FARM encourages submissions from across art, craft and design,
+including textiles, visual art, music, 3D sculpture, animation, GUIs,
+video games, 3D printing and architectural models, choreography,
+poetry, and even VLSI layouts, GPU configurations, or mechanical
+engineering designs. Theoretical foundations, language design,
+implementation issues, and applications in industry or the arts are
+all within the scope of the workshop.  The language used need not be
+purely functional ("mostly functional" is fine), and may be manifested
+as a domain specific language or tool.  Moreover, submissions
+focussing on questions or issues about the use of functional
+programming are within the scope.
+
 
 ## Submissions
 
