@@ -65,7 +65,8 @@ auxiliary material.
 
 #### Demo proposals
 
-Demo abstracts should describe the demonstration and its context,
+Demo proposal should describe a demonstration to be given at the FARM
+workshop and its context,
 connecting it with the themes of FARM. A demo could be in the form of a
 short (10-20 minute) tutorial, presentation of work-in-progress, an
 exhibition of some work, or even a performance.  Demo proposals should
@@ -73,9 +74,9 @@ be in plain text, HTML or Markdown format, and not exceed 2000 words.
 
 Demo proposals will be published on the FARM website.
 
-#### Calls for help
+#### Calls for collaboration
 
-Calls for help should describe a need for technology or expertise
+Calls for collaboration should describe a need for technology or expertise
 related to the FARM theme.  Examples may include but are not
 restricted to:
 
