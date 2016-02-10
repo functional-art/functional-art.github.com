@@ -85,10 +85,10 @@ restricted to:
   programming
 * unfinished projects in need of inspiration
 
-Calls for help should be in plain text, HTML or Markdown format, and
+Calls for collaboration should be in plain text, HTML or Markdown format, and
 not exceed 5000 words.
 
-Calls for help will be published on the FARM website.
+Calls for collaboration will be published on the FARM website.
 
 #### Submission is via EasyChair:
 
