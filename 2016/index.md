@@ -43,7 +43,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
  Goldsmiths University of London
 * [David Janin](http://www.labri.fr/perso/janin/), University of
   Bordeaux (co-chair)
-* [John Lato](http://johnlato.blogspot.de/)
+* [John Lato](http://johnlato.blogspot.de/), Google
 * [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
   and Chordify
 * [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
@@ -55,7 +55,3 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
 GmbH (co-chair)
 * [John Stell](http://www.comp.leeds.ac.uk/jgs/), University of Leeds
-
-
-
-1

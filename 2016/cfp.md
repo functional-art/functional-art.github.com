@@ -149,7 +149,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
  Goldsmiths University of London
 * [David Janin](http://www.labri.fr/perso/janin/), University of
   Bordeaux (co-chair)
-* [John Lato](http://johnlato.blogspot.de/)
+* [John Lato](http://johnlato.blogspot.de/), Google
 * [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
   and Chordify
 * [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
@@ -160,6 +160,3 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 * [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
 GmbH (co-chair)
 * [John Stell](http://www.comp.leeds.ac.uk/jgs/), University of Leeds
-
-
-
