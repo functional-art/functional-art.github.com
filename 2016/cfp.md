@@ -65,7 +65,7 @@ auxiliary material.
 
 #### Demo proposals
 
-Demo proposal should describe a demonstration to be given at the FARM
+Demo proposals should describe a demonstration to be given at the FARM
 workshop and its context,
 connecting it with the themes of FARM. A demo could be in the form of a
 short (10-20 minute) tutorial, presentation of work-in-progress, an
