@@ -153,6 +153,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 * [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
   and Chordify
 * [Chris Martens](http://www.cs.cmu.edu/~cmartens/), UC Santa Cruz
+* [Alex McLean](http://yaxu.org/), University of Leeds
 * [Dan Piponi](https://plus.google.com/+DanPiponi), Google
 * [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde/), University of Waterloo
 * [Mark Santolucito](http://marksantolucito.com/), Yale (publicity chair)
