@@ -139,7 +139,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 **Program Chair**: [Mike Sperber](http://deinprogramm.de/sperber/),
   Active Group GmbH
 
-**Publicity Chair**: Mark Santolucito
+**Publicity Chair**: [Mark Santolucito](http://marksantolucito.com/), Yale (publicity chair)
 
 **Performance Chair**: [Renick Bell](http://www.renickbell.net/)
 
