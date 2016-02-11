@@ -103,7 +103,9 @@ please contact the organisers at:
 [`farm-2016@functional-art.org`](mailto:farm-2016@functional-art.org)
 
 All presentations at FARM 2016 will be recorded.  Permission to
-publish the resulting video will be requested on-site.
+publish the resulting video (in all probabality on YouTube, along with
+the videos of ICFP itself and the other ICFP-colocated events) 
+will be requested on-site.
 
 ### Key Dates:
 
