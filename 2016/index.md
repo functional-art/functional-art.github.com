@@ -32,7 +32,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 **Program Chair**: [Mike Sperber](http://deinprogramm.de/sperber/),
   Active Group GmbH
 
-**Publicity Chair**: [David Santolucito](http://marksantolucito.com/), Yale
+**Publicity Chair**: [Mark Santolucito](http://marksantolucito.com/), Yale
 
 **Performance Chair**: [Renick Bell](http://www.renickbell.net/)
 
