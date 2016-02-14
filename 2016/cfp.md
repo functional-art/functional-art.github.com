@@ -155,7 +155,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
  Goldsmiths University of London
 * [David Janin](http://www.labri.fr/perso/janin/), University of
   Bordeaux (co-chair)
-* [Kubota Akihiro](http://faculty.tamabi.ac.jp/html/en/23.html), Tama Art University
+* [Akihiro Kubota](http://faculty.tamabi.ac.jp/html/en/23.html), Tama Art University
 * [John Lato](http://johnlato.blogspot.de/), Google
 * [José Pedro Magalhães](http://dreixel.net/), Standard Chartered Bank
   and Chordify
