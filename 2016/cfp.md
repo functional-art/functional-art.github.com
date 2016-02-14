@@ -37,7 +37,7 @@ programming are within the scope.
 
 ## Submissions
 
-Submissions are invited in several categories:
+Submissions are invited in three categories:
 
 #### Original papers 
 
@@ -71,6 +71,8 @@ connecting it with the themes of FARM. A demo could be in the form of a
 short (10-20 minute) tutorial, presentation of work-in-progress, an
 exhibition of some work, or even a performance.  Demo proposals should
 be in plain text, HTML or Markdown format, and not exceed 2000 words.
+A demo proposal should be clearly marked as such, by prepending `Demo
+Proposal:` to the title.
 
 Demo proposals will be published on the FARM website.
 
@@ -85,8 +87,10 @@ restricted to:
   programming
 * unfinished projects in need of inspiration
 
-Calls for collaboration should be in plain text, HTML or Markdown format, and
-not exceed 5000 words.
+Calls for collaboration should be in plain text, HTML or Markdown
+format, and not exceed 5000 words. A call for collaboration should be
+clearly marked as such, by prepending `Call for Collaboration:` to the
+title.
 
 Calls for collaboration will be published on the FARM website.
 
