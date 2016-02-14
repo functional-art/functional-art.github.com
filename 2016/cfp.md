@@ -74,7 +74,9 @@ be in plain text, HTML or Markdown format, and not exceed 2000 words.
 A demo proposal should be clearly marked as such, by prepending `Demo
 Proposal:` to the title.
 
-Demo proposals will be published on the FARM website.
+Demo proposals will be published on the FARM website.  A summary of
+the demo performances will also be published as part of the conference
+proceedings, to be prepared by the program chair.
 
 #### Calls for collaboration
 
