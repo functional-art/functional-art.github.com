@@ -115,20 +115,19 @@ will be requested on-site.
 
 <table>
 <tr>
-<td style="padding-right:10px">Submission deadline (<span
-style="color:red">NEW!</span>)</td><td><a
-href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submission+Deadline&iso=20160615T235959&p1=%3A">June
-15</a></td>
+<td style="padding-right:10px">Submission deadline</td><td><a
+href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submission+Deadline&iso=20160624T235959&p1=%3A">June
+24</a></td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Author Notification</td>
-<td>15 July</td>
+<td>22 July</td>
 </tr>
 
 <tr>
 <td style="padding-right:10px">Camera Ready</td>
-<td>FIXME</td>
+<td>15 Augfust</td>
 </tr>
 
 <tr>
