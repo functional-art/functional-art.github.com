@@ -129,7 +129,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 
 <tr>
 <td style="padding-right:10px">Camera Ready</td>
-<td>15 Augfust</td>
+<td>15 August</td>
 </tr>
 
 <tr>
