@@ -134,7 +134,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 
 <tr>
 <td style="padding-right:10px">Workshop</td>
-<td>September 24, 20161</td>
+<td>September 24, 2016</td>
 </tr>
 
 </table>
