@@ -37,6 +37,9 @@ programming are within the scope.
 
 ## Submissions
 
+We welcome submissions from academic, professional, and independent
+programmers and artists.
+
 Submissions are invited in three categories:
 
 #### Original papers 
