@@ -57,3 +57,8 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * [Michael Sperber](http://www.deinprogramm.de/sperber/), Active Group
 GmbH (co-chair)
 * [John Stell](http://www.comp.leeds.ac.uk/jgs/), University of Leeds
+
+### Code of Conduct
+
+FARM adheres to ICFP 2016's
+[Code of Conduct](http://conf.researchr.org/attending/icfp-2016/code-of-conduct).

@@ -142,6 +142,11 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 
 </table>
 
+### Code of Conduct
+
+FARM adheres to ICFP 2016's
+[Code of Conduct](http://conf.researchr.org/attending/icfp-2016/code-of-conduct).
+
 ### Workshop Organisation
 
 **Workshop Chair**: [David Janin](http://www.labri.fr/perso/janin/), University of Bordeaux
