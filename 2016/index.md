@@ -25,6 +25,36 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
+### Call for Papers and Demos
+
+The [Call for Papers and Demos](cfp.html) is open!
+
+#### Key Dates:
+
+<table>
+<tr>
+<td style="padding-right:10px">Submission deadline</td><td><a
+href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submission+Deadline&iso=20160624T235959&p1=%3A">June
+24</a></td>
+</tr>
+
+<tr>
+<td style="padding-right:10px">Author Notification</td>
+<td>22 July</td>
+</tr>
+
+<tr>
+<td style="padding-right:10px">Camera Ready</td>
+<td>15 August</td>
+</tr>
+
+<tr>
+<td style="padding-right:10px">Workshop</td>
+<td>September 24, 2016</td>
+</tr>
+
+</table>
+
 ### Workshop Organisation
 
 **Workshop Chair**: [David Janin](http://www.labri.fr/perso/janin/), University of Bordeaux
