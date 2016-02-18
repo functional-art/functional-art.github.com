@@ -1,6 +1,6 @@
 View the original call and more information at http://functional-art.org/2016/cfp.html
 
-4rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
+4th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 Co-located with ICFP
 Nara, Japan, 24 September, 2016
 

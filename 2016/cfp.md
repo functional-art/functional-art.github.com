@@ -4,7 +4,7 @@ title: FARM 2016 Call for Papers & Demos
 active: farm2016
 ---
 
-## 4rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
+## 4th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
 # Call for Papers and Demos
 
