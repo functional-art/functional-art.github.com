@@ -2,7 +2,7 @@
 layout: default
 title: FARM 2016 Call for Papers & Demos
 active: farm2016
---- 
+---
 
 ## 4rd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
@@ -31,7 +31,7 @@ implementation issues, and applications in industry or the arts are
 all within the scope of the workshop.  The language used need not be
 purely functional ("mostly functional" is fine), and may be manifested
 as a domain specific language or tool.  Moreover, submissions
-focussing on questions or issues about the use of functional
+focusing on questions or issues about the use of functional
 programming are within the scope.
 
 
@@ -42,7 +42,7 @@ programmers and artists.
 
 Submissions are invited in three categories:
 
-#### Original papers 
+#### Original papers
 
 We solicit original papers in the following categories:
 
@@ -112,8 +112,8 @@ please contact the organisers at:
 [`farm-2016@functional-art.org`](mailto:farm-2016@functional-art.org)
 
 All presentations at FARM 2016 will be recorded.  Permission to
-publish the resulting video (in all probabality on YouTube, along with
-the videos of ICFP itself and the other ICFP-colocated events) 
+publish the resulting video (in all probability on YouTube, along with
+the videos of ICFP itself and the other ICFP-colocated events)
 will be requested on-site.
 
 ### Key Dates:
