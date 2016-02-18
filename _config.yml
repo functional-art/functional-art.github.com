@@ -1,3 +1,5 @@
 markdown: kramdown
 encoding: UTF-8
 safe: true
+
+google_analytics: UA-73984013-1
