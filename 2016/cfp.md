@@ -103,6 +103,15 @@ Calls for collaboration will be published on the FARM website.
 
 <a class="btn btn-lg btn-success" href="https://easychair.org/conferences/?conf=farm2016" role="button">Submit</a>
 
+#### Authors take note
+
+The official publication date is the date the
+proceedings are made available in the ACM Digital Library. This date
+may be up to two weeks prior to the first day of your conference. The
+official publication date affects the deadline for any patent filings
+related to published work.
+
+
 ### Questions
 
 If you have any questions about what type of contributions that might be
