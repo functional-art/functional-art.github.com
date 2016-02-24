@@ -40,7 +40,7 @@ href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submiss
 
 <tr>
 <td style="padding-right:10px">Author Notification</td>
-<td>22 July</td>
+<td>15 July</td>
 </tr>
 
 <tr>
