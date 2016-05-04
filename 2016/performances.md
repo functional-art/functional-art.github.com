@@ -52,12 +52,28 @@ Send your submission to:
 
 [`performance@functional-art.org`](mailto:performance@functional-art.org)
 
+### Key Dates:
 
-The deadline for proposals is
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Performance Submission+Deadline&iso=20160824T235959&p1=%3A">August
-24</a>.
 
-A summary of the performances will also be published as part of the
+<table>
+<tr>
+<td style="padding-right:10px">Submission deadline</td><td>
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Performance Submission+Deadline&iso=20160624T235959&p1=%3A">June
+24</a></td>
+</tr>
+
+<tr>
+<td style="padding-right:10px">Notification</td>
+<td>June 30</td>
+</tr>
+
+<tr>
+<td style="padding-right:10px">Confirmation to attend</td>
+<td>July 7</td>
+</tr>
+</table>
+
+A summary of the performances will be published as part of the
 conference proceedings, to be prepared by the performance chair.
 
 As with presentations, all performances at FARM 2016 will be recorded.
