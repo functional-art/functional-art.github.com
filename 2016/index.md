@@ -29,6 +29,10 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 The [Call for Papers and Demos](cfp.html) is open!
 
+### Call for Performances
+
+The [Call for Performances](performances.html) is open!
+
 #### Key Dates:
 
 <table>

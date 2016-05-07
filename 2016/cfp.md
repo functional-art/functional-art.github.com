@@ -34,7 +34,6 @@ as a domain specific language or tool.  Moreover, submissions
 focusing on questions or issues about the use of functional
 programming are within the scope.
 
-
 ## Submissions
 
 We welcome submissions from academic, professional, and independent
@@ -98,6 +97,10 @@ clearly marked as such, by prepending `Call for Collaboration:` to the
 title.
 
 Calls for collaboration will be published on the FARM website.
+
+#### Calls for Performances
+
+There is a separate [Call for Performances](performances.html)!
 
 #### Submission is via EasyChair:
 
