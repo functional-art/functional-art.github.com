@@ -31,7 +31,7 @@ The [Call for Papers and Demos](cfp.html) is open!
 
 ### Call for Performances
 
-The [Call for Performances](performances.html) is open!
+The [Call for Performances](call-for-performances.html) is open!
 
 #### Key Dates:
 

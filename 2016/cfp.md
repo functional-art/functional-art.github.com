@@ -100,7 +100,7 @@ Calls for collaboration will be published on the FARM website.
 
 #### Calls for Performances
 
-There is a separate [Call for Performances](performances.html)!
+There is a separate [Call for Performances](call-for-performances.html)!
 
 #### Submission is via EasyChair:
 
