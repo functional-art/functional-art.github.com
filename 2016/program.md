@@ -46,5 +46,5 @@ active: farm2016
 
 * **A Livecoding Semantics for Functional Reactive Programming**<br/>Tom E. Murphy
 
-* **Demo: Epimorphism**<br/>Francis Shuman
+* [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
 
