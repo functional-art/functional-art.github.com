@@ -65,8 +65,8 @@ This example uses a hard-coded vector of notes as a starting point, but one coul
 
 For more information on Alda, including previous writings/talks:
 
-  - [https://github.com/alda-lang/alda](project repo with releases and documentation)
-  - [https://github.com/alda-lang/alda/tree/master/examples](example scores)
-  - [http://blog.djy.io/alda-a-manifesto-and-gentle-introduction/](an introduction + tutorial)
-  - [http://blog.djy.io/alda-a-music-programming-language-built-with-clojure/](video of a talk I gave on Alda in February 2016)
-  - [http://blog.djy.io/alda-for-clojurists/](some FP-related discussion of the implementation of Alda)
+  - [project repo with releases and documentation](https://github.com/alda-lang/alda)
+  - [example scores](https://github.com/alda-lang/alda/tree/master/examples)
+  - [an introduction + tutorial](http://blog.djy.io/alda-a-manifesto-and-gentle-introduction/)
+  - [video of a talk I gave on Alda in February 2016](http://blog.djy.io/alda-a-music-programming-language-built-with-clojure/)
+  - [some FP-related discussion of the implementation of Alda](http://blog.djy.io/alda-for-clojurists/)
