@@ -4,7 +4,7 @@ title: "FARM 2016 Demo Proposal: Klangmeister"
 active: farm2016
 ---
 
-# Klangmeister
+# Demo: Klangmeister
 
 ## Chris Ford, ThoughtWorks
 
@@ -20,7 +20,7 @@ There are already wonderful live-coding environments like
 [Gibber](http://gibber.mat.ucsb.edu/) and
 [LiveCodeLab](http://livecodelab.net/). Klangmeister's primary
 contribution is its focus on functional programming techniques as a
-way make music theory legible. It is able to offer this by embedding a
+way to make music theory legible. It is able to offer this by embedding a
 [ClojureScript](https://github.com/clojure/clojurescript) compiler in
 the browser and encapsulating the Javascript Web Audio API in a purely
 functional wrapper. Sufficiently clear musical code serves a dual
