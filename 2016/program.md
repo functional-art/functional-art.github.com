@@ -40,7 +40,7 @@ active: farm2016
 
 * **Call for Collaboration: Algomusicology, ????, Profit**<br/>Chris Ford
 
-* **Demo: Alda: A text-based music composition language**<br/>Dave Yarwood
+* [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
 
 #### 16:40-18:00
 
