@@ -34,7 +34,7 @@ active: farm2016
 * **o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot**<br/>
   Jean Bresson, John MacCallum and Adrian Freed
 
-* **Demo: VoxelCAD, a collaborative voxel-based CAD tool**<br/>Csongor Kiss and Toby Shaw
+* [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
 
 #### 16:20-16:10
 
