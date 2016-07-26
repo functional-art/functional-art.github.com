@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "FARM 2016 Demo Proposal: Klangmeister"
+title: "FARM 2016 Demo Proposal: Alda"
 active: farm2016
 ---
 
