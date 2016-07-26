@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FARM 2016 Performance Evening
+title: FARM 2016 Program
 active: farm2016
 ---
 
