@@ -27,7 +27,7 @@ active: farm2016
 
 * **Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations**<br/>Jakob Leben
 
-* **Demo: Klangmeister**<br/>Chris Ford
+* [**Demo: Klangmeister**](klangmeister.html)<br/>Chris Ford
 
 #### 14:00-14:50
 
