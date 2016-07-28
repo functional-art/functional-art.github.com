@@ -25,39 +25,45 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
-### Call for Papers and Demos
+### Preliminary Program
 
-The [Call for Papers and Demos](cfp.html) is open!
+#### 9:15 - 10:15
 
-### Call for Performances
+* **Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis**<br/>Jay McCarthy
 
-The [Call for Performances](call-for-performances.html) is open!
+* **Structured reactive programming with polymorphic temporal tiles**<br/>
+  David Janin and Simon Archipoff
 
-#### Key Dates:
+#### 10:35-11:25
 
-<table>
-<tr>
-<td style="padding-right:10px">Submission deadline</td><td><a
-href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2016+Submission+Deadline&iso=20160624T235959&p1=%3A">June
-24</a></td>
-</tr>
+* **Juniper: A Functional Reactive Programming Language for the Arduino**<br/>Caleb Helbling and Samuel Guyer
 
-<tr>
-<td style="padding-right:10px">Author Notification</td>
-<td>15 July</td>
-</tr>
+* **Demo: Juniper: A Functional Reactive Programming Language for the Arduino**<br/>Caleb Helbling and Samuel Guyer
 
-<tr>
-<td style="padding-right:10px">Camera Ready</td>
-<td>31 July</td>
-</tr>
+#### 11:45-12:35
 
-<tr>
-<td style="padding-right:10px">Workshop</td>
-<td>September 24, 2016</td>
-</tr>
+* **Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations**<br/>Jakob Leben
 
-</table>
+* [**Demo: Klangmeister**](klangmeister.html)<br/>Chris Ford
+
+#### 14:00-14:50
+
+* **o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot**<br/>
+  Jean Bresson, John MacCallum and Adrian Freed
+
+* [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
+
+#### 16:20-16:10
+
+* **Call for Collaboration: Algomusicology, ????, Profit**<br/>Chris Ford
+
+* [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
+
+#### 16:40-18:00
+
+* **A Livecoding Semantics for Functional Reactive Programming**<br/>Tom E. Murphy
+
+* [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
 
 ### Workshop Organisation
 
