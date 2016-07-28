@@ -20,7 +20,7 @@ Thinking about the world in this way also means we can expose a user-facing API 
 
 The reason we chose to make the language pure was that we wanted the editor to respond immediately to changes in the code, and we wanted this "hot-loading" behaviour to be deterministic and predictable. A change simply rolls back the script then runs it again. This is much more of domain-specific language than a full-blown programming language, and has a declarative feel, aiding in the construction of objects.
 
-## Constructice Solid Geometry
+## Constructive Solid Geometry
 
 We also adopted the techniques of Constructive Solid Geometry (CSG) found in other CAD tools. This is where primitive solids are combined through boolean operations, allowing for a variety of complex shapes to be made in a small number of steps. We chose this method of construction as it matches the volumetric nature of voxel-based worlds.
 
