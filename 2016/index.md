@@ -101,3 +101,12 @@ GmbH (co-chair)
 
 FARM adheres to ICFP 2016's
 [Code of Conduct](http://conf.researchr.org/attending/icfp-2016/code-of-conduct).
+
+### Call for Papers and Demos
+
+The [Call for Papers and Demos](cfp.html) is closed.
+
+### Call for Performances
+
+The [Call for Performances](call-for-performances.html) is closed.
+

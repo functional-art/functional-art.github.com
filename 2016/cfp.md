@@ -6,7 +6,7 @@ active: farm2016
 
 ## 4th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
-# Call for Papers and Demos
+# Call for Papers and Demos (closed)
 
 ### Nara, Japan, 24 September, 2016
 
