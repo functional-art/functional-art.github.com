@@ -1,0 +1,108 @@
+4th ACM SIGPLAN International Workshop on
+Functional Art, Music, Modelling and Design
+
+http://functional-art.org/2016
+
+The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design (FARM) gathers together people who are harnessing functional techniques in the pursuit of creativity and expression.
+
+Functional Programming has emerged as a mainstream software development paradigm, and its artistic and creative use is booming. A growing number of software toolkits, frameworks and environments for art, music and design now employ functional programming languages and techniques. FARM is a forum for exploration and critical evaluation of these developments, for example to consider potential benefits of greater consistency, tersity, and closer mapping to a problem domain. 
+
+This year, authors at FARM will present research papers, demos of new tools, and calls for collaboration. The evening will also feature computer music performances of artists integrating functional programming techniques into their work. 
+
+To register for FARM, visit the ICFP registration page - early registration ends August 17. Some funding support is available for the main ICFP conference and related workshops like FARM. This information can be found on the travel support page.
+
+Registration
+------------
+
+You can register via the ICFP 2016 registration:
+http://conf.researchr.org/attending/icfp-2016/Registration
+
+Early registration deadline is August 17.
+
+Program
+---------------
+Preliminary Program
+9:15 - 10:15
+
+Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis
+Jay McCarthy
+
+Structured reactive programming with polymorphic temporal tiles
+David Janin and Simon Archipoff
+
+10:35-11:25
+
+Juniper: A Functional Reactive Programming Language for the Arduino
+Caleb Helbling and Samuel Guyer
+
+Demo: Juniper: A Functional Reactive Programming Language for the Arduino
+Caleb Helbling and Samuel Guyer
+
+11:45-12:35
+
+Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations
+Jakob Leben
+
+Demo: Klangmeister
+Chris Ford
+
+14:00-14:50
+
+o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot
+Jean Bresson, John MacCallum and Adrian Freed
+
+Demo: VoxelCAD, a collaborative voxel-based CAD tool
+Csongor Kiss and Toby Shaw
+
+16:20-16:10
+
+Call for Collaboration: Algomusicology, ????, Profit
+Chris Ford
+
+Demo: Alda: A text-based music composition language
+Dave Yarwood
+
+16:40-18:00
+
+A Livecoding Semantics for Functional Reactive Programming
+Tom E. Murphy
+
+Demo: Epimorphism
+Francis Shuman
+
+Live Performances 19:30-21:30
+@ Live House Beverly Hills, Nara, Japan
+
+Tentative lineup includes:
+
+- Akihiro Kubota: Live Coding Cosmic Sound Poetry
+- Selçuk Artut, Alp Tuğan: RAW
+- Atsuro Hoshino: Warm Fuzzy Thing
+- Alexandra Cárdenas (via remote streaming)
+- Renick Bell
+
+
+Workshop Organisation
+---------------------
+
+- Workshop Chair: David Janin, University of Bordeaux
+- Program Chair: Mike Sperber, Active Group GmbH
+- Publicity Chair: Mark Santolucito, Yale
+- Performance Chair: Renick Bell
+
+Program Committee:
+---------------------
+
+- Renick Bell (performance chair)
+- Rebecca Fiebrink, Goldsmiths University of London
+- David Janin, University of Bordeaux (co-chair)
+- Akihiro Kubota, Tama Art University
+- John Lato, Google
+- José Pedro Magalhães, Standard Chartered Bank and Chordify
+- Alex McLean, University of Leeds
+- Dan Piponi, Google
+- Prabhakar Ragde, University of Waterloo
+- Mark Santolucito, Yale (publicity chair)
+- Fabienne Serrière, KnitYak
+- Michael Sperber, Active Group GmbH (co-chair)
+- John Stell, University of Leeds
