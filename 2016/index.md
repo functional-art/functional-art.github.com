@@ -37,6 +37,8 @@ The [ICFP home page](http://conf.researchr.org/home/icfp-2016) has
 more information on travel, the venue, and other aspects of the
 workshop.
 
+Early registration at reduced rates ends Aug 17!
+
 ### Preliminary Program
 
 #### 9:15 - 10:15
