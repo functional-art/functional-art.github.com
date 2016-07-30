@@ -52,7 +52,7 @@ Early registration at reduced rates ends Aug 17!
 
 * **Juniper: A Functional Reactive Programming Language for the Arduino**<br/>Caleb Helbling and Samuel Guyer
 
-* **Demo: Juniper: A Functional Reactive Programming Language for the Arduino**<br/>Caleb Helbling and Samuel Guyer
+* [**Demo: Juniper: A Functional Reactive Programming Language for the Arduino**](juniper.html)<br/>Caleb Helbling and Samuel Guyer
 
 #### 11:45-12:35
 
