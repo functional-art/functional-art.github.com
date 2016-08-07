@@ -67,7 +67,7 @@ Early registration at reduced rates ends Aug 17!
 
 * [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
 
-#### 16:20-16:10
+#### 15:20-16:10
 
 * **Call for Collaboration: Algomusicology, ????, Profit**<br/>Chris Ford
 
