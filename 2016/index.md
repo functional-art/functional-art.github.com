@@ -69,7 +69,7 @@ Early registration at reduced rates ends Aug 17!
 
 #### 15:20-16:10
 
-* **Call for Collaboration: Algomusicology, ????, Profit**<br/>Chris Ford
+* **Call for Collaboration: Computational Musicology, ????, Profit**<br/>Chris Ford
 
 * [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
 
