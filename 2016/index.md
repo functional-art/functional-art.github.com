@@ -79,7 +79,7 @@ Early registration at reduced rates ends Aug 17!
 
 * [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
 
-### 19:30-21:30
+### 19:30-21:30 @ Beverly Hills 
 
 See the [concert paper](performance.md) for detailed information on the program and artists.
 
