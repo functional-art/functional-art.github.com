@@ -79,18 +79,18 @@ Early registration at reduced rates ends Aug 17!
 
 * [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
 
-### 19:30-21:30 @ Beverly Hills 
+#### 19:30-21:30 @ Beverly Hills
 
-See the [concert paper](performance.md) for detailed information on the program and artists.
+See the [concert paper](performance) for detailed information on the program and artists.
 
-- Renick Bell
-- Alexandra Cardenas
-- Atsuro Hoshino
-- Akihiro Kubota
-- Jay McCarthy
-- RAW (a duo of Selçuk Artut and Alp Tuğan)
-- Francis Gene Shuman with Yullippe
-- Atsushi Tadokoro
+* Renick Bell
+* Alexandra Cardenas
+* Atsuro Hoshino
+* Akihiro Kubota
+* Jay McCarthy
+* RAW (a duo of Selçuk Artut and Alp Tuğan)
+* Francis Gene Shuman with Yullippe
+* Atsushi Tadokoro
 
 ### Workshop Organisation
 
