@@ -43,39 +43,51 @@ Early registration at reduced rates ends Aug 17!
 
 #### 9:15 - 10:15
 
-* **Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis**<br/>Jay McCarthy
+* **Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis**<br/>
+  Jay McCarthy<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19403" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * **Structured reactive programming with polymorphic temporal tiles**<br/>
-  David Janin and Simon Archipoff
+  David Janin and Simon Archipoff<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19416" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 #### 10:35-11:25
 
-* **Juniper: A Functional Reactive Programming Language for the Arduino**<br/>Caleb Helbling and Samuel Guyer
+* **Juniper: A Functional Reactive Programming Language for the Arduino**<br/>
+  Caleb Helbling and Samuel Guyer<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19404" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: Juniper: A Functional Reactive Programming Language for the Arduino**](juniper.html)<br/>Caleb Helbling and Samuel Guyer
 
 #### 11:45-12:35
 
-* **Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations**<br/>Jakob Leben
+* **Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations**<br/>
+  Jakob Leben<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19415" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: Klangmeister**](klangmeister.html)<br/>Chris Ford
 
 #### 14:00-14:50
 
 * **o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot**<br/>
-  Jean Bresson, John MacCallum and Adrian Freed
+  Jean Bresson, John MacCallum and Adrian Freed<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19417" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
 
 #### 15:20-16:10
 
-* **Call for Collaboration: Computational Musicology, ????, Profit**<br/>Chris Ford
+* **Call for Collaboration: Computational Musicology, ????, Profit**<br/>
+  Chris Ford<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19419" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
 
 #### 16:40-18:00
 
-* **A Livecoding Semantics for Functional Reactive Programming**<br/>Tom E. Murphy
+* **A Livecoding Semantics for Functional Reactive Programming**<br/>
+  Tom E. Murphy<br/>
+  <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19418" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
 
@@ -91,6 +103,12 @@ See the [concert paper](performance) for detailed information on the program and
 * RAW (a duo of Selçuk Artut and Alp Tuğan)
 * Francis Gene Shuman with Yullippe
 * Atsushi Tadokoro
+
+### Proceedings
+
+* <a class="DLcitLink" href="http://dl.acm.org/citation.cfm?id=2975980" title="Go to the ACM Digital Library for additional information about this proceeding"><img class="DLlogo" src="http://dl.acm.org/img/dllogo.png" alt="Digital Library logo" height="30" width="30">Full Citation in the ACM Digital Library</a>
+* <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19410" title="Get the Full Text from the ACM Digital Library">FARM 2016 demo summary</a>
+* <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19411" title="Get the Full Text from the ACM Digital Library">FARM 2016 concert: live music and visuals produced through functional programming</a>
 
 ### Workshop Organisation
 
