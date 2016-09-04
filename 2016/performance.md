@@ -8,7 +8,7 @@ active: farm2016
 
 # Live Performances
 
-### [Beverly Hills](https://www.tripadvisor.com/Restaurant_Review-g298198-d7466735-Reviews-Live_House_Beverly_Hills-Nara_Nara_Prefecture_Kinki.html), Nara, Japan
+### [Beverly Hills](http://flower6.jp/), Nara, Japan
 
 #### 24 September 2016, 19:30-21:30
 
