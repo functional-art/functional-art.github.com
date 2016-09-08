@@ -72,7 +72,7 @@ A Livecoding Semantics for Functional Reactive Programming
 Tom E. Murphy
 
 Demo: Epimorphism
-Francis Shuman
+Gene Shuman
 
 Live Performances 19:30-21:30
 @ Live House Beverly Hills, Nara, Japan

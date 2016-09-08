@@ -87,7 +87,7 @@ workshop.
   Tom E. Murphy<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19418" title="Get the Full Text from the ACM Digital Library">paper</a>
 
-* [**Demo: Epimorphism**](epimorphism.html)<br/>Francis Shuman
+* [**Demo: Epimorphism**](epimorphism.html)<br/>Gene Shuman
 
 #### 19:30-21:30 @ Beverly Hills
 
@@ -99,7 +99,7 @@ See the [concert paper](performance) for detailed information on the program and
 * Akihiro Kubota
 * Jay McCarthy
 * RAW (a duo of Selçuk Artut and Alp Tuğan)
-* Francis Gene Shuman with Yullippe
+* Gene Shuman with Yullippe
 * Atsushi Tadokoro
 
 ### Proceedings

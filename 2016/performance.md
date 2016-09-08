@@ -35,7 +35,7 @@ alphabetically by surname or group name:
 - [Akihiro Kubota](#akihirokubota)
 - [Jay McCarthy](#jaymccarthy)
 - [RAW](#raw) (a duo of Selçuk Artut and Alp Tuğan)
-- [Francis Gene Shuman with Yullippe](#geneshuman)
+- [Gene Shuman with Yullippe](#geneshuman)
 - [Atsushi Tadokoro](#atsushitadokoro)
 
 What follows is a list of performers with brief notes edited from
@@ -83,7 +83,7 @@ Selçuk Artut lives in Istanbul, Turkey, where he spends much of his time philos
 
 Alp Tugan lives in Istanbul. Tugan is an interaction designer focusing on creative coding for his artistic productions. He has received his MA on Visual Communication Design from Sabanci University, Istanbul.
 
-## Francis Gene Shuman and [Yullippe](https://yullippe.bandcamp.com/) {#geneshuman}
+## Gene Shuman and [Yullippe](https://yullippe.bandcamp.com/) {#geneshuman}
 
 Gene Shuman will present a visual performance with his system called [Epimorphism](http://www.epimorphism.com/), an art project intended to simulate video feedback. It is written in PureScript, a strict dialect of Haskell which compiles to Javascript and runs in web browsers supporting WebGL. Video feedback is a traditionally analog art form used since the 1960s to create recursive and self similar video animations. Despite feeling a lack of a particular domain-specific justification for using functional programming, Shuman argues that the use of functional programming for this project shows the inherent benefits of functional programming: faster and more stable development of software which is easier to reason about and to return to after significant developmental pauses.
 
