@@ -48,7 +48,7 @@ Beverly Hills is located near Kintetsu-Nara Station.
 
 address: 6 Hanashibacho, Nara, Nara Prefecture 630-8266
 
-Beverly Hills URL: http://flower6.jp/
+Beverly Hills (venue) URL: [http://flower6.jp/](http://flower6.jp/)
 
 What follows is a list of performers with brief notes edited from
 performer submissions about their performances and bios.  More info is
