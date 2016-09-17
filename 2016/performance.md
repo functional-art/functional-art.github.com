@@ -12,6 +12,8 @@ active: farm2016
 
 #### 24 September 2016, 19:00-21:30
 
+日本語でかかれたイベント情報は[このページへ](performance-jp.html)。
+
 FARM 2016 presents an evening of performances that employ functional programming
 techniques in whole or in part, performances that push forward the
 state of the art, and presentations of highly-developed practice.
