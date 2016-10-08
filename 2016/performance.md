@@ -10,7 +10,9 @@ active: farm2016
 
 ### [Beverly Hills](http://flower6.jp/), Nara, Japan
 
-#### 24 September 2016, 19:30-21:30
+#### 24 September 2016, 19:00-21:30
+
+日本語でかかれたイベント情報は[このページへ](performance-jp.html)。
 
 FARM 2016 presents an evening of performances that employ functional programming
 techniques in whole or in part, performances that push forward the
@@ -37,6 +39,18 @@ alphabetically by surname or group name:
 - [RAW](#raw) (a duo of Selçuk Artut and Alp Tuğan)
 - [Gene Shuman with Yullippe](#geneshuman)
 - [Atsushi Tadokoro](#atsushitadokoro)
+
+Doors open at 19:00. The concert takes place from 19:30-21:30. 
+
+Entrance is free with purchase of ¥500 drink ticket.
+
+The audience is limited to 80 people. Priority is given to ICFP badge holders. The first 20 non-ICFP people can enter between 19:00 and 19:20. From 19:20, anyone can enter up to the room capacity. The concert begins at 19:30.
+
+Beverly Hills is located near Kintetsu-Nara Station.
+
+address: 6 Hanashibacho, Nara, Nara Prefecture 630-8266
+
+Beverly Hills URL: [http://flower6.jp/](http://flower6.jp/)
 
 What follows is a list of performers with brief notes edited from
 performer submissions about their performances and bios.  More info is
