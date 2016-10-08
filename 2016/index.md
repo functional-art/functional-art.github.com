@@ -25,18 +25,6 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
-### Registration is open
-
-You register for FARM via the
-[ICFP registration page](http://conf.researchr.org/attending/icfp-2016/Registration).
-
-(Don't be confused by the many options available - for FARM, you need
-to register for Saturday, Sep 24.)
-
-The [ICFP home page](http://conf.researchr.org/home/icfp-2016) has
-more information on travel, the venue, and other aspects of the
-workshop.
-
 ## Program ##
 
 #### 9:15 - 10:15
