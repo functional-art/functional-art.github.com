@@ -70,6 +70,7 @@ workshop.
 * **o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot**<br/>
   Jean Bresson, John MacCallum and Adrian Freed<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19417" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="bresson-slides.pdf">slides</a>
 
 * [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
 
