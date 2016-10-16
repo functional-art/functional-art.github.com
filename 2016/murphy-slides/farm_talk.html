@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Tom Murphy" />
+  <title>Livecoding in Midair</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; }
+code > span.dt { color: #902000; }
+code > span.dv { color: #40a070; }
+code > span.bn { color: #40a070; }
+code > span.fl { color: #40a070; }
+code > span.ch { color: #4070a0; }
+code > span.st { color: #4070a0; }
+code > span.co { color: #60a0b0; font-style: italic; }
+code > span.ot { color: #007020; }
+code > span.al { color: #ff0000; font-weight: bold; }
+code > span.fu { color: #06287e; }
+code > span.er { color: #ff0000; font-weight: bold; }
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="slidy.css" />
+  <script src="slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Livecoding in Midair</h1>
+  <p class="author">
+Tom Murphy
+  </p>
+  <p class="date">FARM 2016</p>
+</div>
+<div class="slide section level1">
+
+
+
+
+
+
+
+
+
+</div>
+<div id="livecoding" class="slide section level1">
+<h1>Livecoding</h1>
+<ul>
+<li>Running program changed by the programmer(s) at runtime</li>
+<li>Core operation: <em>hot-swap</em></li>
+<li>GHCi</li>
+<li>Erlang/OTP</li>
+<li>Art!</li>
+</ul>
+
+
+</div>
+<div id="two-choices" class="slide section level1">
+<h1>Two Choices</h1>
+<ul>
+<li>Purity (very limited I/O)</li>
+<li>Big Ball of State</li>
+</ul>
+</div>
+<div id="but-i-want-to-see-the-world" class="slide section level1">
+<h1>&quot;But I want to see the world!&quot;</h1>
+<ul>
+<li>We'd like to do I/O
+<ul>
+<li>MIDI instruments</li>
+<li>Playing music</li>
+</ul></li>
+<li>...without throwing up our hands</li>
+</ul>
+</div>
+<div id="aha-frp" class="slide section level1">
+<h1>Aha, FRP!</h1>
+</div>
+<div id="hotswap" class="slide section level1">
+<h1>Hotswap?</h1>
+<ul>
+<li><p>And we'd like to be able to hotswap</p></li>
+<li><p>Experiment, tweak params, add stuff and throw stuff away, freeze/hold, ...</p></li>
+</ul>
+
+
+
+</div>
+<div id="being-declarative" class="slide section level1">
+<h1>Being Declarative</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   fmap ::</span> <span class="dt">Functor</span> f <span class="ot">=&gt;</span> (a <span class="ot">-&gt;</span> b) <span class="ot">-&gt;</span> f a <span class="ot">-&gt;</span> f b</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   chars <span class="fu">=</span> <span class="st">&quot;midair&quot;</span><span class="ot"> ::</span> [<span class="dt">Char</span>]
+
+   fmap (<span class="fu">==</span><span class="ch">&#39;a&#39;</span>)<span class="ot"> chars ::</span> [<span class="dt">Bool</span>]</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   getChar ::</span> <span class="dt">IO</span> <span class="dt">Char</span>
+
+   fmap (<span class="fu">==</span><span class="ch">&#39;a&#39;</span>)<span class="ot"> getChar ::</span> <span class="dt">IO</span> <span class="dt">Bool</span></code></pre>
+<p>Pseudocode:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   lastKeyPressed ::</span> <span class="dt">FRP</span> <span class="dt">Char</span>
+
+   fmap (<span class="fu">==</span><span class="ch">&#39;a&#39;</span>)<span class="ot"> lastKeyPressed ::</span> <span class="dt">FRP</span> <span class="dt">Bool</span></code></pre>
+<ul>
+<li>Controlled state
+<ul>
+<li>With hot-swap?</li>
+</ul></li>
+</ul>
+</div>
+<div id="this-talk" class="slide section level1">
+<h1>This Talk</h1>
+<ul>
+<li>General semantics
+<ul>
+<li>FRP with first-class hot-swap</li>
+</ul></li>
+<li>Our formulation: <strong>Midair</strong>
+<ul>
+<li>Implementation</li>
+<li>Idioms</li>
+</ul></li>
+</ul>
+</div>
+<div id="signals-and-signal-flow" class="slide section level1">
+<h1>Signals and Signal Flow</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   <span class="kw">data</span> <span class="dt">SFlow</span> a b</code></pre>
+<ul>
+<li>Push-based
+<ul>
+<li>&quot;Fire&quot;</li>
+</ul></li>
+<li><p>Discrete time</p></li>
+<li><p>E-FRP, RT-FRP</p></li>
+</ul>
+</div>
+<div id="functions" class="slide section level1">
+<h1>Functions</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   <span class="kw">data</span> <span class="dt">SFlow</span> a b</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   sMap ::</span> (a <span class="ot">-&gt;</span> b) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b
+
+<span class="ot">   sFold ::</span> c <span class="ot">-&gt;</span> (a <span class="ot">-&gt;</span> c <span class="ot">-&gt;</span> c) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c
+
+<span class="ot">   sFilter ::</span> (b <span class="ot">-&gt;</span> <span class="dt">Bool</span>) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> b b
+
+<span class="ot">   sCompose ::</span> <span class="dt">SFlow</span> b c <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c
+
+   <span class="co">-- ...</span></code></pre>
+</div>
+<div id="section" class="slide section level1">
+<h1></h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">instance</span> <span class="dt">Applicative</span> (<span class="dt">SFlow</span> a)
+<span class="kw">instance</span> <span class="dt">Arrow</span> <span class="dt">SFlow</span></code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   sFold <span class="dt">True</span> (\_ <span class="ot">-&gt;</span> not) <span class="fu">&lt;&lt;&lt;</span> sFilter (<span class="fu">==</span><span class="ch">&#39; &#39;</span>)
+<span class="ot">      ::</span> <span class="dt">SFlow</span> <span class="dt">Char</span> <span class="dt">Bool</span></code></pre>
+<p>(demo!)</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   width  ::</span> <span class="dt">SFlow</span> x <span class="dt">Double</span>
+<span class="ot">   height ::</span> <span class="dt">SFlow</span> x <span class="dt">Double</span>
+
+<span class="ot">   area ::</span> <span class="dt">SFlow</span> x <span class="dt">Double</span>
+   area <span class="fu">=</span> (<span class="fu">*</span>) <span class="fu">&lt;$&gt;</span> width <span class="fu">&lt;*&gt;</span> height
+
+   <span class="co">-- Note it&#39;s deterministic</span></code></pre>
+</div>
+<div id="xapplicativedo" class="slide section level1">
+<h1>-XApplicativeDo</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   <span class="kw">do</span> w <span class="ot">&lt;-</span> width
+      h <span class="ot">&lt;-</span> height
+      pure (w <span class="fu">*</span> h)</code></pre>
+</div>
+<div id="first-class-hot-swap" class="slide section level1">
+<h1>First-Class Hot-Swap</h1>
+<ul>
+<li><p>Including any sub-component</p></li>
+<li>&quot;Folding over the past&quot;
+<ul>
+<li>How much past?</li>
+</ul></li>
+</ul>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   <span class="kw">data</span> <span class="dt">Direction</span> <span class="fu">=</span> <span class="dt">Up</span> <span class="fu">|</span> <span class="dt">Down</span>
+
+<span class="ot">   volChange ::</span> <span class="dt">Double</span> <span class="ot">-&gt;</span> <span class="dt">Direction</span> <span class="ot">-&gt;</span> <span class="dt">Double</span>
+   volChange v <span class="dt">Up</span>   <span class="fu">=</span> v <span class="fu">*</span> <span class="dv">1</span><span class="fu">.</span><span class="dv">01</span>
+   volChange v <span class="dt">Down</span> <span class="fu">=</span> v <span class="fu">*</span> <span class="dv">0</span><span class="fu">.</span><span class="dv">99</span></code></pre>
+</div>
+<div id="so-they-play-for-a-while..." class="slide section level1">
+<h1>So they play for a while...</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   buttonHistory ::</span> [<span class="dt">Direction</span>] <span class="co">-- 100 up, 50 down</span>
+
+   foldl volChange <span class="dv">1</span> buttonHistory <span class="fu">==</span> <span class="dv">1</span><span class="fu">.</span><span class="dv">65</span><span class="fu">...</span></code></pre>
+</div>
+<div id="but-thats-too-slow" class="slide section level1">
+<h1>But that's too slow</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   volChange&#39; v <span class="dt">Down</span> <span class="fu">=</span> v <span class="fu">*</span> <span class="dv">0</span><span class="fu">.</span><span class="dv">97</span>
+   volChange&#39; v <span class="dt">Up</span>   <span class="fu">=</span> v <span class="fu">*</span> <span class="dv">1</span><span class="fu">.</span><span class="dv">03</span>
+
+   foldl volChange&#39; <span class="dv">1</span> buttonHistory <span class="fu">==</span> <span class="dv">4</span><span class="fu">.</span><span class="dv">19</span><span class="fu">...</span></code></pre>
+</div>
+<div id="design-goals" class="slide section level1">
+<h1>Design Goals</h1>
+<ul>
+<li>Very constrained domain:</li>
+<li>Succinct
+<ul>
+<li>Inference is important</li>
+</ul></li>
+<li>Efficient code
+<ul>
+<li>Even when not optimized</li>
+</ul></li>
+</ul>
+</div>
+<div id="efficiency" class="slide section level1">
+<h1>Efficiency</h1>
+<blockquote>
+<p>&quot;Compiled code is roughly 10x faster than interpreted code, but takes about 2x longer to produce (perhaps longer if optimisation is on).&quot; - From the GHC Users' Manual</p>
+</blockquote>
+
+  
+<ul>
+<li>Takeaway: write code that's fast/cheap when not compiled</li>
+<li><em>Compile time <strong>is</strong> runtime</em></li>
+</ul>
+</div>
+<div id="internals" class="slide section level1">
+<h1>Internals</h1>
+<p>(Simplified:)</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   <span class="kw">data</span> <span class="dt">SFlow</span> a c <span class="kw">where</span>
+
+      <span class="dt">SF_Map</span><span class="ot"> ::</span> (a <span class="ot">-&gt;</span> c) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c
+
+      <span class="dt">SF_Compose</span>
+<span class="ot">         ::</span> forall a b c<span class="fu">.</span>
+         <span class="dt">SFlow</span> b c <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c
+
+      <span class="dt">SF_Fold</span><span class="ot"> ::</span> c <span class="ot">-&gt;</span> (a <span class="ot">-&gt;</span> c <span class="ot">-&gt;</span> c) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c
+
+      <span class="dt">SF_Filter</span>
+<span class="ot">         ::</span> <span class="dt">Maybe</span> a <span class="ot">-&gt;</span> (a <span class="ot">-&gt;</span> <span class="dt">Bool</span>) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a a
+
+      <span class="dt">SF_NodeRef</span>
+<span class="ot">         ::</span> <span class="dt">TVar</span> (<span class="dt">Maybe</span> a) <span class="ot">-&gt;</span> <span class="dt">TVar</span> (<span class="dt">Maybe</span> c)
+         <span class="ot">-&gt;</span> <span class="dt">TVar</span> (<span class="dt">SFlow</span> a c) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a c</code></pre>
+<ul>
+<li>Firing walks the tree
+<ul>
+<li>(basically!)</li>
+</ul></li>
+<li>We'll see <code>SF_NodeRef</code> soon</li>
+</ul>
+</div>
+<div id="fire" class="slide section level1">
+<h1>Fire</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">fireGraph ::</span> <span class="dt">TVar</span> (<span class="dt">SFlow</span> i o) <span class="ot">-&gt;</span> i <span class="ot">-&gt;</span> <span class="dt">STM</span> (<span class="dt">Maybe</span> o)</code></pre>
+<ul>
+<li><code>STM</code> for graph update</li>
+<li><code>Maybe</code> for <code>sFilter</code></li>
+<li>That's all I'm going to say about that!</li>
+</ul>
+</div>
+<div id="hot-swap" class="slide section level1">
+<h1>Hot-Swap</h1>
+<ul>
+<li>So far we've only seen static FRP graphs!</li>
+</ul>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   mkNodeRef ::</span> <span class="dt">SFlow</span> a b <span class="ot">-&gt;</span> <span class="dt">IO</span> (<span class="dt">SFNodeRef</span> a b)
+
+<span class="ot">   nRef ::</span> <span class="dt">SFNodeRef</span> a b <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b
+
+<span class="ot">   hotswap ::</span> <span class="dt">SFNodeRef</span> a b
+           <span class="ot">-&gt;</span> (<span class="dt">Maybe</span> a <span class="ot">-&gt;</span> <span class="dt">Maybe</span> b <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b)
+           <span class="ot">-&gt;</span> <span class="dt">IO</span> ()</code></pre>
+<ul>
+<li>Explicit references</li>
+<li>Can be used everywhere
+<ul>
+<li>Included nested</li>
+</ul></li>
+</ul>
+</div>
+<div id="node-refs-ii" class="slide section level1">
+<h1>Node Refs (II)</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">fmap nRef (mkNodeRef x)
+
+<span class="fu">/=</span>
+
+pure x</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   ref <span class="ot">&lt;-</span> mkNodeRef <span class="fu">$</span> sMap (transpose <span class="dv">2</span>)
+<span class="ot">      ::</span> <span class="dt">IO</span> (<span class="dt">SFNodeRef</span> <span class="dt">Chord</span> <span class="dt">Chord</span>)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   sMap playChord <span class="fu">&lt;&lt;&lt;</span> nRef ref <span class="fu">&lt;&lt;&lt;</span> sMap makeChord
+<span class="ot">      ::</span> <span class="dt">SFlow</span> <span class="dt">Note</span> (<span class="dt">IO</span> ())</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   hotswap ref <span class="fu">$</span> \_ _ <span class="ot">-&gt;</span> sMap (transpose <span class="dv">4</span>)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   ref <span class="ot">&lt;-</span> mkNodeRef <span class="fu">$</span> sFold <span class="dv">1</span> volChange
+
+   hotswap ref <span class="fu">$</span> \_ lastOut <span class="ot">-&gt;</span>
+      sFold (fromMaybe <span class="dv">1</span> lastOut) volChange&#39;</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   hotswap ref <span class="fu">$</span> \_ (<span class="dt">Just</span> lastOut) <span class="ot">-&gt;</span>
+      sFold lastOut volChange&#39;</code></pre>
+</div>
+<div id="idioms" class="slide section level1">
+<h1>Idioms</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   hotswapFold ref <span class="dv">1</span> volChange&#39;</code></pre>
+<ul>
+<li>&quot;Pivot&quot;!</li>
+</ul>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="co">-- | Gives the first item that passes</span>
+<span class="ot">sFind ::</span> (a <span class="ot">-&gt;</span> <span class="dt">Bool</span>) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a a
+
+<span class="ot">sTake ::</span> <span class="dt">Int</span> <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a [a]
+
+<span class="ot">sAll ::</span> (a <span class="ot">-&gt;</span> <span class="dt">Bool</span>) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a <span class="dt">Bool</span>
+
+<span class="ot">sElem ::</span> <span class="dt">Eq</span> a <span class="ot">=&gt;</span> a <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a <span class="dt">Bool</span>
+
+<span class="ot">sMapMaybe ::</span> (a <span class="ot">-&gt;</span> <span class="dt">Maybe</span> b) <span class="ot">-&gt;</span> <span class="dt">SFlow</span> a b
+
+<span class="ot">sRights ::</span> <span class="dt">SFlow</span> (<span class="dt">Either</span> l r) r
+
+<span class="ot">sPrint ::</span> <span class="dt">Show</span> a <span class="ot">=&gt;</span> <span class="dt">SFlow</span> a (<span class="dt">Fx</span> ())
+
+<span class="ot">sSum ::</span> <span class="dt">Num</span> n <span class="ot">=&gt;</span> <span class="dt">SFlow</span> n n
+
+<span class="ot">sMax ::</span> <span class="dt">Ord</span> a <span class="ot">=&gt;</span> <span class="dt">SFlow</span> a a
+
+<span class="ot">hotswapHold ::</span> <span class="dt">SFNodeRef</span> x a <span class="ot">-&gt;</span> <span class="dt">IO</span> ()
+
+<span class="ot">hotswapFold ::</span> <span class="dt">SFNodeRef</span> a c <span class="ot">-&gt;</span> c <span class="ot">-&gt;</span> (a <span class="ot">-&gt;</span> c <span class="ot">-&gt;</span> c) <span class="ot">-&gt;</span> <span class="dt">IO</span> ()
+
+<span class="ot">hotswapCount ::</span> <span class="dt">SFNodeRef</span> x n <span class="ot">-&gt;</span> <span class="dt">IO</span> ()
+
+<span class="co">-- ...</span></code></pre>
+<p>We can demonstrate its use using <code>sCount</code>:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">   sCount ::</span> <span class="dt">Num</span> n <span class="ot">=&gt;</span> <span class="dt">SFlow</span> x n
+
+      <span class="fu">==</span> sSum <span class="fu">&lt;&lt;&lt;</span> sConst <span class="dv">1</span>
+
+      <span class="fu">==</span> sFold (<span class="fu">+</span>) <span class="dv">0</span> <span class="fu">&lt;&lt;&lt;</span> sMap (const <span class="dv">1</span>)</code></pre>
+<p>We can, given keyboard input, count every key press of a digit character:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   ref <span class="ot">&lt;-</span> mkNodeRef sCount
+
+   nRef ref <span class="fu">&lt;&lt;&lt;</span> sFilter isDigit
+<span class="ot">      ::</span> <span class="dt">SFlow</span> <span class="dt">Char</span> <span class="dt">Int</span></code></pre>
+<p>Then stop counting for a while:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   hotswapHold ref</code></pre>
+<p>Then, after more time, start counting where we left off:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">   hotswapCount ref</code></pre>
+<p>Even after switching back to counting fires with &quot;count,&quot; none of the key presses that occurred while the &quot;hold&quot; was in effect are part of the sum emitted from the graph.</p>
+</div>
+<div id="demos" class="slide section level1">
+<h1>Demos</h1>
+</div>
+<div id="thank-you" class="slide section level1">
+<h1>Thank you!</h1>
+</div>
+</body>
+</html>

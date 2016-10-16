@@ -32,24 +32,29 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis**<br/>
   Jay McCarthy<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19403" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="mccarthy-slides.pdf">slides</a>
 
 * **Structured reactive programming with polymorphic temporal tiles**<br/>
   David Janin and Simon Archipoff<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19416" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="janin-slides.pdf">slides</a>
 
 #### 10:35-11:25
 
 * **Juniper: A Functional Reactive Programming Language for the Arduino**<br/>
   Caleb Helbling and Samuel Guyer<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19404" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="helbling-slides.pdf">slides</a>
 
-* [**Demo: Juniper: A Functional Reactive Programming Language for the Arduino**](juniper.html)<br/>Caleb Helbling and Samuel Guyer
+* [**Demo: Juniper: A Functional Reactive Programming Language for the Arduino**](juniper.html)<br/>Caleb Helbling and Samuel Guyer<br/>
+  <a href="helbling-demo-slides.pdf">slides</a>
 
 #### 11:45-12:35
 
 * **Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations**<br/>
   Jakob Leben<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19415" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="leben-slides.pdf">slides</a>
 
 * [**Demo: Klangmeister**](klangmeister.html)<br/>Chris Ford
 
@@ -61,6 +66,8 @@ greater consistency, tersity, and closer mapping to a problem domain.
   <a href="bresson-slides.pdf">slides</a>
 
 * [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
+  <br/>
+  <a href="kiss-shaw-slides.pdf">slides</a>
 
 #### 15:20-16:10
 
@@ -69,12 +76,15 @@ greater consistency, tersity, and closer mapping to a problem domain.
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19419" title="Get the Full Text from the ACM Digital Library">paper</a>
 
 * [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
+  <br/>
+  <a href="yarwood-slides.pdf">slides</a>
 
 #### 16:40-18:00
 
 * **A Livecoding Semantics for Functional Reactive Programming**<br/>
   Tom E. Murphy<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19418" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <a href="murphy-slides/farm_talk.html">slides</a>
 
 * [**Demo: Epimorphism**](epimorphism.html)<br/>Gene Shuman
 
