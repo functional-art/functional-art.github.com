@@ -74,6 +74,8 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * **Call for Collaboration: Computational Musicology, ????, Profit**<br/>
   Chris Ford<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19419" title="Get the Full Text from the ACM Digital Library">paper</a>
+  <br/>
+  <a href="http://ctford.github.io/kolmogorov-music/">slides</a>
 
 * [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
   <br/>
