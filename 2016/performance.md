@@ -61,6 +61,8 @@ Performance Notes and Bios
 
 ## [Renick Bell](http://www.renickbell.net/doku.php/) {#renickbell}
 
+[video](https://www.youtube.com/watch?v=hhTJMhHckNo&t=5s)
+
 Renick Bell will do a live-coded performance with his own library, called [Conductive](http://renickbell.net/conductive), for instantiating agent processes and generating patterns which those agents follow. By manipulating those agents, which trigger a sampler or control other agents, a rapidly changing stream of bass, percussion, noise, and tones is improvised according to a rough sketch of the overall performance structure. The sample player was built with [hsc3](https://hackage.haskell.org/package/hsc3), a Haskell client for [SuperCollider](http://audiosynth.com/) by Rohan Drape. Interaction with the system, which is projected for the audience, employs the Glasgow Haskell Compiler Interpreter (ghci), the vim text editor, the xmonad window manager, and the tmux terminal multiplexer.
 
 Bell is a computer musician, programmer, and teacher living in Tokyo, Japan. He is a graduate of the doctoral program at Tama Art University in Tokyo, Japan. His current research interests are live coding, improvisation, and algorithmic composition using open source software.
@@ -73,23 +75,23 @@ Composer, programmer and improviser of music, Cárdenas has followed a path from
 
 ## [Atsuro Hoshino](https://about.me/hoshinoatsuro) {#atsurohoshino}
 
+[video](https://www.youtube.com/watch?v=-77fZqh7VTU)
+
 Atsuro Hoshino will live code audio using GNU Emacs for textual user interface, [SuperCollider](http://audiosynth.com/) for audio synthesis engine, and Scheme code executed in GNU Guile for gluing things together. The Scheme code will use the [rsc3](http://rd.slavepianos.org/?t=rsc3) library to interact with SuperCollider. Sequential events are controlled with a technique called temporal recursion. Like any other recursive function, temporal recursion is a recursive function defined in Scheme, but taking a time stamp as an argument. This form enables asynchronous updates of the body of a function without interrupting audio events sent to synthesis engine.
 
 Hoshino is a software engineer in Tokyo, Japan who since university has been playing with various computer music languages. After working with common development languages at a startup company, he encountered Haskell and fell in love with it, though his recent interest is growing toward the LISP language family.
 
 ## [Akihiro Kubota](https://www.youtube.com/user/hemokosa?spfreload=10) {#akihirokubota}
 
+[video](https://www.youtube.com/watch?v=IcDQnXWi4bg&t=7s)
+
 Akihiro Kubota will perform a new kind of sound poetry using sound data from the world’s first art satellite, [ARTSAT1:INVADER](http://artsat.jp). INVADER was equipped with Morikawa, an on-board mission computer compatible with the Arduino open-source hardware platform. Morikawa’s missions included algorithmic generation and transmission of synthesized voice, music and poems, capturing and transmitting of image data and communicating with the ground through a chatbot program. The fragmented sound data is reconstructed as a live coding performance using [TidalCycles](http://tidalcycles.org/). Kubota finds the flexible and multiple notations of this functional language to be very useful for real-time (live coding) performance.
 
 Kubota is a professor of the Art and Media Course in the Information Design Department at Tama Art University in Tokyo, Japan. He earned his doctorate at the University of Tokyo in the Faculty of Engineering. His projects, such as the ARTSAT Project (the world's first nano art satellite and 3D-printed artwork to be successfully launched into deep space) incorporate the diverse fields of bio art, digital fabrication, sound performance and the creation of original musical instruments.
 
-## [Jay McCarthy](https://jeapostrophe.github.io/home/) {#jaymccarthy}
-
-Jay McCarthy will present a performance of Bithoven, a composer of approximately 1.079363e+239 different compositions based on four-part harmony and basic chord progressions. It is combined with a purely functional audio synthesis engine based on the Ricoh RP2A03, found in the 1985 Nintendo Entertainment System (NES). The synthesis engine is parameterized over a band of instruments and styles of play, so that each composition can be played in one of approximately 4.22234e+41 different arrangements or "NEStrations". The music is thought to be plausible to most listeners as being hand-made in the era of the RP2A03.
-
-Jay McCarthy is an associate professor of computer science at the University of Massachusetts at Lowell and a member of the Racket development team. He completed a Ph.D. at Brown University in the Computer Science Department. His priorities are programming language expressiveness, formal verification, CS education, and family.
-
 ## [RAW](http://vimeo.com/rawlivecoding) ([Selçuk Artut](http://www.selcukartut.com/), [Alp Tuğan](http://www.alptugan.com/)) {#raw}
+
+[video](https://www.youtube.com/watch?v=FIJYreAeS4w&t=3s)
 
 The duo of Selçuk Artut and Alp Tuğan, as RAW, will perform using three laptops: one dedicated to the display of visuals generated with openFrameworks and the other for [Supercollider](http://audiosynth.com/) and [Sonic Pi](http://tidalcycles.org/). They will use a video switcher to switch between the two coding screens, the visuals, and a GoPro camera. Additional audio will be produced on an Arturia Minibrute, an analog synthesizer.
 
@@ -97,7 +99,10 @@ Selçuk Artut lives in Istanbul, Turkey, where he spends much of his time philos
 
 Alp Tugan lives in Istanbul. Tugan is an interaction designer focusing on creative coding for his artistic productions. He has received his MA on Visual Communication Design from Sabanci University, Istanbul.
 
+
 ## Gene Shuman and [Yullippe](https://yullippe.bandcamp.com/) {#geneshuman}
+
+[video](https://www.youtube.com/watch?v=ugwxIHqwbOc&t=4s)
 
 Gene Shuman will present a visual performance with his system called [Epimorphism](http://www.epimorphism.com/), an art project intended to simulate video feedback. It is written in PureScript, a strict dialect of Haskell which compiles to Javascript and runs in web browsers supporting WebGL. Video feedback is a traditionally analog art form used since the 1960s to create recursive and self similar video animations. Despite feeling a lack of a particular domain-specific justification for using functional programming, Shuman argues that the use of functional programming for this project shows the inherent benefits of functional programming: faster and more stable development of software which is easier to reason about and to return to after significant developmental pauses.
 
@@ -108,6 +113,8 @@ Gene Shuman is a software engineer in the San Francisco area, where he moved in 
 Yullippe (Yuri Urano) is a musician from Osaka. She has been performing as Yullippe since 2012. She has released two albums and performs frequently at electronic music events in Japan.
 
 ## [Atsushi Tadokoro](http://yoppa.org/) {#atsushitadokoro}
+
+[video](https://www.youtube.com/watch?v=9tfuASWUqYQ)
 
 Atsushi Tadokoro will perform a piece called Synesthesic Stream, a live coding audiovisual performance using [TidalCyles](http://tidalcycles.org/). All audio and visuals are generated in real-time through improvisation in code. In the work, the sounds gradually change, and the visuals follow the sounds according to the performer's "synesthesic" sense. The visuals are generated by generating control signals in TidalCycles which are sent via OSC using Tadokoro's own library to a video synthesizer which he has developed using openFrameworks.
 
