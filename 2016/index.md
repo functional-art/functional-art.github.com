@@ -33,11 +33,13 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Jay McCarthy<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19403" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="mccarthy-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=5ejwk6p78Yo&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 * **Structured reactive programming with polymorphic temporal tiles**<br/>
   David Janin and Simon Archipoff<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19416" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="janin-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=t5GQJ-XERVY&index=2&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 #### 10:35-11:25
 
@@ -45,6 +47,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Caleb Helbling and Samuel Guyer<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19404" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="helbling-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=3HwhCBqPH2E&index=3&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 * [**Demo: Juniper: A Functional Reactive Programming Language for the Arduino**](juniper.html)<br/>Caleb Helbling and Samuel Guyer<br/>
   <a href="helbling-demo-slides.pdf">slides</a>
@@ -55,8 +58,11 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Jakob Leben<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19415" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="leben-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=OkjC7Nxc2ho&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY&index=4">video</a>
 
 * [**Demo: Klangmeister**](klangmeister.html)<br/>Chris Ford
+  <br/>
+  <a href="https://www.youtube.com/watch?v=3zz1tLwQ7qE&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY&index=5">video</a>
 
 #### 14:00-14:50
 
@@ -64,22 +70,25 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Jean Bresson, John MacCallum and Adrian Freed<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19417" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="bresson-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=4Z2I73mbPo8&index=6&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 * [**Demo: VoxelCAD, a collaborative voxel-based CAD tool**](voxelcad.html)<br/>Csongor Kiss and Toby Shaw
   <br/>
   <a href="kiss-shaw-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=JaTb7yyIAZI&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY&index=7">video</a>
 
 #### 15:20-16:10
 
 * **Call for Collaboration: Computational Musicology, ????, Profit**<br/>
   Chris Ford<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19419" title="Get the Full Text from the ACM Digital Library">paper</a>
-  <br/>
   <a href="http://ctford.github.io/kolmogorov-music/">slides</a>
+  <a href="https://www.youtube.com/watch?v=iRTlB4hqaIA&index=8&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 * [**Demo: Alda: A text-based music composition language**](alda.html)<br/>Dave Yarwood
   <br/>
   <a href="yarwood-slides.pdf">slides</a>
+  <a href="https://www.youtube.com/watch?v=c5pCFtwO4j8&index=9&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 #### 16:40-18:00
 
@@ -87,8 +96,11 @@ greater consistency, tersity, and closer mapping to a problem domain.
   Tom E. Murphy<br/>
   <a class="DLtitleLink" href="http://dl.acm.org/authorize?N19418" title="Get the Full Text from the ACM Digital Library">paper</a>
   <a href="murphy-slides/farm_talk.html">slides</a>
+  <a href="https://www.youtube.com/watch?v=CbKFbm4Yajk&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY&index=10">video</a>
 
 * [**Demo: Epimorphism**](epimorphism.html)<br/>Gene Shuman
+  <br/>
+  <a href="https://www.youtube.com/watch?v=N5s4gUufRG0&index=11&list=PLnqUlCo055hXFRlP41zDPDQu3CYcD-OBY">video</a>
 
 #### 19:30-21:30 @ Beverly Hills
 
