@@ -27,20 +27,31 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 ### Workshop Organisation
 
-**Workshop Chair**:
+**Workshop Chair**: Mike Sperber, Active Group GmbH
 
-**Program Chair**:
+**Program Chair**: Jean Bresson, UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 
-**Publicity Chair**:
+**Publicity Chair**: Mark Santolucito, Yale University 
 
-**Performance Chair**:
+**Performance Chair**: Alex McLean, University of Leeds
 
 #### Program Committee:
-
+* Beatrice Berard,	LIP6, Universite Pierre et Marie Curie
+* Jean Bresson,		UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
+* Richard Gabriel,	IBM Research
+* Jean-Louis Giavitto,	UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
+* Stéphane Letz,		Grame
+* José Pedro Magalhães,	University of Oxford
+* Ivan Perez Dominguez,	University of Nottingham
+* Donya Quick,	Yale University
+* Christophe Rhodes,	Goldsmiths, University of London
+* Michael Sperber,	Active Group GmbH
+* Charlotte Truchet,	LINA, UMR 6241, Université de Nantes
+	
 ### Code of Conduct
 
-FARM adheres to ICFP 2016's
-[Code of Conduct](http://conf.researchr.org/attending/icfp-2016/code-of-conduct).
+FARM adheres to ICFP 2017's
+[Code of Conduct](http://icfp17.sigplan.org/attending/code-of-conduct).
 
 ### Call for Papers and Demos
 
