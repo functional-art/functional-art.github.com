@@ -56,4 +56,4 @@ FARM adheres to ICFP 2017's
 
 ### Call for Papers and Demos
 
-The Call for Papers and Demos is [now available](code.html)
+The Call for Papers and Demos is [now available](cfp.html)
