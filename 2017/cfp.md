@@ -1,6 +1,6 @@
 
 # 5th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
-### Oxford, UK, September, 9th 2017
+## Oxford, UK, September, 9th 2017
 
 ## *Call for Papers and Demos*
 
@@ -11,7 +11,7 @@ Functional Programming has emerged as a mainstream software development paradigm
 
 FARM encourages submissions from across art, craft and design, including textiles, visual art, music, 3D sculpture, animation, GUIs, video games, 3D printing and architectural models, choreography, poetry, and even VLSI layouts, GPU configurations, or mechanical engineering designs. Theoretical foundations, language design, implementation issues, and applications in industry or the arts are all within the scope of the workshop. The language used need not be purely functional (“mostly functional” is fine), and may be manifested as a domain specific language or tool. Moreover, submissions focusing on questions or issues about the use of functional programming are within the scope.
 
-FARM 2017 website : http://functional-art.org/2017/
+FARM 2017 website : [http://functional-art.org/2017/](http://functional-art.org/2017/)
 
 ## *Submissions*
 
@@ -28,9 +28,9 @@ We solicit original papers in the following categories:
 
 All submissions must propose an original contribution to the FARM theme. FARM is an interdisciplinary conference, so a wide range of approaches are encouraged.
 
-An original paper should have 5 to 12 pages, be in portable document format (PDF), using the ACM SIGPLAN style guidelines and use the ACM SIGPLAN template. [ http://www.sigplan.org/Resources/Author/ ]
+An original paper should have 5 to 12 pages, be in portable document format (PDF), using the ACM SIGPLAN style guidelines and use the [ACM SIGPLAN template](http://www.sigplan.org/Resources/Author/).
 
-Accepted papers will be published in the ACM Digital Library as part of the FARM 2017 proceedings. See http://authors.acm.org/main.cfm for information on the options available to authors. Authors are encouraged to submit auxiliary material for publication along with their paper (source code, data, videos, images, etc.); authors retain all rights to the auxiliary material.
+Accepted papers will be published in the ACM Digital Library as part of the FARM 2017 proceedings. See [http://authors.acm.org/main.cfm](http://authors.acm.org/main.cfm) for information on the options available to authors. Authors are encouraged to submit auxiliary material for publication along with their paper (source code, data, videos, images, etc.); authors retain all rights to the auxiliary material.
 
 ### 2) Demo proposals
 Demo proposals should describe a demonstration to be given at the FARM workshop and its context, connecting it with the themes of FARM. A demo could be in the form of a short (10-20 minute) tutorial, presentation of work-in-progress, an exhibition of some work, or even a performance. Demo proposals should be in plain text, HTML or Markdown format, and not exceed 2000 words. A demo proposal should be clearly marked as such, by prepending *Demo Proposal:* to the title.
@@ -51,7 +51,7 @@ Calls for collaboration will be published on the FARM website.
 
 ## *Submission is via EasyChair*
 
-https://easychair.org/conferences/?conf=farm2017
+[https://easychair.org/conferences/?conf=farm2017](https://easychair.org/conferences/?conf=farm2017)
 
 ### Authors take note
 

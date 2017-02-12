@@ -36,7 +36,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 **Performance Chair**: Alex McLean, University of Leeds
 
 #### Program Committee:
-* Renick Bell,	Tama Art University, Tokyo
+* Renick Bell, Tama Art University, Tokyo
 * Beatrice Berard,	LIP6, Universite Pierre et Marie Curie
 * Jean Bresson,		UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 * Richard Gabriel,	IBM Research
@@ -56,4 +56,4 @@ FARM adheres to ICFP 2017's
 
 ### Call for Papers and Demos
 
-The Call for Papers and Demos is not yet released.
+The Call for Papers and Demos is [now available](code.html)
