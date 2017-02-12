@@ -66,7 +66,7 @@ If you have any questions about what type of contributions that might be suitabl
 
 farm-2017@functional-art.org
 
-All presentations at FARM 2016 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site.
+All presentations at FARM 2017 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site.
 
 ### Key Dates:
 
