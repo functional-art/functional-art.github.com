@@ -23,6 +23,7 @@ Submissions are invited in three categories:
 ### 1) Original papers
 
 We solicit original papers in the following categories:
+
 - Original research
 - Overview / state of the art
 - Technology tutorial
@@ -41,6 +42,7 @@ Demo proposals will be published on the FARM website. A summary of the demo perf
 ### 3) Calls for collaboration
 
 Calls for collaboration should describe a need for technology or expertise related to the FARM theme. Examples may include but are not restricted to:
+
 - art projects in need of realization
 - existing software or hardware that may benefit from functional programming
 - unfinished projects in need of inspiration
