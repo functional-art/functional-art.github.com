@@ -36,6 +36,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 **Performance Chair**: Alex McLean, University of Leeds
 
 #### Program Committee:
+* Renick Bell,	Tama Art University, Tokyo
 * Beatrice Berard,	LIP6, Universite Pierre et Marie Curie
 * Jean Bresson,		UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 * Richard Gabriel,	IBM Research
