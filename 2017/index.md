@@ -42,7 +42,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * Richard Gabriel,	IBM Research
 * Jean-Louis Giavitto,	UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 * Stéphane Letz,		Grame
-* José Pedro Magalhães,	University of Oxford
+* José Pedro Magalhães,	Standard Chartered Bank
 * Ivan Perez Dominguez,	University of Nottingham
 * Donya Quick, Southern Methodist University
 * Christophe Rhodes,	Goldsmiths, University of London
