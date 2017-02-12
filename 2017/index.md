@@ -31,7 +31,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 **Program Chair**: Jean Bresson, UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 
-**Publicity Chair**: Mark Santolucito, Yale University 
+**Publicity Chair**: Mark Santolucito, Yale University
 
 **Performance Chair**: Alex McLean, University of Leeds
 
@@ -43,11 +43,11 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * Stéphane Letz,		Grame
 * José Pedro Magalhães,	University of Oxford
 * Ivan Perez Dominguez,	University of Nottingham
-* Donya Quick,	Yale University
+* Donya Quick, Southern Methodist University
 * Christophe Rhodes,	Goldsmiths, University of London
 * Michael Sperber,	Active Group GmbH
 * Charlotte Truchet,	LINA, UMR 6241, Université de Nantes
-	
+
 ### Code of Conduct
 
 FARM adheres to ICFP 2017's
