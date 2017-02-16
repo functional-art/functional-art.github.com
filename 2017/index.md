@@ -33,7 +33,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 **Publicity Chair**: Mark Santolucito, Yale University
 
-**Performance Chair**: Alex McLean, University of Leeds
+**Performance Chair**: Alex McLean, Deutsches Museum, Munich
 
 #### Program Committee:
 * Renick Bell, Tama Art University, Tokyo
