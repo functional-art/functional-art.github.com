@@ -44,10 +44,10 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * Stéphane Letz,		Grame
 * José Pedro Magalhães,	Standard Chartered Bank
 * Ivan Perez Dominguez,	University of Nottingham
-* Donya Quick, Southern Methodist University
+* Donya Quick, 	Southern Methodist University
 * Christophe Rhodes,	Goldsmiths, University of London
-* Andrew Sorensen
-* Michael Sperber,	Active Group GmbH
+* Andrew Sorensen,		Australian National University
+* Michael Sperber,		Active Group GmbH
 * Charlotte Truchet,	LINA, UMR 6241, Université de Nantes
 
 ### Code of Conduct
