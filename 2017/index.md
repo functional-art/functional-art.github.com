@@ -8,7 +8,7 @@ active: farm2017
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
-**September, 2017**, co-located with
+**9th September, 2017**, co-located with
 [ICFP 2017](http://icfp17.sigplan.org/home) in Oxford, United Kingdom
 
 ### About
