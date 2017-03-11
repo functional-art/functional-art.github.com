@@ -11,6 +11,8 @@ active: farm2017
 **9th September, 2017**, co-located with
 [ICFP 2017](http://icfp17.sigplan.org/home) in Oxford, United Kingdom
 
+Submission deadline is **1st June, 2017**.
+
 ### About
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
@@ -57,4 +59,5 @@ FARM adheres to ICFP 2017's
 
 ### Call for Papers and Demos
 
-The Call for Papers and Demos is [now available](cfp.html)
+The Call for Papers and Demos is [now available](cfp.html).
+The deadline for submission is June 1, 2017.
