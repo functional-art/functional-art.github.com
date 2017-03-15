@@ -2,7 +2,13 @@
 5th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 Oxford, UK, September, 9th 2017
 
-Call for Papers and Demos
+Key Dates:
+
+Submission deadline		June 1, 2017
+Author Notification 		July 1, 2017
+Camera Ready 			July 13, 2017
+
+Call for Papers and Demos:
 
 The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design (FARM) gathers together people who are harnessing functional techniques in the pursuit of creativity and expression.
 It is co-located with ICFP 2017, the 22nd ACM SIGPLAN International Conference on Functional Programming.
@@ -66,9 +72,4 @@ farm-2017@functional-art.org
 
 All presentations at FARM 2017 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site.
 
-Key Dates:
 
-Submission deadline		June 1, 2017
-Author Notification 		July 1, 2017
-Camera Ready 			July 13, 2017
-Workshop 			September 9, 2017
