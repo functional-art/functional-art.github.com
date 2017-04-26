@@ -21,9 +21,6 @@ We encourage both risk-taking proposals which push forward the state of the art 
 
 ### Submission process
 
-<span style="float: right"><img style="width: 30em" src="renick.jpg" /><br />
-Renick Bell, FARM 2016
-</span>
 Please submit a brief outline/programme note (100-200 words), a stable link to a single video example, possibly a stable link to one additional audio example, and a short biography (100-150 words for each contributor).
 
 Please include a complete technical description of what is needed from the organizers for your performance, including equipment, space requirements, and internet access. We are unlikely to be able to accommodate performances exceeding 20 minutes in length.
@@ -40,6 +37,9 @@ The venue for the evening FARM performances will be the [Old Fire Station](https
 
 ### Documentation
 
+<span style="float: right"><img style="width: 30em" src="renick.jpg" /><br />
+Renick Bell, FARM 2016
+</span>
 A summary of the performances will be published as part of the conference proceedings. As with presentations, all performances at FARM 2017 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site. 
 
 ### Finances
