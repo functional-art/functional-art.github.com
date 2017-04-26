@@ -10,7 +10,7 @@ active: farm2017
 
 ### Oxford, UK, 9th September 2017
 
-<span style="float: right"><img style="width=30em" src="farm.jpg" /><br />
+<span style="float: right"><img style="width: 30em" src="farm.jpg" /><br />
 <em>Yullippe (Gene Shuman visuals), FARM 2016</em>
 </span>
 Functional Programming has emerged as a mainstream software development paradigm, and its artistic and creative use is booming. A growing number of environments for art, music and design now employ functional programming languages and techniques. The ACM SIGPLAN [International Workshop on Functional Art, Music, Modelling and Design](http://functional-art.org/2017/) (also known as FARM) gathers together people who are harnessing functional programming techniques in the pursuit of creativity and expression. Our fifth workshop takes place in Oxford UK, on 9th September 2017, as part of the [International Conference on Functional Programming](http://icfp17.sigplan.org/home).
@@ -21,7 +21,7 @@ We encourage both risk-taking proposals which push forward the state of the art 
 
 ### Submission process
 
-<span style="float: right"><img style="width=30em" src="renick.jpg" /><br />
+<span style="float: right"><img style="width: 30em" src="renick.jpg" /><br />
 Renick Bell, FARM 2016
 </span>
 Please submit a brief outline/programme note (100-200 words), a stable link to a single video example, possibly a stable link to one additional audio example, and a short biography (100-150 words for each contributor).
