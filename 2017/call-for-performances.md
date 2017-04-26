@@ -30,7 +30,7 @@ We will confirm receipt by return.
 
 ### Performance Venue
 
-The venue for the evening FARM performances will be the Old Fire Station theatre in Oxford, an excellent venue which has audio/visual facilities and fully sprung dance floor. You can download the technical specifications here: https://oldfirestation.org.uk/hires/perform-at-the-old-fire-station/ 
+The venue for the evening FARM performances will be the [Old Fire Station](https://oldfirestation.org.uk/) theatre in Oxford, an excellent venue which has audio/visual facilities and fully sprung dance floor. You can [download the technical specifications here](https://oldfirestation.org.uk/hires/perform-at-the-old-fire-station/).
 
 ### Documentation
 
