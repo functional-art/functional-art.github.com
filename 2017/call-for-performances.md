@@ -51,7 +51,7 @@ Please get in touch for more information in either case.
 <table>
 <tr>
 <td style="padding-right:10px">Submission deadline</td><td>
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2017+Performance Submission+Deadline&iso=20170618T235959&p1=%3A">18th June
+<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+2017+Performance%20Submission+Deadline&iso=20170618T235959&p1=3399">18th June
 2017</a></td>
 </tr>
 
