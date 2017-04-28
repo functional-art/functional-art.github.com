@@ -61,3 +61,7 @@ FARM adheres to ICFP 2017's
 
 The Call for Papers and Demos is [now available](cfp.html).
 The deadline for submission is June 1, 2017.
+
+## Call for Performances
+
+There will also be evening performances, and we are [accepting proposals for that too](http://functional-art.org/2017/call-for-performances.html), deadline June 18th, 2017.
