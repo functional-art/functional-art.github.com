@@ -77,7 +77,8 @@ All presentations at FARM 2017 will be recorded. Permission to publish the resul
 
 ### Key Dates:
 
-- Submission deadline	:	June 1, 2017
+- Abstract Registration deadline: June 1, 2017
+- Submission deadline	:	June 8, 2017
 - [Evening performance proposal](http://functional-art.org/2017/call-for-performances.html) deadline: June 18, 2017
 - Author Notification : 	July 1, 2017
 - Camera Ready : 		July 13, 2017
