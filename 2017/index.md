@@ -11,7 +11,7 @@ active: farm2017
 **9th September, 2017**, co-located with
 [ICFP 2017](http://icfp17.sigplan.org/home) in Oxford, United Kingdom
 
-Submission deadline is **1st June, 2017**.
+Submission deadline is **8th June, 2017** _NB: (Abstract Registion by June 1)_
 
 ### About
 
