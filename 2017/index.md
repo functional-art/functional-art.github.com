@@ -60,7 +60,7 @@ FARM adheres to ICFP 2017's
 ### Call for Papers and Demos
 
 The Call for Papers and Demos is [now available](cfp.html).
-The deadline for submission is June 1, 2017.
+The deadline for submission is June 8! (Abstract Registion by June 1)
 
 ### Call for Performances
 
