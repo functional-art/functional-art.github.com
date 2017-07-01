@@ -16,10 +16,6 @@ FARM 2017 website : [http://functional-art.org/2017/](http://functional-art.org/
 
 ## *Submissions*
 
-```diff
-+ Submissions are open!
-```
-
 We welcome submissions from academic, professional, and independent programmers and artists.
 
 Submissions are invited in three categories:
