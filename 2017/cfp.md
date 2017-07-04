@@ -35,7 +35,7 @@ An original paper should have 5 to 12 pages, be in portable document format (PDF
 Accepted papers will be published in the ACM Digital Library as part of the FARM 2017 proceedings. See [http://authors.acm.org/main.cfm](http://authors.acm.org/main.cfm) for information on the options available to authors. Authors are encouraged to submit auxiliary material for publication along with their paper (source code, data, videos, images, etc.); authors retain all rights to the auxiliary material.
 
 ### 2) Demo proposals
-Demo proposals should describe a demonstration to be given at the FARM workshop and its context, connecting it with the themes of FARM. A demo could be in the form of a short (10-20 minute) tutorial, presentation of work-in-progress, an exhibition of some work, or even a performance. Demo proposals should be in plain text, HTML or Markdown format, and not exceed 2000 words. A demo proposal should be clearly marked as such, by prepending *Demo Proposal:* to the title.
+Demo proposals should describe a demonstration to be given at the FARM workshop and its context, connecting it with the themes of FARM. A demo could be in the form of a short (10-20 minute) tutorial, presentation of work-in-progress, an exhibition of some work, or even a performance (although see also the separate [call for evening performances](http://functional-art.org/2017/call-for-performances.html)). Demo proposals should be in plain text, HTML or Markdown format, and not exceed 2000 words. A demo proposal should be clearly marked as such, by prepending *Demo Proposal:* to the title.
 
 Demo proposals will be published on the FARM website. A summary of the demo performances will also be published as part of the conference proceedings, to be prepared by the program chair.
 
@@ -51,6 +51,9 @@ Calls for collaboration should be in plain text, HTML or Markdown format, and no
 
 Calls for collaboration will be published on the FARM website.
 
+### 4) Evening performances
+
+There is a separate [call for evening performances](http://functional-art.org/2017/call-for-performances.html).
 
 ## *Submission is via EasyChair*
 
@@ -69,11 +72,13 @@ If you have any questions about what type of contributions that might be suitabl
 
 farm-2017@functional-art.org
 
-All presentations at FARM 2016 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site.
+All presentations at FARM 2017 will be recorded. Permission to publish the resulting video (in all probability on YouTube, along with the videos of ICFP itself and the other ICFP-colocated events) will be requested on-site.
 
 ### Key Dates:
 
-- Submission deadline	:	TO BE ANNOUNCED SOON
-- Author Notification : 		TO BE ANNOUNCED SOON
-- Camera Ready : 			TO BE ANNOUNCED SOON
+- Abstract Registration deadline: June 1, 2017
+- Submission deadline	:	June 8, 2017
+- [Evening performance proposal](http://functional-art.org/2017/call-for-performances.html) deadline: June 18, 2017
+- Author Notification : 	July 1, 2017
+- Camera Ready : 		July 13, 2017
 - Workshop : 			September 9, 2017

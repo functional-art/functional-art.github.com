@@ -104,7 +104,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 #### 19:30-21:30 @ Beverly Hills
 
-See the [here](performance) for detailed information on the program and artists.
+See [here](performance) for detailed information on the program and artists.
 
 * Renick Bell
 * Alexandra Cardenas

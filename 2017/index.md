@@ -8,8 +8,10 @@ active: farm2017
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
-**September, 2017**, co-located with
+**9th September, 2017**, co-located with
 [ICFP 2017](http://icfp17.sigplan.org/home) in Oxford, United Kingdom
+
+Submission deadline is **8th June, 2017** _NB: (Abstract Registion by June 1)_
 
 ### About
 
@@ -33,7 +35,7 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 **Publicity Chair**: Mark Santolucito, Yale University
 
-**Performance Chair**: Alex McLean, University of Leeds
+**Performance Chair**: Alex McLean, Deutsches Museum, Munich
 
 #### Program Committee:
 * Renick Bell, Tama Art University, Tokyo
@@ -42,11 +44,12 @@ greater consistency, tersity, and closer mapping to a problem domain.
 * Richard Gabriel,	IBM Research
 * Jean-Louis Giavitto,	UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
 * Stéphane Letz,		Grame
-* José Pedro Magalhães,	University of Oxford
+* José Pedro Magalhães,	Standard Chartered Bank
 * Ivan Perez Dominguez,	University of Nottingham
-* Donya Quick, Southern Methodist University
+* Donya Quick, 	Southern Methodist University
 * Christophe Rhodes,	Goldsmiths, University of London
-* Michael Sperber,	Active Group GmbH
+* Andrew Sorensen,		Australian National University
+* Michael Sperber,		Active Group GmbH
 * Charlotte Truchet,	LINA, UMR 6241, Université de Nantes
 
 ### Code of Conduct
@@ -56,4 +59,9 @@ FARM adheres to ICFP 2017's
 
 ### Call for Papers and Demos
 
-The Call for Papers and Demos is [now available](cfp.html)
+The Call for Papers and Demos is [now available](cfp.html).
+The deadline for submission is June 8! (Abstract Registion by June 1)
+
+### Call for Performances
+
+There will also be evening performances, and we are [accepting proposals for that too](http://functional-art.org/2017/call-for-performances.html), deadline June 18th, 2017.
