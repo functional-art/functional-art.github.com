@@ -27,6 +27,11 @@ techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
 
+### Registration Info
+
+You can register for the FARM workshop through the [ICFP registration page](http://icfp17.sigplan.org/attending/registration). 
+At least one author of each accepted submission must register and present their paper at the workshop. 
+
 ### Workshop Organisation
 
 **Workshop Chair**: Mike Sperber, Active Group GmbH
@@ -65,3 +70,4 @@ The deadline for submission is June 8! (Abstract Registion by June 1)
 ### Call for Performances
 
 There will also be evening performances, and we are [accepting proposals for that too](http://functional-art.org/2017/call-for-performances.html), deadline June 18th, 2017.
+
