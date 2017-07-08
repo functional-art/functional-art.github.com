@@ -16,10 +16,6 @@ FARM 2017 website : [http://functional-art.org/2017/](http://functional-art.org/
 
 ## *Submissions*
 
-```diff
-+ Submissions are open!
-```
-
 We welcome submissions from academic, professional, and independent programmers and artists.
 
 Submissions are invited in three categories:
@@ -67,6 +63,9 @@ There is a separate [call for evening performances](http://functional-art.org/20
 
 The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work.
 
+At least one author of each accepted submission will be expected to attend and present their paper at the conference. The schedule for presentations will be determined and shared with authors after the full program has been selected. 
+
+
 ### Questions
 
 If you have any questions about what type of contributions that might be suitable, or anything else regarding submission or the workshop itself, please contact the organisers at:
@@ -77,7 +76,8 @@ All presentations at FARM 2017 will be recorded. Permission to publish the resul
 
 ### Key Dates:
 
-- Submission deadline	:	June 1, 2017
+- Abstract Registration deadline: June 1, 2017
+- Submission deadline	:	June 8, 2017
 - [Evening performance proposal](http://functional-art.org/2017/call-for-performances.html) deadline: June 18, 2017
 - Author Notification : 	July 1, 2017
 - Camera Ready : 		July 13, 2017

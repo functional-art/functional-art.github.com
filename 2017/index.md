@@ -11,7 +11,7 @@ active: farm2017
 **9th September, 2017**, co-located with
 [ICFP 2017](http://icfp17.sigplan.org/home) in Oxford, United Kingdom
 
-Submission deadline is **1st June, 2017**.
+Submission deadline is **8th June, 2017** _NB: (Abstract Registion by June 1)_
 
 ### About
 
@@ -26,6 +26,11 @@ art, music and design now employ functional programming languages and
 techniques. FARM is a forum for exploration and critical evaluation of
 these developments, for example to consider potential benefits of
 greater consistency, tersity, and closer mapping to a problem domain.
+
+### Registration Info
+
+You can register for the FARM workshop through the [ICFP registration page](http://icfp17.sigplan.org/attending/registration). 
+At least one author of each accepted submission must register and present their paper at the workshop. 
 
 ### Workshop Organisation
 
@@ -60,8 +65,9 @@ FARM adheres to ICFP 2017's
 ### Call for Papers and Demos
 
 The Call for Papers and Demos is [now available](cfp.html).
-The deadline for submission is June 1, 2017.
+The deadline for submission is June 8! (Abstract Registion by June 1)
 
 ### Call for Performances
 
 There will also be evening performances, and we are [accepting proposals for that too](http://functional-art.org/2017/call-for-performances.html), deadline June 18th, 2017.
+

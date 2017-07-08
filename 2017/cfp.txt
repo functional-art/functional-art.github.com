@@ -4,7 +4,8 @@ Oxford, UK, September, 9th 2017
 
 Key Dates:
 
-Submission deadline		June 1, 2017
+Abstract Registration deadline	June 1, 2017
+Submission deadline		June 8, 2017
 Author Notification 		July 1, 2017
 Camera Ready 			July 13, 2017
 
@@ -110,6 +111,8 @@ available in the ACM Digital Library. This date may be up to two weeks
 prior to the first day of your conference. The official publication
 date affects the deadline for any patent filings related to published
 work.
+
+At least one author of each accepted submission will be expected to attend and present their paper at the conference. The schedule for presentations will be determined and shared with authors after the full program has been selected.
 
 Questions
 
