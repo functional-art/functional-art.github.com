@@ -1,3 +1,8 @@
+---
+layout: default
+title: FARM 2017 Call for Papers and Demos
+active: farm2017
+---
 
 # 5th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design
 
