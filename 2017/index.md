@@ -27,7 +27,11 @@ greater consistency, tersity, and closer mapping to a problem domain.
 
 #### Workshop Registration
 
-You can register for the FARM workshop through the [ICFP registration page](http://icfp17.sigplan.org/attending/registration). 
+You can register for the FARM workshop through
+the
+[ICFP registration page](http://icfp17.sigplan.org/attending/registration).
+Early registration deadline is **Aug 4**!
+
 At least one author of each accepted submission must register and present their paper at the workshop. 
 
 #### Performance Evening Registration
