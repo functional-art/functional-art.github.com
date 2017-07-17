@@ -51,7 +51,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 * **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
 * **Modelling the way mathematics is actually done**<br/>
-  Joseph Corneli, Raymond Puzio
+  Joseph Corneli, Raymond Puzio, Ursula Martin, Dave Murray-Rust, Alison Pease, Gabriela Rino Nesin
 * **Unified Media Programming: An Algebraic Approach**<br/>
   David Janin, Simon Archipoff
 * **GALE: Graphic Adventure Library and Engine**<br/>
