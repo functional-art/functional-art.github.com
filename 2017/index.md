@@ -48,7 +48,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 * **A Categorial Grammar for Music and Its Use in Automatic Melody
 	Generation**<br/>
 	Halley Young
-* **FAUST for Functional Programmers**<br/>
+* **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
 * **Modelling the way mathematics is actually done**<br/>
   Joseph Corneli, Raymond Puzio
