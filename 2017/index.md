@@ -53,7 +53,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 * **Modelling the way mathematics is actually done**<br/>
   Joseph Corneli, Raymond Puzio, Ursula Martin, Dave Murray-Rust, Alison Pease, Gabriela Rino Nesin
 * **Unified Media Programming: An Algebraic Approach**<br/>
-  David Janin, Simon Archipoff
+  Simon Archipoff, David Janin
 * **GALE: Graphic Adventure Library and Engine**<br/>
   Ivan Perez
 
