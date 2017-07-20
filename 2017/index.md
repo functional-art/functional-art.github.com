@@ -54,7 +54,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
   Joseph Corneli, Raymond Puzio, Ursula Martin, Dave Murray-Rust, Alison Pease, Gabriela Rino Nesin
 * **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin
-* **GALE: Graphic Adventure Library and Engine**<br/>
+* **GALE: A Functional Graphic Adventure Library and Engine**<br/>
   Ivan Perez
 
 #### Demos
