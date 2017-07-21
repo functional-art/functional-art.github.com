@@ -69,7 +69,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
   Stian Veum Møllersen
 * **Vivid: Sound synthesis with Haskell and Supercollider**<br/>
   Thomas Murphy
-* **African Polyphony and Polyrhythm**<br/>
+* **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
   Chris Ford
 
 ### Performance Evening
