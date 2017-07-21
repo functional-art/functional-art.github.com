@@ -14,11 +14,9 @@ A video shoing the Arpeggigon canbe found here: [https://www.youtube.com/watch?v
 [https://gitlab.com/chupin/arpeggigon](https://gitlab.com/chupin/arpeggigon)
 
 
-<html>
-<br><br>
+<br/><br/>
 <center>
-<img src="./arpeggigon_rsrc/arpeggigon.png" width=400>
+<img src="arpeggigon.png" width=400>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="./arpeggigon_rsrc/HarmonicTable.png" width=400>
 </center>
-</html>
