@@ -59,7 +59,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 
 #### Demos
 
-* **The Arpeggigon: A Functional Reactive Musical Automaton**<br/>
+* **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon.html)**  <br/>
   Henrik Nilsson
 * **Octopus : a high-level fast 3D animation language**<br/>
   Simon Archipoff, David Janin
