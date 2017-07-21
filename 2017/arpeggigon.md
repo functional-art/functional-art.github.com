@@ -13,10 +13,7 @@ A video shoing the Arpeggigon canbe found here: [https://www.youtube.com/watch?v
 **Link to the software:**
 [https://gitlab.com/chupin/arpeggigon](https://gitlab.com/chupin/arpeggigon)
 
-
-<br/><br/>
+<br>
 <center>
-<img src="arpeggigon.png" width=400>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="./arpeggigon_rsrc/HarmonicTable.png" width=400>
+![](arpeggigon.png)
 </center>
