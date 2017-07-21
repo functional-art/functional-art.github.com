@@ -15,5 +15,5 @@ A video shoing the Arpeggigon canbe found here: [https://www.youtube.com/watch?v
 
 <br>
 <center>
-![](/2017/arpeggigon_rsrc/arpeggigon.png)
+![arpeggigon](/2017/arpeggigon_rsrc/arpeggigon.png)
 </center>
