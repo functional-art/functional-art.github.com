@@ -50,7 +50,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 	Halley Young
 * **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
-* **Modelling the way mathematics is actually done**<br/>
+* **Modelling the Way Mathematics Is Actually Done**<br/>
   Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
 * **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin
@@ -59,9 +59,9 @@ Admission is free - the Old Fire Station asks for a small contribution.
 
 #### Demos
 
-* **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon.html)**  <br/>
+* **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
   Henrik Nilsson
-* **Octopus : a high-level fast 3D animation language**<br/>
+* **Octopus: A high-level fast 3D animation language**<br/>
   Simon Archipoff, David Janin
 * **Representation of musical notation in Haskell**<br/>
   Edward Lilley
