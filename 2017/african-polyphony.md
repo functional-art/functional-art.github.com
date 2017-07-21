@@ -19,8 +19,8 @@ models by using them to recreate music and inviting central African
 musicians to critique the results.
 
 This demonstration will take examples of
-Central African musical compositions notated in Arom's 'African Polyphony
-and Polyrhythm' and render them in Lisp, specifically the Leipzig
+Central African musical compositions notated in Arom's _African Polyphony
+and Polyrhythm_ and render them in Lisp, specifically the Leipzig
 composition library for Clojure. I will show that the programmatic approach
 is able to clearly articulate musical structure that Arom's notational
 scheme leaves implicit (or delegates to the accompanying text to

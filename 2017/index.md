@@ -45,8 +45,7 @@ Admission is free - the Old Fire Station asks for a small contribution.
 
 #### Papers
 
-* **A Categorial Grammar for Music and Its Use in Automatic Melody
-	Generation**<br/>
+* **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
 	Halley Young
 * **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
@@ -61,25 +60,23 @@ Admission is free - the Old Fire Station asks for a small contribution.
 
 * **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
   Henrik Nilsson
-* **Octopus: A high-level fast 3D animation language**<br/>
+* **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
-* **Representation of musical notation in Haskell**<br/>
+* **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
   Edward Lilley
-* **Ait, a concatenative language for creative programming**<br/>
+* **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
   Stian Veum Møllersen
-* **Vivid: Sound synthesis with Haskell and Supercollider**<br/>
+* **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
   Thomas Murphy
 * **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
   Chris Ford
 
 ### Performance Evening
 
-The
-traditional
-[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176) will
-be the final event of ICFP 2017 on September 9, at 7:30PM.  It will
-happen at
-the
+The traditional
+[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176) 
+will be the final event of ICFP 2017 on September 9, at 7:30PM.  
+It will happen at the
 [Old Fire Station](https://oldfirestation.ticketsolve.com/venues/126561395/shows):
 
 An evening of strange and wonderful music and audio/visual work made
