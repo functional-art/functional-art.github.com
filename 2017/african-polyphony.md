@@ -24,7 +24,8 @@ and Polyrhythm' and render them in Lisp, specifically the Leipzig
 composition library for Clojure. I will show that the programmatic approach
 is able to clearly articulate musical structure that Arom's notational
 scheme leaves implicit (or delegates to the accompanying text to
-describe).I will of course also play the examples for the audience, because
+describe).
+I will of course also play the examples for the audience, because
 as Arom quotes Lévi-Strauss, "The proof of the analysis is in the
 synthesis."
 
