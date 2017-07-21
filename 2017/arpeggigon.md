@@ -14,6 +14,7 @@ A video shoing the Arpeggigon canbe found here: [https://www.youtube.com/watch?v
 [https://gitlab.com/chupin/arpeggigon](https://gitlab.com/chupin/arpeggigon)
 
 <br>
+
 <center>
-![arpeggigon](/2017/arpeggigon_rsrc/arpeggigon.png)
+<img src="/2017/arpeggigon_rsrc/arpeggigon.png">
 </center>
