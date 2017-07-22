@@ -32,13 +32,15 @@ The Octopus name comes from our first experiment of the language which consists 
 
 
 <center>
-<a href="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/10000906 0684332/videos/1749884218656917/&show_text=1&width=500"
-<img src="/2017/octopus_rsrc/octopus-demo.png" alt="octopus demo" width="600">
-</a>
+	<a href="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/10000906 0684332/videos/1749884218656917/&show_text=1&width=500">
+	<img src="/2017/octopus_rsrc/octopus-demo.png" alt="octopus demo" width="600">
+	</a>
 </center>
 
 
 _Made in April 2017 with our non GPU version of the language, the speed of the video captured animation has been multiplied by 4 to meet a reasonable frame rate. The current version of Octopus allows for a direct "live" rendering of the same animation with at least cinema frame rate._
+
+<br/>
 
 #### Demo objectives
 
