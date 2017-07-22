@@ -3,8 +3,9 @@
 
 ### Simon Archipoff and David Janin (LaBRI, University of Bordeaux, Bordeaux INP, France)
 
-_In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A ghci compatible version of our current (compiled) version should also allow for making the demo interactive._
+_In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A GHCi-compatible version of our current (compiled) version should also allow for making the demo interactive._
 
+<br>
 
 #### General principles
 
