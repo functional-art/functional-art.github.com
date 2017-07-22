@@ -1,8 +1,9 @@
+ 
  # Octopus: A High-Level Fast 3D Animation Language
 
  ### Simon Archipoff and David Janin (LaBRI, University of Bordeaux, Bordeaux INP, France)
 
-_Abstract: In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A ghci compatible version of our current (compiled) version should also allow for making the demo interactive._
+_In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A ghci compatible version of our current (compiled) version should also allow for making the demo interactive._
 
 
 #### General principles
@@ -29,13 +30,6 @@ All these tasks are executed on the GPU henceforth ensuring high efficiency. The
 
 The Octopus name comes from our first experiment of the language which consists in defining the Octoclock: a 3D clock with visible gear mechanisms, extended with octopus like arms, in the first (essentially non GPU) version of the language. Further generalization of the timed extrusion principles eventually led us to the definition of sort of living 3D flowers, which has eventually been used for some music illustration:
 
-<center>
-  <iframe
-  src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100009060684332/videos/1749884218656917/&show_text=1&width=500"
-  width="700" height="390" style="border:none;overflow:hidden"
-  scrolling="no" frameborder="0" allowTransparency="true"
-allowFullScreen="true"></iframe>
-</center>
 
 _Made in April 2017 with our non GPU version of the language, the speed of the video captured animation has been multiplied by 4 to meet a reasonable frame rate. The current version of Octopus allows for a direct "live" rendering of the same animation with at least cinema frame rate._
 
