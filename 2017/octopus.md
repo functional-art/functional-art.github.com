@@ -3,13 +3,15 @@
 
 ### Simon Archipoff and David Janin (LaBRI, University of Bordeaux, Bordeaux INP, France)
 
-_In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A GHCi-compatible version of our current (compiled) version should also allow for making the demo interactive._
+_In this demo we aim at presenting the basic feature we have put in practice via the definition of Octopus: a programing language embedded in Haskell for complex description of (reactive) 3D animations. As a front end, Octopus simply extend the LOGO's Turtle command language to 3D and time dimension, inheriting Haskell do notation via an embedding of the underlying semantics monoids into IO monads. As a back end, most of the rendering is directly described as OpenGL shaders performed by the GPU allowing thus fast rendering with low communication bandwidth between Haskell (CPU) and GLSL (GPU). The resulting source code should soon be made available for participative development of the Octopus language. A GHCi-compatible version of our current (compiled) version should is also available for making the demo interactive._
 
 <br>
 
 #### General principles
 
-Octopus is a high-level language prototype that aims at offering a simple API for defining complex procedural 3D animations. Simplicity is obtained via (possibly time dependent) 3D drawing commands that are incarnated by moves of a parameterized 2D extruder, called the octopus. Though related with the good old Logo language, our octopus generalizes Logo's turtle in many ways. An additional interpolation principle (whose implementation is on his way) is expected to further simplify 3D curves definition by automatically interpolating two successive distant octopus positions in a smooth way. For instance, we aim at simply defining a sphere by adequately positioning its two poles and its equator circle in between.
+_Octopus_ is a high-level language prototype that aims at offering a simple API for defining complex procedural 3D animations. 
+Simplicity is obtained by offering to the user a set of 3D animation commands that govern (both in time and space) the octopus: a parameterized 2D shaped extruder.
+Though related to the good old Logo language, our octopus generalizes Logo's turtle in many ways. An additional interpolation principle (whose implementation is on his way) is expected to further simplify 3D curves definition by automatically interpolating two successive distant octopus positions in a smooth way. For instance, we aim at simply defining a sphere by adequately positioning its two poles and its equator circle in between.
 
 #### Control commands and extruded curves specification
 
@@ -17,7 +19,8 @@ Control commands range among forward moves (translation), turns left, right, up 
 
 #### Simplicity and efficiency
 
-Simplicity is achieved by automatizing most of the technicalities a 3D programmers has usually to face. This includes in particular:
+Most of the technicalities a 3D programmers usually has to face are automatized. 
+This includes in particular:
 
 - automatic triangulation of surfaces connecting two successive 2D curve specification,
 - automatic (and coherent) computation of vertex surface normals based on the
