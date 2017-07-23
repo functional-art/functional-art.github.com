@@ -215,7 +215,7 @@ The silent $ in the title (also used in the code), is in tribute to
 Gregory C. Coleman, the original drummer of the Amen break, who died
 homeless and broke.
 
-Biography
+### Biography
 
 Neil C Smith‘s work explores ways of opening up and challenging the
 nature of creativity itself, in particular through the use of
