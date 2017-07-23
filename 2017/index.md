@@ -103,17 +103,17 @@ known for her performances at Algoraves (algorithmic raves) will give
 a keynote live coding performance, creating live music using the
 algorithmic pattern language Tidalcycles.
 
+More information on the program is [here](performance.html).
 
 #### Lineup:
 
 * Alexandra Cárdenas: Keynote performance
 * Joe Beedles
 * Filippo Guida
-* Claude Heiland-Allen - GULCII (Graphical Untyped Lambda Calculus
-  Interactive Interpreter)
+* Claude Heiland-Allen
 * Nick Rothwell
-* Neil C Smith -- AMEN $ Mother Function
-* Joseph Wilk -- `:heart: :skull-crossbones:`
+* Neil C Smith
+* Joseph Wilk
 
 ### Workshop Organisation
 
