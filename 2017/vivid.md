@@ -11,3 +11,5 @@ A design goal of Vivid is to be ergonomic enough to be used on its own, but unob
 
 This demonstration will show practical usage of Vivid, intended for people with or without familiarity with sound synthesis. It will also be an opportunity to discuss both successes and challenges (and open questions!) of fitting Haskell to the domain of musical livecoding.
 
+**Link to the software:**
+[http://hackage.haskell.org/package/vivid](http://hackage.haskell.org/package/vivid)
