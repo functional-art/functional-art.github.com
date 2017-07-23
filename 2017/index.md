@@ -74,13 +74,17 @@ See detailed schedule [here](http://icfp17.sigplan.org/track/farm-2017-papers#pr
 * **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
 
-#### Performance Evening
+### Performance Evening
 
 The traditional
 **[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176)** 
 will be the final event of ICFP 2017 on **September 9, at 7:30PM**.  
 It will happen at the
-[Old Fire Station](https://oldfirestation.ticketsolve.com/venues/126561395/shows):
+[Old Fire Station](https://oldfirestation.ticketsolve.com/venues/126561395/shows).
+
+Tickets can be
+had
+[here](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176).
 
 An evening of strange and wonderful music and audio/visual work made
 from computer code. Featuring an international line-up of artists,
@@ -90,17 +94,26 @@ projecting their screens so you can see the code behind the
 performance. Performances will include: extreme manipulation of the
 Amen breakbeat, two audio-visual performances where algorithms bring
 shape, colour and sound together, an algorithmic take on Hindustani
-music, and an audio-visual journey into Lambda calculus. In addition
-Columbian
+music, and an audio-visual journey into Lambda calculus. 
+
+In addition Columbian
 composer
 [Alexandra Cardenas](http://cargocollective.com/tiemposdelruido), also
 known for her performances at Algoraves (algorithmic raves) will give
 a keynote live coding performance, creating live music using the
 algorithmic pattern language Tidalcycles.
 
-Tickets can be
-had
-[here](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176).
+
+#### Lineup:
+
+* Alexandra Cárdenas: Keynote performance
+* Joe Beedles
+* Filippo Guida
+* Claude Heiland-Allen - GULCII (Graphical Untyped Lambda Calculus
+  Interactive Interpreter)
+* Nick Rothwell
+* Neil C Smith -- AMEN $ Mother Function
+* Joseph Wilk -- `:heart: :skull-crossbones:`
 
 ### Workshop Organisation
 
