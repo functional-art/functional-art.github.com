@@ -41,48 +41,45 @@ evening
 [here](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176).
 Admission is free - the Old Fire Station asks for a small contribution.
 
+
 ### Preliminary Program
+
+See detailed schedule [here](http://icfp17.sigplan.org/track/farm-2017-papers#program).
 
 #### Papers
 
-* **A Categorial Grammar for Music and Its Use in Automatic Melody
-	Generation**<br/>
+* **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
 	Halley Young
-* **Csound-expression: Haskell framework for computer music**<br/> 
-  Anton Kholomiov
-* **FAUST for Functional Programmers**<br/>
+* **Modelling the Way Mathematics Is Actually Done**<br/>
+  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
+* **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
-* **Modelling the way mathematics is actually done**<br/>
-  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond
-  Puzio, Gabriela Rino Nesin
-* **Unified Media Programming: An Algebraic Approach**<br/>
-  David Janin, Simon Archipoff
-* **GALE: Graphic Adventure Library and Engine**<br/>
+* **GALE: A Functional Graphic Adventure Library and Engine**<br/>
   Ivan Perez
+* **Unified Media Programming: An Algebraic Approach**<br/>
+  Simon Archipoff, David Janin
 
 #### Demos
 
-* **The Arpeggigon: A Functional Reactive Musical Automaton**<br/>
-  Henrik Nilsson
-* **Octopus : a high-level fast 3D animation language**<br/>
-  Simon Archipoff, David Janin
-* **Representation of musical notation in Haskell**<br/>
+* **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
   Edward Lilley
-* **Ait, a concatenative language for creative programming**<br/>
+* **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
   Stian Veum Møllersen
-* **Vivid: Sound synthesis with Haskell and Supercollider**<br/>
+* **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
+  Henrik Nilsson
+* **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
   Thomas Murphy
-* **African Polyphony and Polyrhythm**<br/>
+* **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
   Chris Ford
+* **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
+  Simon Archipoff, David Janin
 
-### Performance Evening
+#### Performance Evening
 
-The
-traditional
-[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176) will
-be the final event of ICFP 2017 on September 9, at 7:30PM.  It will
-happen at
-the
+The traditional
+**[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176)** 
+will be the final event of ICFP 2017 on **September 9, at 7:30PM**.  
+It will happen at the
 [Old Fire Station](https://oldfirestation.ticketsolve.com/venues/126561395/shows):
 
 An evening of strange and wonderful music and audio/visual work made
