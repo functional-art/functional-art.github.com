@@ -10,7 +10,8 @@ The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and D
 
 Functional Programming has emerged as a mainstream software development paradigm, and its artistic and creative use is booming. A growing number of software toolkits, frameworks and environments for art, music and design now employ functional programming languages and techniques. FARM is a forum for exploration and critical evaluation of these developments, for example to consider potential benefits of greater consistency, tersity, and closer mapping to a problem domain. 
 
-This year, authors at FARM will present research papers, demos of new tools, and calls for collaboration. The evening will also feature computer music performances of artists integrating functional programming techniques into their work. 
+This year FARM presents paper and demo sessions during the day, as well as a performance in the evening.
+The evening performance feature computer music performances of artists integrating functional programming techniques into their work. 
 
 To register for FARM, visit the ICFP registration page - early registration ends August 4. Some funding support is available for the main ICFP conference and related workshops like FARM. This information can be found on the travel support page.
 
