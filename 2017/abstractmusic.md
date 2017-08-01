@@ -71,17 +71,17 @@ output (using Csound-expression).
 
 I will give an audio demonstration [2] of music written in traditional
 notation, but intended to be played using certain exotic temperaments:
-in particular, the piece 'Seigneur Dieu ta pitié' by Guillaume de
+in particular, the piece _'Seigneur Dieu ta pitié'_ by Guillaume de
 Costeley (C16th), written for a keyboard with 19 keys per octave.
 
 **References and links**
 
 - [1] Denzil Wraight & Christopher Stembridge, "Italian split-keyboard instruments with fewer than nineteen divisions to the octave" doi:10.5642/perfpr.199407.02.08
 - [2] Demonstration audio [https://soundcloud.com/ejlflop/sets/demo-of-abstractmusic](https://soundcloud.com/ejlflop/sets/demo-of-abstractmusic)
-- [3] The program being demonstrated https://github.com/ejlilley/AbstractMusic
-- [4] https://en.wikipedia.org/wiki/Regular_temperament
-- [5] https://en.wikipedia.org/wiki/Enharmonic_keyboard
-- [6] https://en.wikipedia.org/wiki/Tonnetz
+- [3] The program being demonstrated **[https://github.com/ejlilley/AbstractMusic](https://github.com/ejlilley/AbstractMusic)**
+- [4] [https://en.wikipedia.org/wiki/Regular_temperament](https://en.wikipedia.org/wiki/Regular_temperament)
+- [5] [https://en.wikipedia.org/wiki/Enharmonic_keyboard](https://en.wikipedia.org/wiki/Enharmonic_keyboard)
+- [6] [https://en.wikipedia.org/wiki/Tonnetz](https://en.wikipedia.org/wiki/Tonnetz)
 - [7] See e.g. Frescobaldi's Elevation Toccatas, Rossi's "Toccata Settima"
 - [8] Naomi J. Barker, "Frescobaldi keyboard music" doi:10.1093/em/car096
 
