@@ -32,7 +32,7 @@ Program
 Welcome 
 Michael Sperber, Jean Bresson
 
-09:10 - 10:10
+09:10 - 10:00
 A Categorial Grammar for Music and Its Use in Automatic Melody Generation
 Halley Young
 
@@ -57,14 +57,14 @@ Joe Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabri
 FAUST Tutorial for Functional Programmers
 Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
 
-15:30 - 16:30
+15:30 - 16:20
 GALE: A Functional Graphic Adventure Library and Engine
 Ivan Perez
 
 Demo - Ait: A Concatenative Language for Creative Programming
 Stian Veum Mollersen
 
-16:50 - 17:50
+16:50 - 17:40
 Unified Media Programming: An Algebraic Approach
 Simon Archipoff, David Janin
 
