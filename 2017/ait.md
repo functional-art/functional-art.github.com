@@ -18,7 +18,7 @@ These characteristics also gave rise to a philosophy of programming, described i
 
 Another language which shares alot of the same characteristics as Forth is a language called Joy. Created by Manfred von Thun in 2001, Joy combines the expressivity of functional languages with the simplicity of Forth. Still using concatenation as the method of composing programs, but with the added capability of evaluating quoted programs.
 
-## Features
+#### Features
 
 Targeted at programmers who work with browsers and the web, Ait is implemented in JavaScript as an interpreted language. Bindings to existing browser APIs, such as Canvas and the DOM, are available as modules you can import from the popular npm registry. Ait also features an easy to use FFI to create bindings to existing JavaScript code and APIs.
 
@@ -36,6 +36,7 @@ Being interpreted and having the interpreter implemented in JavaScript also enab
 
 **More information and code examples can be found at [https://github.com/mollerse/ait-lang](https://github.com/mollerse/ait-lang)**
 
+<br>
 
 #### What does Ait offer the creative programmer?
 
