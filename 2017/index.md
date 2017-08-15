@@ -42,9 +42,19 @@ evening
 Admission is free - the Old Fire Station asks for a small contribution.
 
 
-### Preliminary Program
+### Program
 
-See detailed schedule [here](http://icfp17.sigplan.org/track/farm-2017-papers#program).
+See also the detailed schedule on the [ICFP conference website](http://icfp17.sigplan.org/track/farm-2017-papers#program).
+
+##### 9:00-9:10: Workshop opening
+
+##### 9:10:10:00: Session 1: Papers/Demos (Music)
+
+* Paper — **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**
+<br/>Halley Young
+* Demo — Representation of Musical Notation in Haskell
+<br/>Edward Lilley
+
 
 #### Papers
 
