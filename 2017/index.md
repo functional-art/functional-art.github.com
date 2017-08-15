@@ -52,7 +52,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 ##### 9:10-10:00: Session 1. Papers/Demos (Music)
 
-* Paper — **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
+* **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
   Halley Young
 * Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
   Edward Lilley
@@ -68,7 +68,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 ##### 12:00-12:30: Session 3. Paper
 
-* Paper — **Modelling the Way Mathematics Is Actually Done**<br/>
+* **Modelling the Way Mathematics Is Actually Done**<br/>
   Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
 
 ##### 12:30-14:00: _Lunch break_
@@ -80,18 +80,23 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 ##### 15:30-16:20: Session 5. Papers/Demos
 
-* Paper — **GALE: A Functional Graphic Adventure Library and Engine**<br/>
+* **GALE: A Functional Graphic Adventure Library and Engine**<br/>
   Ivan Perez
 * Demo — **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
   Stian Veum Møllersen
 
 ##### 16:50-17:40: Session 6. Papers/Demos
 
-* Paper — **Unified Media Programming: An Algebraic Approach**<br/>
+* **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin
 * Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
 
+##### 19:30-22:00: Performance Evening ([Old Fire Station](https://oldfirestation.org.uk/))
+
+* [Evening Of Algorithmic Arts](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176)
+
+-------
 
 ### Performance Evening
 
