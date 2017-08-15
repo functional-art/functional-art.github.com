@@ -46,43 +46,52 @@ Admission is free - the Old Fire Station asks for a small contribution.
 
 See also the detailed schedule on the [ICFP conference website](http://icfp17.sigplan.org/track/farm-2017-papers#program).
 
+-------
+
 ##### 9:00-9:10: Workshop opening
 
-##### 9:10:10:00: Session 1: Papers/Demos (Music)
+##### 9:10-10:00: Session 1. Papers/Demos (Music)
 
-* Paper — **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**
-<br/>Halley Young
-* Demo — Representation of Musical Notation in Haskell
-<br/>Edward Lilley
+* Paper — **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
+  Halley Young
+* Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
+  Edward Lilley
 
+##### 10:30-11:30: Session 2. Demos (Music)
 
-#### Papers
+* Demo — **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
+  Henrik Nilsson
+* Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
+  Thomas Murphy
+* Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
+  Chris Ford
 
-* **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
-	Halley Young
-* **Modelling the Way Mathematics Is Actually Done**<br/>
+##### 12:00-12:30: Session 3. Paper
+
+* Paper — **Modelling the Way Mathematics Is Actually Done**<br/>
   Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
+
+##### 12:30-14:00: _Lunch break_
+
+##### 14:00-15:00: Session 4. Paper/Tutorial
+
 * **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
-* **GALE: A Functional Graphic Adventure Library and Engine**<br/>
+
+##### 15:30-16:20: Session 5. Papers/Demos
+
+* Paper — **GALE: A Functional Graphic Adventure Library and Engine**<br/>
   Ivan Perez
-* **Unified Media Programming: An Algebraic Approach**<br/>
-  Simon Archipoff, David Janin
-
-#### Demos
-
-* **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
-  Edward Lilley
-* **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
+* Demo — **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
   Stian Veum Møllersen
-* **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
-  Henrik Nilsson
-* **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
-  Thomas Murphy
-* **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
-  Chris Ford
-* **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
+
+##### 16:50-17:40: Session 6. Papers/Demos
+
+* Paper — **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin
+* Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
+  Simon Archipoff, David Janin
+
 
 ### Performance Evening
 
