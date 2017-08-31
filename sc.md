@@ -12,5 +12,6 @@ Current members are:
 * [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/) (Chair)
 * [Alex McLean](http://slab.org/)
 * [Mike Sperber](http://www.deinprogramm.de/sperber/)
-* [Brent Yorgey](http://www.cis.upenn.edu/~byorgey/)
+* [Brent Yorgey](https://byorgey.wordpress.com/)
 * [David Janin](http://www.labri.fr/perso/janin/)
+* [Jean Bresson](http://repmus.ircam.fr/bresson)
