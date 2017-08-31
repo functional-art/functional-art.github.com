@@ -1,0 +1,104 @@
+5th ACM SIGPLAN International Workshop on
+Functional Art, Music, Modelling and Design
+Oxford, UK
+September 9, 2017
+(co-located with ICFP 2017)
+
+http://functional-art.org/2017
+
+The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design (FARM) gathers together people who are harnessing functional techniques in the pursuit of creativity and expression.
+
+Functional Programming has emerged as a mainstream software development paradigm, and its artistic and creative use is booming. A growing number of software toolkits, frameworks and environments for art, music and design now employ functional programming languages and techniques. FARM is a forum for exploration and critical evaluation of these developments, for example to consider potential benefits of greater consistency, tersity, and closer mapping to a problem domain. 
+
+This year FARM presents paper and demo sessions during the day, as well as a performance in the evening.
+The evening performance feature computer music performances of artists integrating functional programming techniques into their work. 
+
+To register for FARM, visit the ICFP registration page - early registration ends August 4. Some funding support is available for the main ICFP conference and related workshops like FARM. This information can be found on the travel support page.
+
+
+Registration
+------------
+
+You can register via the ICFP 2017 registration:
+http://icfp17.sigplan.org/attending/registration
+
+Early registration deadline is August 4.
+
+
+Program
+---------------
+
+9:00 - 9:10
+Welcome 
+Michael Sperber, Jean Bresson
+
+09:10 - 10:00
+A Categorial Grammar for Music and Its Use in Automatic Melody Generation
+Halley Young
+
+Demo - Representation of Musical Notation in Haskell
+Edward Lilley
+
+10:30 - 11:30
+Demo - The Arpeggigon: A Functional Reactive Musical Automaton
+Henrik Nilsson
+
+Demo - Vivid: Sound Synthesis with Haskell and SuperCollider
+Tom Murphy
+
+Demo - African Polyphony and Polyrhythm
+Chris Ford
+
+12:00 - 12:30
+Modelling the Way Mathematics Is Actually Done
+Joe Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
+
+14:00 - 15:00
+FAUST Tutorial for Functional Programmers
+Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
+
+15:30 - 16:20
+GALE: A Functional Graphic Adventure Library and Engine
+Ivan Perez
+
+Demo - Ait: A Concatenative Language for Creative Programming
+Stian Veum Mollersen
+
+16:50 - 17:40
+Unified Media Programming: An Algebraic Approach
+Simon Archipoff, David Janin
+
+Demo - Octopus: A High-Level Fast 3D Animation Language
+Simon Archipoff, David Janin
+
+
+Performances 19:30-22:00
+@ Old Fire Station
+
+
+
+Workshop Organisation
+---------------------
+
+- Workshop Chair: Mike Sperber, Active Group GmbH
+- Program Chair: Jean Bresson, UMR STMS IRCAM/CNRS/UPMC Sorbonne UniversitÃ©s
+- Publicity Chair: Mark Santolucito, Yale University
+- Performance Chair: Alex McLean, Deutsches Museum, Munich
+
+Program Committee:
+---------------------
+
+- Renick Bell, 		Tama Art University, Tokyo
+- Beatrice Berard,	LIP6, Universite Pierre et Marie Curie
+- Jean Bresson,		UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
+- Richard Gabriel,	IBM Research
+- Jean-Louis Giavitto,	UMR STMS IRCAM/CNRS/UPMC Sorbonne Universités
+- Stéphane Letz,	Grame
+- José Pedro Magalhães,	Standard Chartered Bank
+- Ivan Perez Dominguez,	University of Nottingham
+- Donya Quick, 		Southern Methodist University
+- Christophe Rhodes,	Goldsmiths, University of London
+- Andrew Sorensen,	Australian National University
+- Michael Sperber,	Active Group GmbH
+- Charlotte Truchet,	LINA, UMR 6241, Université de Nantes
+
