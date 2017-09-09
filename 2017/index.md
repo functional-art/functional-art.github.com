@@ -53,9 +53,13 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 9:10-10:00: Session 1. Papers/Demos (Music)
 
 * **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
-  Halley Young
+  Halley Young <br/>
+  <a href="slides/young-farm17-slides.pdf">slides</a>
+
 * Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
-  Edward Lilley
+  Edward Lilley <br/>
+  <a href="lilley-farm17-slides.pdf">slides</a>
+
 
 ##### 10:30-11:30: Session 2. Demos (Music)
 
