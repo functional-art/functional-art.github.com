@@ -64,11 +64,13 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 10:30-11:30: Session 2. Demos (Music)
 
 * Demo — **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
-  Henrik Nilsson
+  Henrik Nilsson  <br/>
+  <a href="nilsson-farm17-slides.pdf">slides</a>
 * Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
   Thomas Murphy
 * Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
-  Chris Ford
+  Chris Ford </br>
+  <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/">slides</a>
 
 ##### 12:00-12:30: Session 3. Paper
 
@@ -81,6 +83,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 * **FAUST Tutorial for Functional Programmers**<br/>
   Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
+  <a href="orlarey-farm17-slides.pdf">slides</a>
 
 ##### 15:30-16:20: Session 5. Papers/Demos
 
@@ -93,6 +96,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 * **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin
+  <a href="archipoff-janin-farm17-slides.pdf">slides</a>
 * Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
 
