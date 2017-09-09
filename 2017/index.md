@@ -69,13 +69,13 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 * Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
   Thomas Murphy
 * Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
-  Chris Ford </br>
+  Chris Ford <br/>
   <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/">slides</a>
 
 ##### 12:00-12:30: Session 3. Paper
 
 * **Modelling the Way Mathematics Is Actually Done**<br/>
-  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin
+  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin <br/>
   <a href="slides/corneli-farm17-slides.pdf">slides</a>
 
 ##### 12:30-14:00: _Lunch break_
@@ -83,7 +83,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 14:00-15:00: Session 4. Paper/Tutorial
 
 * **FAUST Tutorial for Functional Programmers**<br/>
-  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon
+  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon </br>
   <a href="slides/orlarey-farm17-slides.pdf">slides</a>
 
 ##### 15:30-16:20: Session 5. Papers/Demos
@@ -96,7 +96,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 16:50-17:40: Session 6. Papers/Demos
 
 * **Unified Media Programming: An Algebraic Approach**<br/>
-  Simon Archipoff, David Janin
+  Simon Archipoff, David Janin <br/>
   <a href="slides/archipoff-janin-farm17-slides.pdf">slides</a>
 * Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
