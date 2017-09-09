@@ -55,7 +55,6 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 * **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
   Halley Young <br/>
   <a href="slides/young-farm17-slides.pdf">slides</a>
-
 * Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
   Edward Lilley <br/>
   <a href="slides/lilley-farm17-slides.pdf">slides</a>
