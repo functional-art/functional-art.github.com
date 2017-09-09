@@ -54,36 +54,36 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 * **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
   Halley Young <br/>
-  <a href="slides/young-farm17-slides.pdf">slides</a>
+  <a href="slides/young-farm17-slides.pdf" target=_blank>slides</a>
 * Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
   Edward Lilley <br/>
-  <a href="slides/lilley-farm17-slides.pdf">slides</a>
+  <a href="slides/lilley-farm17-slides.pdf" target=_blank>slides</a>
 
 
 ##### 10:30-11:30: Session 2. Demos (Music)
 
 * Demo — **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
   Henrik Nilsson  <br/>
-  <a href="slides/nilsson-farm17-slides.pdf">slides</a>
+  <a href="slides/nilsson-farm17-slides.pdf" target=_blank>slides</a>
 * Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
   Thomas Murphy
 * Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
   Chris Ford <br/>
-  <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/">slides</a>
+  <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/" target=_blank>slides</a>
 
 ##### 12:00-12:30: Session 3. Paper
 
 * **Modelling the Way Mathematics Is Actually Done**<br/>
   Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin <br/>
-  <a href="slides/corneli-farm17-slides.pdf">slides</a>
+  <a href="slides/corneli-farm17-slides.pdf" target=_blank>slides</a>
 
 ##### 12:30-14:00: _Lunch break_
 
 ##### 14:00-15:00: Session 4. Paper/Tutorial
 
 * **FAUST Tutorial for Functional Programmers**<br/>
-  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon </br>
-  <a href="slides/orlarey-farm17-slides.pdf">slides</a>
+  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon <br/>
+  <a href="slides/orlarey-farm17-slides.pdf" target=_blank>slides</a>
 
 ##### 15:30-16:20: Session 5. Papers/Demos
 
@@ -96,7 +96,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 
 * **Unified Media Programming: An Algebraic Approach**<br/>
   Simon Archipoff, David Janin <br/>
-  <a href="slides/archipoff-janin-farm17-slides.pdf">slides</a>
+  <a href="slides/archipoff-janin-farm17-slides.pdf" target=_blank>slides</a>
 * Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
 
