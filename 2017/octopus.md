@@ -58,4 +58,4 @@ currently controlled by repeating octopus 2D shape specification,
 - providing feedback for possible non-programmer usage such as artists,
 and many other topics possibly linked with programming interactive music system, defining rich VR environments, and game-like techniques including, but not limited to, inverse cinematics, collision detection, physical properties (e.g. attraction and inertia modeling), progressive environment perception/reaction, etc. Our underlying sound and robust typed architecture should easily allow for implementing many extensions.
 
-_The Octopus project aims at becoming and staying an open source software project!_
+_The Octopus project aims at becoming and staying an open source software project, see <a href="https://github.com/OctopusFarm">https://github.com/OctopusFarm/Octopus</a> !_
