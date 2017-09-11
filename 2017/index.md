@@ -66,7 +66,8 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
   Henrik Nilsson  <br/>
   <a href="slides/nilsson-farm17-slides.pdf" target="_blank">slides</a>
 * Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
-  Thomas Murphy
+  Thomas Murphy <br/>
+  <a href="slides/murphy/farm_talk.html" target="_blank">slides</a>
 * Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
   Chris Ford <br/>
   <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/" target="_blank">slides</a>

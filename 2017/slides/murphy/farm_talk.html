@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Tom Murphy" />
+  <title>Demo: Vivid</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; }
+code > span.dt { color: #902000; }
+code > span.dv { color: #40a070; }
+code > span.bn { color: #40a070; }
+code > span.fl { color: #40a070; }
+code > span.ch { color: #4070a0; }
+code > span.st { color: #4070a0; }
+code > span.co { color: #60a0b0; font-style: italic; }
+code > span.ot { color: #007020; }
+code > span.al { color: #ff0000; font-weight: bold; }
+code > span.fu { color: #06287e; }
+code > span.er { color: #ff0000; font-weight: bold; }
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="slidy.css" />
+  <script src="slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Demo: Vivid</h1>
+  <p class="author">
+Tom Murphy
+  </p>
+  <p class="date">FARM 2017</p>
+</div>
+<div id="so-what-is-it" class="slide section level1">
+<h1>So what is it?</h1>
+<ul>
+<li>Sound synthesis and manipulation in Haskell</li>
+<li>Using the SuperCollider server as a &quot;rendering engine&quot;</li>
+<li>Goal: ergonomic</li>
+<li>Goal: the concrete for houses</li>
+</ul>
+</div>
+<div id="this-talk" class="slide section level1">
+<h1>This talk</h1>
+<ul>
+<li>Very basics of Vivid</li>
+<li>Design goals</li>
+<li>Implementation successes/failures</li>
+</ul>
+</div>
+<div id="why-supercollider-the-snarky-answer" class="slide section level1">
+<h1>Why SuperCollider?: The Snarky Answer</h1>
+<div class="figure">
+<img src="threadscope.png" />
+</div>
+</div>
+<div id="why-supercollider-the-real-answer" class="slide section level1">
+<h1>Why SuperCollider?: The Real Answer</h1>
+<ul>
+<li>Amazing community</li>
+<li>Really well-designed</li>
+<li>&quot;Batteries included&quot;
+<ul>
+<li>Optimized real-time batteries (no malloc!)</li>
+</ul></li>
+<li>Lingua franca
+<ul>
+<li>TidalCycles</li>
+<li>Sonic Pi</li>
+<li>Overtone</li>
+<li>ScalaCollider</li>
+<li>supercollider.js</li>
+<li>SCLang itself</li>
+<li>many, many more</li>
+</ul></li>
+</ul>
+</div>
+<div id="but-it-is-a-spec..." class="slide section level1">
+<h1>But it <em>is</em> a spec...</h1>
+<ul>
+<li>There are already two (both C++)</li>
+<li>Someone could implement a new spec-compliant real-time server...</li>
+</ul>
+<div class="figure">
+<img src="rust-logo.svg" />
+</div>
+</div>
+<div id="enough-talk-a-synth" class="slide section level1">
+<h1>Enough talk!: A synth</h1>
+<div class="figure">
+<img src="09.svg" />
+</div>
+<p>(Thanks, Rohan!)</p>
+<p>DAG</p>
+</div>
+<div id="lets-start-simple" class="slide section level1">
+<h1>Let's start simple</h1>
+<div class="figure">
+<img src="01.svg" />
+</div>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">play <span class="fu">$</span> <span class="dv">0</span><span class="fu">.</span><span class="dv">1</span> <span class="fu">~*</span> sinOsc (freq_ <span class="dv">440</span>)</code></pre>
+<p><code>sinOsc</code> represents a binary that's run by the server</p>
+</div>
+<div id="section" class="slide section level1">
+<h1></h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">play <span class="fu">$</span></code></pre>
+<ul>
+<li>Gets a fresh synth ID from allocator</li>
+<li>Turns the &quot;synth definition&quot; graph to binary</li>
+<li>Construct the OSC message</li>
+<li>Send it over UDP/TCP</li>
+</ul>
+</div>
+<div id="set--xdatakinds" class="slide section level1">
+<h1>:set -XDataKinds</h1>
+<pre><code>&gt;  :i sinOsc
+sinOsc :: Args &#39;[&quot;freq&quot;] &#39;[&quot;phase&quot;] a =&gt; a -&gt; SDBody a Signal</code></pre>
+<p>All valid:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq_ <span class="dv">440</span>)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq_ <span class="dv">440</span>, phase_ <span class="dv">1</span>)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (phase_ <span class="dv">1</span>, freq_ <span class="dv">440</span>)</code></pre>
+<p>Not valid:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (phase_ <span class="dv">1</span>)</code></pre>
+</div>
+<div id="goal-morally-equivalent" class="slide section level1">
+<h1>Goal: &quot;Morally equivalent&quot;</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">(freq_ <span class="dv">440</span>, phase_ <span class="dv">1</span>)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="dt">HCons</span> (ua <span class="dv">440</span><span class="ot"> ::</span> <span class="dt">UA</span> <span class="st">&quot;freq&quot;</span>) (<span class="dt">HCons</span> (ua <span class="dv">1</span><span class="ot"> ::</span> <span class="dt">UA</span> <span class="st">&quot;phase&quot;</span>) <span class="dt">HNil</span>)</code></pre>
+<p>(Note: HNil isn't too elegant!)</p>
+</div>
+<div id="ugen-arguments" class="slide section level1">
+<h1>UGen arguments</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">type</span> family <span class="dt">Args</span> (<span class="ot">required ::</span> [<span class="dt">Symbol</span>])
+                 (<span class="ot">optional ::</span> [<span class="dt">Symbol</span>])
+                 args
+<span class="ot">            ::</span> <span class="dt">Constraint</span> <span class="kw">where</span>
+   <span class="dt">Args</span> required optional args <span class="fu">=</span>
+      ( <span class="dt">Subset</span> required (<span class="dt">UAsArgs</span> args)
+      , <span class="dt">Subset</span> (<span class="dt">UAsArgs</span> args) (<span class="dt">SetUnion</span> required optional)
+      , <span class="dt">FromUA</span> args
+      )</code></pre>
+</div>
+<div id="but-that-means" class="slide section level1">
+<h1>But that means</h1>
+<p>So does:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq_ <span class="dv">440</span>, phase_ <span class="dv">1</span>)</code></pre>
+<p>...satisfying:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">sinOsc ::</span> <span class="dt">Args</span> <span class="ch">&#39;[&quot;freq&quot;] &#39;</span>[<span class="st">&quot;phase&quot;</span>] a <span class="ot">=&gt;</span> a <span class="ot">-&gt;</span> <span class="dt">SDBody</span> a <span class="dt">Signal</span></code></pre>
+<p>...mean there's a big file like:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">freq_ ::</span> <span class="dt">ToSig</span> s as <span class="ot">=&gt;</span> s <span class="ot">-&gt;</span> <span class="dt">UA</span> <span class="st">&quot;freq&quot;</span> as
+<span class="ot">phase_ ::</span> <span class="dt">ToSig</span> s as <span class="ot">=&gt;</span> s <span class="ot">-&gt;</span> <span class="dt">UA</span> <span class="st">&quot;phase&quot;</span> as
+<span class="co">-- etc...</span></code></pre>
+<p>somewhere?</p>
+<p>(<code>UA</code> == UGen argument)</p>
+</div>
+<div id="yes-it-does" class="slide section level1">
+<h1>Yes, it does!</h1>
+<p>Here's why.</p>
+</div>
+<div id="variants" class="slide section level1">
+<h1>Variants</h1>
+<p>Any kind of sum type on the args...</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">data</span> <span class="dt">Arg</span> <span class="fu">=</span>
+     <span class="dt">Freq</span>
+   <span class="fu">|</span> <span class="dt">Phase</span>
+   <span class="fu">|</span> <span class="co">-- ...</span></code></pre>
+<p>...is out because the set of arguments is an open set</p>
+<p>Not only is it <em>possible</em> to write new UGens We want to encourage it!</p>
+</div>
+<div id="records" class="slide section level1">
+<h1>Records</h1>
+<p>One record per UGen...</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">data</span> <span class="dt">SinOsc</span> <span class="fu">=</span> <span class="dt">SinOsc</span>
+<span class="ot">     freq ::</span> x
+   ,<span class="ot"> phase ::</span> x
+   }</code></pre>
+<p>...are out at least until <code>-XOverloadedRecordFields</code> is finished</p>
+<p>(And also because of <code>SDBody</code> problem we'll see later)</p>
+<p>Also downside: typing</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">{-# LANGUAGE DuplicateRecordFields #-}</span></code></pre>
+</div>
+<div id="record-variants" class="slide section level1">
+<h1>Record variants</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">data</span> <span class="dt">UGen</span> <span class="fu">=</span>
+     <span class="dt">SinOsc</span> { freq <span class="fu">=</span> x, phase <span class="fu">=</span> x }
+   <span class="fu">|</span> <span class="dt">Foo</span> { freq <span class="fu">=</span> x }</code></pre>
+<p>Two problems:</p>
+<ul>
+<li>Closed set!</li>
+<li>phase (Foo 0)</li>
+</ul>
+</div>
+<div id="why-the-_" class="slide section level1">
+<h1>Why the '_'?</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq_ <span class="dv">440</span>)</code></pre>
+<p>I feel the same way!</p>
+<p>Name cluttering:</p>
+<ul>
+<li>&quot;a&quot;, &quot;b&quot;, &quot;c&quot;</li>
+<li>&quot;freq&quot;</li>
+<li>&quot;x&quot;</li>
+<li>&quot;delay&quot;</li>
+<li>&quot;min&quot;</li>
+</ul>
+<p>etc.</p>
+<p>&quot;An identifier consists of a letter followed by zero or more letters, digits, underscores, and single quotes.&quot; - Haskell 2010 Report</p>
+</div>
+<div id="part-2" class="slide section level1">
+<h1>'_' part 2</h1>
+<p>Another contender:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq&#39;&#39; <span class="dv">440</span>, phase&#39;&#39; <span class="dv">1</span>)</code></pre>
+</div>
+<div id="why-freq_-at-all" class="slide section level1">
+<h1>Why &quot;freq_&quot; at all?</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">foo <span class="dv">440</span> <span class="dv">0</span><span class="fu">.</span><span class="dv">5</span> <span class="dv">1</span><span class="fu">.</span><span class="dv">2</span> <span class="dv">3</span><span class="fu">.</span><span class="dv">5</span> <span class="dv">12</span></code></pre>
+<ul>
+<li>Default values</li>
+<li>&quot;Float blindness&quot;</li>
+</ul>
+</div>
+<div id="boolean-blindness" class="slide section level1">
+<h1>Boolean blindness</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">  setDoorLocks ::</span> <span class="dt">Bool</span> <span class="ot">-&gt;</span> <span class="dt">Bool</span> <span class="ot">-&gt;</span> <span class="dt">IO</span> ()
+  setDoorLocks letPeopleIn letDinosaursOut <span class="fu">=</span></code></pre>
+<p>&quot;Hmm, what order do they go in again?&quot;</p>
+</div>
+<div id="float-blindness" class="slide section level1">
+<h1>Float blindness</h1>
+<p>Can lead to actual deafness</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">someUGen <span class="dv">1</span> <span class="dv">440</span></code></pre>
+<p>1 = freq 440 = amp</p>
+<p>(Also <code>:i</code>!)</p>
+</div>
+<div id="constraints-of-livecoding" class="slide section level1">
+<h1>Constraints of livecoding</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">(<span class="dv">0</span><span class="fu">.</span><span class="dv">75</span><span class="ot">::</span><span class="dt">Float</span>) <span class="fu">~*</span> sinOsc (freq_ (<span class="dv">440</span><span class="ot">::</span><span class="dt">Float</span>), phase_ (<span class="dv">1</span><span class="ot">::</span><span class="dt">Float</span>))</code></pre>
+<p>vs.</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="dv">0</span><span class="fu">.</span><span class="dv">75</span> <span class="fu">~*</span> sinOsc (freq_ <span class="dv">440</span>, phase_ <span class="dv">1</span>)</code></pre>
+<p>(We'll see this again later!)</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">length (L.nub <span class="st">&quot;vivid&quot;</span>) <span class="fu">==</span> <span class="dv">3</span></code></pre>
+<div class="figure">
+<img src="livecoding.jpg" />
+</div>
+</div>
+<div id="succinctness-really-matters" class="slide section level1">
+<h1>Succinctness Really Matters!</h1>
+<div class="figure">
+<img src="Screenshot%20from%202017-09-06%2001:21:38.png" />
+</div>
+</div>
+<div id="section-1" class="slide section level1">
+<h1></h1>
+<div class="figure">
+<img src="Screenshot%20from%202017-09-06%2001:21:49.png" />
+</div>
+</div>
+<div id="sdbody" class="slide section level1">
+<h1>SDBody</h1>
+<p>Example: &quot;Synth def body&quot;</p>
+</div>
+<div id="example" class="slide section level1">
+<h1>Example</h1>
+<p>These should behave differently</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">do</span> <span class="kw">let</span> x <span class="fu">=</span> whiteNoise
+   x <span class="fu">~-</span> x</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">do</span> x <span class="ot">&lt;-</span> whiteNoise
+   x <span class="fu">~-</span> x</code></pre>
+<p>GHC -O2 vs -O0</p>
+</div>
+<div id="note-also" class="slide section level1">
+<h1>Note also</h1>
+<p><code>sinOsc</code> represents a binary that's run by the server</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">sinOsc (freq_ whiteNoise)</code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">do</span> w <span class="ot">&lt;-</span> whiteNoise
+   sinOsc (freq_ w)</code></pre>
+</div>
+<div id="synthdef" class="slide section level1">
+<h1>SynthDef</h1>
+<ul>
+<li>Constants</li>
+<li>Expressions</li>
+<li>Variables?</li>
+</ul>
+<pre class="supercollider"><code>SynthDef(\freq, {
+   s = SinOsc.ar(freq: freq);
+   Out.ar(0, s)
+})</code></pre>
+<p>An open set of addressable-by-string identifiers... Hmm...</p>
+</div>
+<div id="type-level-strings-again" class="slide section level1">
+<h1>Type-level strings again!</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">(<span class="dt">V</span><span class="ot">::</span><span class="dt">V</span> <span class="st">&quot;amp&quot;</span>)</code></pre>
+<p>or</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="dt">V</span> <span class="fu">@</span><span class="st">&quot;amp&quot;</span></code></pre>
+<p>shorter version of</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell">(<span class="dt">Proxy</span><span class="ot">::</span><span class="dt">Proxy</span> <span class="st">&quot;amp&quot;</span>)</code></pre>
+</div>
+<div id="synthdef-1" class="slide section level1">
+<h1>SynthDef</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">x ::</span> <span class="dt">SynthDef</span> <span class="ch">&#39;[&quot;freq&quot;]</span>
+x <span class="fu">=</span> sd (<span class="dv">440</span><span class="ot"> ::</span><span class="dt">I</span> <span class="st">&quot;freq&quot;</span>) <span class="fu">$</span> <span class="kw">do</span>
+   s0 <span class="ot">&lt;-</span> sinOsc (freq_ (<span class="dt">V</span><span class="ot">::</span><span class="dt">V</span> <span class="st">&quot;freq&quot;</span>), phase_ <span class="dv">0</span><span class="fu">.</span><span class="dv">5</span>)
+   s1 <span class="ot">&lt;-</span> <span class="dv">0</span><span class="fu">.</span><span class="dv">1</span> <span class="fu">~*</span> s0
+   out <span class="dv">0</span> [s1,s1]</code></pre>
+</div>
+<div id="set" class="slide section level1">
+<h1>'set'</h1>
+<pre><code>synth ::
+  (VividAction m, Subset (InnerVars params) args) =&gt;
+   SynthDef args -&gt; params -&gt; m (Synth args)</code></pre>
+<pre><code>set ::
+  (VividAction m, Subset (InnerVars params) sdArgs) =&gt;
+  Synth sdArgs -&gt; params -&gt; m ()</code></pre>
+<p>See it in action</p>
+</div>
+<div id="timing" class="slide section level1">
+<h1>Timing</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">class</span> (<span class="dt">Monad</span> m , <span class="dt">MonadIO</span> m) <span class="ot">=&gt;</span> <span class="dt">VividAction</span> (<span class="ot">m ::</span> <span class="fu">*</span> <span class="ot">-&gt;</span> <span class="fu">*</span>) <span class="kw">where</span>
+
+<span class="ot">   callOSC ::</span> <span class="dt">OSC</span> <span class="ot">-&gt;</span> m ()
+
+<span class="ot">   newNodeId ::</span> m <span class="dt">NodeId</span>
+
+<span class="ot">   wait ::</span> <span class="dt">Real</span> n <span class="ot">=&gt;</span> n <span class="ot">-&gt;</span> m ()
+
+<span class="ot">   getTime ::</span> m <span class="dt">Timestamp</span>
+
+<span class="ot">   fork ::</span> m () <span class="ot">-&gt;</span> m ()
+
+<span class="ot">   defineSD ::</span> <span class="dt">SynthDef</span> a <span class="ot">-&gt;</span> m ()
+
+   <span class="co">-- And several others...</span></code></pre>
+</div>
+<div id="demos" class="slide section level1">
+<h1>Demos</h1>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">instance</span> <span class="dt">VividAction</span> <span class="dt">IO</span></code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">instance</span> <span class="dt">VividAction</span> <span class="dt">Scheduled</span></code></pre>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">instance</span> <span class="dt">VividAction</span> <span class="dt">NRT</span></code></pre>
+</div>
+<div id="a-law" class="slide section level1">
+<h1>A law</h1>
+<ul>
+<li>All languages have strengths and weaknesses</li>
+<li>A good language makes its strengths easy to write</li>
+<li>In a good language, easy things are fast to write</li>
+<li>A programmer has the most fun working with a language's strengths</li>
+</ul>
+<p>Therefore:</p>
+<ul>
+<li>A disproportionate amount of time spent using a good language is spent doing the things it's least fun to do</li>
+</ul>
+</div>
+<div id="questions" class="slide section level1">
+<h1>Questions?</h1>
+</div>
+</body>
+</html>
