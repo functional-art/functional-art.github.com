@@ -53,29 +53,29 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 9:10-10:00: Session 1. Papers/Demos (Music)
 
 * **A Categorial Grammar for Music and Its Use in Automatic Melody Generation**<br/>
-  Halley Young <br/>
+  Halley Young —
   <a href="slides/young-farm17-slides.pdf" target="_blank">slides</a>
 * Demo — **[Representation of Musical Notation in Haskell](abstractmusic)**<br/>
-  Edward Lilley <br/>
+  Edward Lilley —
   <a href="slides/lilley-farm17-slides.pdf" target="_blank">slides</a>
 
 
 ##### 10:30-11:30: Session 2. Demos (Music)
 
 * Demo — **[The Arpeggigon: A Functional Reactive Musical Automaton](arpeggigon)**  <br/>
-  Henrik Nilsson  <br/>
+  Henrik Nilsson  —
   <a href="slides/nilsson-farm17-slides.pdf" target="_blank">slides</a>
 * Demo — **[Vivid: Sound Synthesis with Haskell and SuperCollider](vivid)**<br/>
-  Thomas Murphy <br/>
+  Thomas Murphy —
   <a href="slides/murphy/farm_talk.html" target="_blank">slides</a>
 * Demo — **[African Polyphony and Polyrhythm](african-polyphony)**<br/>
-  Chris Ford <br/>
+  Chris Ford —
   <a href="https://ctford.github.io/african-polyphony-and-polyrhythm/" target="_blank">slides</a>
 
 ##### 12:00-12:30: Session 3. Paper
 
 * **Modelling the Way Mathematics Is Actually Done**<br/>
-  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin <br/>
+  Joseph Corneli, Ursula Martin, Dave Murray-Rust, Alison Pease, Raymond Puzio, Gabriela Rino Nesin — 
   <a href="slides/corneli-farm17-slides.pdf" target="_blank">slides</a>
 
 ##### 12:30-14:00: _Lunch break_
@@ -83,7 +83,7 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ##### 14:00-15:00: Session 4. Paper/Tutorial
 
 * **FAUST Tutorial for Functional Programmers**<br/>
-  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon <br/>
+  Yann Orlarey, Stéphane Letz, Dominique Fober, Romain Michon — 
   <a href="slides/orlarey-farm17-slides.pdf" target="_blank">slides</a>
 
 ##### 15:30-16:20: Session 5. Papers/Demos
@@ -91,12 +91,14 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 * **GALE: A Functional Graphic Adventure Library and Engine**<br/>
   Ivan Perez
 * Demo — **[Ait: A Concatenative Language for Creative Programming](ait)**<br/>
-  Stian Veum Møllersen
+  Stian Veum Møllersen — 
+  <a href="https://mollerse.github.io/ait-demo-presentation/" target="_blank">slides</a>
+
 
 ##### 16:50-17:40: Session 6. Papers/Demos
 
 * **Unified Media Programming: An Algebraic Approach**<br/>
-  Simon Archipoff, David Janin <br/>
+  Simon Archipoff, David Janin — 
   <a href="slides/archipoff-janin-farm17-slides.pdf" target="_blank">slides</a>
 * Demo — **[Octopus: A High-Level Fast 3D Animation Language](octopus)**<br/>
   Simon Archipoff, David Janin
