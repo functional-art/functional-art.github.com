@@ -112,14 +112,10 @@ See also the detailed schedule on the [ICFP conference website](http://icfp17.si
 ### Performance Evening
 
 The traditional
-**[FARM performance evening](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176)** 
-will be the final event of ICFP 2017 on **September 9, at 7:30PM**.  
-It will happen at the
+**[FARM performance evening](performance.html)** 
+was the final event of ICFP 2017 on **September 9, at 7:30PM**.  
+It happened at the
 [Old Fire Station](https://oldfirestation.ticketsolve.com/venues/126561395/shows).
-
-Tickets can be
-had
-[here](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176).
 
 An evening of strange and wonderful music and audio/visual work made
 from computer code. Featuring an international line-up of artists,
@@ -146,7 +142,6 @@ More information on the program is [here](performance.html).
 * Joe Beedles
 * Filippo Guida
 * Claude Heiland-Allen
-* Nick Rothwell
 * Neil C Smith
 * Joseph Wilk
 
