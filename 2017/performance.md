@@ -12,8 +12,6 @@ active: farm2017
 
 #### 9 September 2017, 7:30PM-9:30PM
 
-## [Tickets](https://oldfirestation.org.uk/whats-on/?ts_routing=/shows/873576176)
-
 An evening of strange and wonderful music and audio/visual work made
 from computer code. Featuring an international line-up of artists,
 including groundbreaking livecoders who work directly with the innards
@@ -28,7 +26,6 @@ music, and an audio-visual journey into Lambda calculus.
 - [Joe Beedles](#joebeedles)
 - [Filippo Guida](#filippoguida)
 - [Claude Heiland-Allen](#claudeheilandallen)
-- [Nick Rothwell](#nickrothwell)
 - [Neil C Smith](#neilcsmith)
 - [Joseph Wilk](#josephwilk)
 
@@ -45,6 +42,8 @@ Performance Notes and Bios
 
 ## [Alexandra Cárdenas](http://cargocollective.com/tiemposdelruido) {#alexandracardenas}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXO-B2tulBc" frameborder="0" allowfullscreen></iframe>
+
 Alexandra Cárdenas will perform through live coding, combining her
 interests in improvisation, composition, programming, live electronics
 and traditional music. Alexandra projects her screen for the audience
@@ -54,7 +53,7 @@ programming language) Alexandra creates her own sounds in
 SuperCollider and sequences them using patterns written in real time
 with the software TidalCycles.
 
-### Biographer
+### Biography
 
 Composer, programmer and improviser of music, Cárdenas has
 followed a path from Western classical composition to improvisation
@@ -65,6 +64,8 @@ lives in Berlin, Germany recently completing her masters in Sound
 Studies at the Berlin University of the Arts.
 
 ## [Joe Beedles](http://www.islingtonmill.com/tenant/joe-beedles/) {#joebeedles}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OkzGZY3iiqs" frameborder="0" allowfullscreen></iframe>
 
 Joe Beedles has custom-built a 
 system (designed in Max) which allows for live audiovisual performance
@@ -106,6 +107,8 @@ reaction to the audio in a pseudo-synesthetic fashion. His EP
 
 ## [Filippo Guida](http://www.filippoguida.cc/) {#filippoguida}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QE-IodiN2-A" frameborder="0" allowfullscreen></iframe>
+
 ### Biography
 
 Many studies show how synaesthetic phenomenon induced by images are
@@ -135,6 +138,8 @@ manage the video samples (VideoDirt).
 
 ### GULCII (Graphical Untyped Lambda Calculus Interactive Interpreter)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXAURIGlCKw" frameborder="0" allowfullscreen></iframe>
+
 GULCII is an untyped lambda calculus interpreter supporting interactive
 modification of a running program with graphical display of graph reduction.
 Lambda calculus is a minimal prototypical functional programming language
@@ -161,42 +166,11 @@ present-day GULCII is implemented in), he also spends a significant portion of
 his time writing code for art's sake in other languages like C and GLSL.  Over
 the last decade he has performed and presented across Europe and beyond.
 
-## [Nick Rothwell](http://www.cassiel.com/) {#nickrothwell}
-
-Nick Rothwell proposes an AV performance of new work drawing on our experience
-with building Clojure-based performance frameworks for dance and
-digital media (see video links enclosed). This new work will draw on
-aspects of earlier performance projects including functional
-generation of visual geometry, algorithmic sequencing, and integration
-of live coding environments into a commercial DAW for sound synthesis
-and musical performance. We are especially interested in applying live
-coding techniques to Karsten Schmidt's Clojure-based OpenGL software
-stack, and integrating Clojure into the websocket-based Max-for-Live
-performance environment Gibberwocky.
-
-### Biography
-
-Nick Rothwell is a software architect, programmer and sound
-designer. He was a Research Fellow on the Edinburgh Standard ML
-functional programming project, and later a Web/CMS Developer for
-Guardian Media Group, and has built performance systems for projects
-with Ballett Frankfurt, Vienna Volksoper and Braunarts, and has worked
-at STEIM (Amsterdam), CAMAC (Paris) and ZKM (Karlsruhe).  He is
-currently working on choreographic visualisation tools for Wayne
-McGregor|Random Dance at the Wellcome Trust, music composition for
-Shobana Jeyasingh Dance Company, and with Simeon Nelson and Rob
-Godman, having designed and programmed algorithmic physics animations
-for large-scale outdoor projection in Poland (Skyway Festival),
-Estonia (Valgus Festival, Tallinn) and Lumiere Durham.  He has
-composed soundtracks for choreographers Aydin Teker (Istanbul) and
-Richard Siegal (Laban), and has performed with Laurie Booth (Dance
-Umbrella, New Territories), and at the Different Skies Festival
-(Arcosanti, Arizona), the ICA and the Science Museum’s Dana Centre. He
-has also presented work at several Clojure conferences.
-
 ## [Neil C Smith](http://www.neilcsmith.net/) {#neilcsmith}
 
 ### AMEN $ Mother Function
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGB-Gy7ZDCU" frameborder="0" allowfullscreen></iframe>
 
 One sample, one function -- a live-coded, single function demolition of
 the most ubiquitous sample in modern music. This new performance work
@@ -231,6 +205,8 @@ performance.
 ## [Joseph Wilk](http://blog.josephwilk.net/) {#josephwilk}
 
 ### `:heart:` `:skull-crossbones:`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNmYrKI1E44" frameborder="0" allowfullscreen></iframe>
 
 A musical and visual performance binding Unity, Emacs and
 Supercollider with Sonic Pi. Combining the quality and performance of
