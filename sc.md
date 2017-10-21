@@ -15,3 +15,4 @@ Current members are:
 * [Brent Yorgey](https://byorgey.wordpress.com/)
 * [David Janin](http://www.labri.fr/perso/janin/)
 * [Jean Bresson](http://repmus.ircam.fr/bresson)
+* [Donya Quick](http://donyaquick.com/)
