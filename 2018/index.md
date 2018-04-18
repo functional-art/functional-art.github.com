@@ -39,17 +39,17 @@ within the scope.
 
 ### Key Dates
 
-| Paper submission deadline | June 28 |
-| Performance submission deadline | July 8 |
-| Author Notification | July 21|
-| Camera Ready | August 5 |
-| Workshop | September 29 |
+| Paper submission deadline || June 28 |
+| Performance submission deadline || July 8 |
+| Author Notification || July 21|
+| Camera Ready || August 5 |
+| Workshop || September 29 |
 
 ### Call for Performances
 
 Submission deadline: July 8, 2018.
 
-Submission URL: https://easychair.org/conferences/?conf=farm2018 .
+[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2018)
 
 FARM also hosts a traditional evening of performances. For this year’s
 event, FARM 2018 is seeking proposals for live performances which
@@ -69,7 +69,7 @@ appropriate.
 Submission deadline: June 28, 2018 (note that this is earlier than for
 performances).
 
-Submission URL: https://easychair.org/conferences/?conf=farm2018 .
+[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2018)
 
 We welcome submissions from academic, professional, and independent
 programmers and artists.
