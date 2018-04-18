@@ -39,11 +39,11 @@ within the scope.
 
 ### Key Dates
 
-June 28: Paper submission deadline
-July 8: Performance submission deadline
-July 2: Author Notification
-August 5: Camera Ready
-September 29: Workshop
+| Paper submission deadline || June 28 |
+| Performance submission deadline || July 8 |
+| Author Notification || July 21|
+| Camera Ready || August 5 |
+| Workshop || September 29 |
 
 ### Call for Performances
 
