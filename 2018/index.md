@@ -161,7 +161,7 @@ itself, please contact the organisers at: `farm-2018@functional-art.org`
 #### Program Committee:
 
 * Heinrich Apfelmus (self-employed)
-* Chuck-Jee Chau (Hong Kong University of Science and Technology)
+* Chuck Jee Chau (Hong Kong University of Science and Technology)
 * Brian Heim (Yale, USA)
 * Can Ince (University of Hiddersfield, UK)
 * Chris Martens (NC State University, USA)
