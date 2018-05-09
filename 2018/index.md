@@ -161,12 +161,12 @@ itself, please contact the organisers at: `farm-2018@functional-art.org`
 #### Program Committee:
 
 * Heinrich Apfelmus (self-employed)
-* Chuck Jee Chau (Hong Kong University of Science and Technology)
+* Chuck Jee Chau (Hong Kong University of Science and Technology, Hong Kong)
 * Brian Heim (Yale, USA)
 * Can Ince (University of Hiddersfield, UK)
 * Chris Martens (NC State University, USA)
 * Eduardo Miranda (University of Plymouth, UK)
-* Ivan Perez (University of Nottingham, UK)
+* Ivan Perez Dominguez (University of Nottingham, UK)
 * Iris Ren (Utrecht University, Netherlands)
 * Henning Thielemann (self-employed)
 * Didier Verna (EPITA, France)
