@@ -166,6 +166,7 @@ itself, please contact the organisers at: `farm-2018@functional-art.org`
 * Can Ince (University of Hiddersfield, UK)
 * Chris Martens (NC State University, USA)
 * Eduardo Miranda (University of Plymouth, UK)
+* Ivan Perez (University of Nottingham, UK)
 * Iris Ren (Utrecht University, Netherlands)
 * Henning Thielemann (self-employed)
 * Didier Verna (EPITA, France)
