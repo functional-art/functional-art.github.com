@@ -163,7 +163,7 @@ itself, please contact the organisers at: `farm-2018@functional-art.org`
 * Heinrich Apfelmus (self-employed)
 * Chuck Jee Chau (Hong Kong University of Science and Technology, Hong Kong)
 * Brian Heim (Yale, USA)
-* Can Ince (University of Hiddersfield, UK)
+* Can Ince ([ince.io](http://ince.io))
 * Chris Martens (NC State University, USA)
 * Eduardo Miranda (University of Plymouth, UK)
 * Ivan Perez Dominguez (University of Nottingham, UK)
