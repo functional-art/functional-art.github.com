@@ -39,7 +39,7 @@ within the scope.
 
 ### Key Dates
 
-| Paper submission deadline || June 28 |
+| Paper submission deadline (extended) || July 8 |
 | Performance submission deadline || July 8 |
 | Author Notification || July 21|
 | Camera Ready || August 5 |
