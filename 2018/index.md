@@ -92,7 +92,7 @@ website](https://icfp18.sigplan.org/track/farm-2018-papers#program).
 * **Closing**
   Donya Quick, Tom Murphy, Brent Yorgey
 
-##### Performance Evening
+##### 19:30-21:30: Evening of Algorithmic Arts @ [The Luminary](https://theluminaryarts.com/)
 
 - Scott Fradkin: Bring the Noise
 - Codie
