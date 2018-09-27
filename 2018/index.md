@@ -11,6 +11,12 @@ active: farm2018
 **29th September, 2018**, co-located with
 [ICFP 2018](http://icfp18.sigplan.org/home) in St Louis, Missouri, USA
 
+### Performance evening registration
+
+The performance evening is free to attend (7:30-9:30pm at [The
+Luminary](https://theluminaryarts.com/)), but you must register by
+[filling out this form](https://goo.gl/forms/7gbe6mcqenORU0c32).
+
 ### About
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
@@ -93,6 +99,9 @@ website](https://icfp18.sigplan.org/track/farm-2018-papers#program).
   Donya Quick, Tom Murphy, Brent Yorgey
 
 ##### 19:30-21:30: Evening of Algorithmic Arts @ [The Luminary](https://theluminaryarts.com/), 2701 Cherokee Street
+
+The performance evening is free to attend, but you must register by
+[filling out this form](https://goo.gl/forms/7gbe6mcqenORU0c32).
 
 - Scott Fradkin: Bring the Noise
 - Codie
