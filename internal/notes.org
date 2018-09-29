@@ -1,0 +1,331 @@
+* General Chair duties
+
+** Pick a program chair
+
+** Submit workshop application
+
+Deadline is usually sometime in November of the previous year.
+
+Usually, the previous year's application is adapted and submitted.
+
+You'll need a draft program committee for the application.  Be sure to
+show geographic and gender diversity in the PC.  Also, be prepared to
+have to argue for non-PhD PC members with the program chair.
+
+Establish consensus with the PC (and, if necessary, the SC) about the
+publication mode: In the past, FARM has had regular ACM proceedings.
+
+** Pick a performance chair
+
+Two desiderata:
+
+- someone local
+- someone well-connected with the music/livecoding scene
+
+With the second point, other people in the PC or
+
+** Pick a publicity chair
+
+Someone enthusiastic about FARM, who can manage the website, publicize
+the Call for Papers, and tweet about the event.
+
+** Establish a budget with the ICFP General Chair
+
+There's a budget for the workshop itself, based on the previous year's
+attendance: Find out how much that is.
+
+Also, establish with the ICFP GC that the performance evening is an
+event separate from FARM itself.
+
+In particular, it needs a separate, independent budget to pay for a
+venue, possibly travel and accomodation for selected performers and/or
+the performance chair.
+
+** Create a mailing list or alias for the organization team
+
+This should include the GC, the PC, and the Publicity Chair.
+
+Mike Sperber <sperber@deinprogramm.de> can help with setting up a
+@functional-art.org mailing list for this.
+
+** Assist presenters
+
+There's always confusion over the fact that presenters need to pay
+their own way, and also register for the event at their own costs.
+You may need to point out the availability of PAC funding (not just
+available to PhD students).  Also, you can use the budget for the
+workshop at your discretion.  Be sure to coordinate this with the
+Program Chair.
+
+** Publicize performance evening at the event
+
+* Program Chair duties
+
+** Pick a program committee
+
+See the workshop application for criteria.  You need to watch out for
+geographic and gender diversity.
+
+** Write a Call for Papers and Demos
+
+See the previous year's call on the website.
+
+You'll need to carefully choose the deadlines: The submission deadline
+should be after ICFP notification, so that people can submit their
+rejected ICFP submissions.  The deadline for the final version will be
+(if you go with ACM proceedings) determined by the workshop chairs.
+You'll need to work backwards from there to schedule notification
+deadlines.  Make sure you leave enough time for paper revision and
+shepherdings.  (See below.)
+
+The call needs to clearly state that, as a default, presenters need to
+pay their own way, and also need to pay for registration at FARM.
+(Unless you've made a different arrangement with the ICFP GC.)  Point
+PAC funding, which is not only available to PhD students, but
+essentially all presenters.
+
+** Create a submission site
+
+This is part of the Call for Papers and Demos. In the past, we've used
+EasyChair:
+
+http://easychair.org/
+
+(Use of EasyChair is free for events like FARM.)
+
+Note that EasyChair does not directly support plain text, MarkDown, or
+HTML as a submission format, last time we checked.  (Typical for demo
+and performance proposals.)  Possibly, submitters will need to zip
+their files.
+
+** Create a mailing list for the Program Committee
+
+Mike Sperber <sperber@deinprogramm.de> can help with setting up a
+mailing list on @functional-art.org.  (Possibly, EasyChair can also
+help with this.)
+
+** Select a program
+
+You'll need to find a mode of operation that works for you.  In the
+past, the program committee has submitted reviews, and the Program
+Chair has done the final selection; this has worked well.
+
+** Choose an invited talk
+You may or may not have an invited talk; finances for travel and
+accomodation for this should be coordinated with the GC.
+
+** Put program on web site
+
+See previous years for examples.
+
+** Organize shepherding
+
+Some papers have interesting material, but have deficient
+presentation.  You might choose to have PC member shepherd papers that
+need extra effort - i.e. state changes that need to be made, suggest
+further improvements, read revisions, and sign off on the papers once
+it's in publishable state.
+
+If a paper requires shepherding, make sure that the process is clear
+to the PC members, and spelled out in the message sent to the authors.
+You'll need to state that again when sending out acceptance e-mails.
+
+** Coordinate publication efforts
+
+You'll receive guidance for this from the workshop chairs.  For ACM
+proceedings, this is mostly handled by the ACM-hired publishing
+companies, but some edge cases might require handling by the PC.
+
+
+** Write a proceedings foreword
+
+You can see the previous years' efforts on this (and the demo and
+performance summaries) on GitHub:
+
+https://github.com/functional-art
+
+** Write a demo summary
+
+If you go with the publication mode of the last few years, the demos
+will not have separate papers each.  Therefore, you'll need to write a
+summary document for the demos, which will be a regular paper in the
+proceedings.
+
+You can see the previous years' efforts on this on GitHub:
+
+https://github.com/functional-art
+
+** Manage workshop event
+
+Say words of greeting at the beginning, pointing out General Chair,
+Performance Chair, and Performance Chair, as well as PC members.
+Also, say where
+
+If you're not going to chair the workshop itself, you'll need to pick
+session chairs.
+
+** Collect slides
+Collect slides from the presenters; usually best done on a USB stick
+at the event.
+
+These slides should later be linked from the main site.
+
+** Get authors to "author-izer" their papers
+
+http://www.acm.org/publications/authors/acm-author-izer-service
+
+* Performance Chair duties
+
+** Write a call for performance submissions
+
+You can take a previous year's call as a blueprint.  Be clear about
+the costs to performers - by default (unless you make different
+arrangements with the GC/ICFP GC) performers need to pay their own way
+to be at the event.
+
+** Put together a program
+
+The Performance Chair usually does this at her discretion.
+
+** Choose a venue
+
+Do this early, coordinating with the GC and the ICFP GC.  In the past,
+60-100 people from ICFP have shown up.  The events have also been open
+to the general public.
+
+** Coordinate the event itself
+
+Be sure the performers know when they should be where, and moderate
+the event, possibly coordinating with the PC and the GC.
+
+** Record the event
+In the past, Mike Sperber <sperber@deinprogramm.de> has brought an HD
+camera, and recorded everything.
+
+** Write a performance summary
+
+You can see the previous years' efforts on this on GitHub:
+
+https://github.com/functional-art
+
+** Publish performance videos
+In the past, videos of the performances were published on YouTube.
+* Publicity chair duties
+
+** Manage the website
+
+The website is managed here:
+
+https://github.com/functional-art/functional-art.github.com
+
+via Jekyll:
+
+https://jekyllrb.com/
+
+Michael Sperber <sperber@deinprogramm.de> owns the DNS for functional-art.org.
+
+In particular, amek
+
+** Draw up a list of publicity targets.
+
+In the past, we've used this list:
+
+https://docs.google.com/spreadsheets/d/1eoG5ijN-eR6NTnCOyHMSVuz7xx9Ir-35zPqZmOPpyh0/edit?usp=sharing
+
+Split the work of sending messages to these targets, but make sure
+they all receive the various calls.  You can enlist the help of the
+program committee members for this.
+
+** Publicize the Call for Papers and Demos
+
+Use the publicity targets for this; make sure to publicize a second
+call 1-2 weeks before the submission deadline.
+
+** Publicize the event itself
+
+Again, using the target list.
+
+** Tweet
+
+Get the Twitter login from the previous year's chair(s). 
+
+We've used Twitter for all relevant announcements, as well as
+documenting the progress of the FARM workshop and performance evening.
+
+** Lanyrd
+
+Create an event page on Lanyrd:
+
+http://lanyrd.com/
+
+Here's 2017:
+
+http://lanyrd.com/2017/workshopfarm2017/
+
+You can also put links to calls there.
+
+More importantly, once the program is finalized, putting the program
+on Lanyrd enables attendees to use the Lanyrd app to put together
+their schedule.
+
+** Link papers
+
+Once the event is done, include links to the (hopefully author-ized)
+papers on the web site.
+
+
+* Meeting notes ICFP 2015
+It was great to see you in Vancouver.  I'm just now getting around to
+properly writing up the notes from our steering committee meeting -- here
+they are.  Comments/corrections/additions welcomed.
+
+FARM Steering Committee meeting notes
+4 September, 2015, Vancouver
+
+In attendance: Henrik Nilsson, Michael Sperber, David Janin, Brent Yorgey
+Absent: Alex McLein
+
+*Steering Committee Membership and Rules*
+
+We made David Janin a member.
+
+Who should be SC chair?  Typical procedure: oldest-serving PC chair.  That
+makes Henrik the SC chair which he accepted.
+
+There was some discussion of the academic/artistic split inherent in FARM,
+and whether we need to make sure both are represented on the SC.
+
+We need some SC rules/guidelines.  Henrik proposed to adapt the Haskell
+Symposium SC rules.  He will write something up and send it around for
+comments.
+
+We discussed establishing the rule that the PC chair becomes the Workshop
+chair the following year.
+
+
+
+*Future directions of FARM*
+FARM attendance is healthy but submissions are worryingly low.
+We discussed the need for several things.  First, better PR (not just wider
+announcements, but making it clearer what sorts of contributions are
+welcome, i.e. not just traditional academic papers).   Second, the program
+committee needs to play a different role: more emphasis on *soliciting*
+submissions than just on vetting them. The PC also needs to focus on
+*improving* papers rather than shooting them down.
+
+We would like to broaden the language in the CFP to be more open and
+modest.  For example, we might include words like "interfaces", "motion
+capture", and put less emphasis on functional programming per se, instead
+focusing on e.g. functional, declarative, or mathematical style.
+
+Ideas for an invited speaker for next year?
+
+We discussed finding a PC chair for next year, until Michael reluctantly
+agreed to do it.
+
+What should the format of FARM be?  More like an actual workshop than a
+traditional academic thing with talks? e.g. Invited talks, discussion?
+There is room for the PC to shape what it actually looks like.
+
+Should we look for sponsors? Funding to bring artists to perform, etc.?
+
