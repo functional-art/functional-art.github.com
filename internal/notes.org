@@ -252,22 +252,6 @@ Get the Twitter login from the previous year's chair(s).
 We've used Twitter for all relevant announcements, as well as
 documenting the progress of the FARM workshop and performance evening.
 
-** Lanyrd
-
-Create an event page on Lanyrd:
-
-http://lanyrd.com/
-
-Here's 2017:
-
-http://lanyrd.com/2017/workshopfarm2017/
-
-You can also put links to calls there.
-
-More importantly, once the program is finalized, putting the program
-on Lanyrd enables attendees to use the Lanyrd app to put together
-their schedule.
-
 ** Link papers
 
 Once the event is done, include links to the (hopefully author-ized)
