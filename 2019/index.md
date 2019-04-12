@@ -45,25 +45,6 @@ within the scope.
 | Camera Ready                     || June 30   |  
 | Workshop                         || August 23 |
 
-### Call for Performances
-
-Submission deadline: May 22, 2019.
-
-[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
-
-FARM also hosts a traditional evening of performances. For this year’s
-event, FARM 2018 is seeking proposals for live performances which
-employ functional programming techniques, in whole or in part. We
-would like to support a diverse range of performing arts, including
-music, dance, video animation, and performance art.
-
-We encourage both risk-taking proposals which push forward the state
-of the art and refined presentations of highly-developed practice. In
-either case, please support your submission with a clear description
-of your performance including how your performance employs functional
-programming and a discussion of influences and prior art as
-appropriate.
-
 ### Call for Papers and Demos
 
 Submission deadline: May 15, 2019 (note that this is earlier than for
@@ -115,6 +96,25 @@ published on the FARM website. A summary of the
 demo performances will also be published as part of the conference
 proceedings, to be prepared by the program chair.
 
+
+### Call for Performances
+
+Submission deadline: May 22, 2019.
+
+[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
+
+FARM also hosts a traditional evening of performances. For this year’s
+event, FARM 2019 is seeking proposals for live performances which
+employ functional programming techniques, in whole or in part. We
+would like to support a diverse range of performing arts, including
+music, dance, video animation, and performance art.
+
+We encourage both risk-taking proposals which push forward the state
+of the art and refined presentations of highly-developed practice. In
+either case, please support your submission with a clear description
+of your performance including how your performance employs functional
+programming and a discussion of influences and prior art as
+appropriate.
 
 ### Authors take note
 
@@ -178,5 +178,5 @@ itself, please contact the organisers at: `farm-2019@functional-art.org`
 
 ### Code of Conduct
 
-FARM adheres to ICFP 2018's
+FARM adheres to ICFP 2019's
 [Code of Conduct](http://icfp19.sigplan.org/attending/code-of-conduct).
