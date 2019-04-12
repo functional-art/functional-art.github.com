@@ -164,16 +164,16 @@ itself, please contact the organisers at: `farm-2019@functional-art.org`
 
 #### Program Committee:
 
+* Youyou Cong (Ochanomizu University)
 * Jon Forsyth (Oscilloscape)
-* S P Suresh (Chennai Mathematical Institute)
 * Ju Goncalves (Roskilde University)
 * Sarah Hennigh-Palermo (New York University)
 * Hans Hoglund (Tweag I/O)
-* Youyou Cong (Ochanomizu University)
 * David Janin (University of Bordeaux)
-* Iris Ren (University of Utrecht)
-* Dmitri Szamozvancev (University of Cambridge)
 * Kubota Akihiro (Tama Art UniversityFaculty of Art and Design)
+* Iris Ren (University of Utrecht)
+* S. P. Suresh (Chennai Mathematical Institute)
+* Dmitri Szamozvancev (University of Cambridge)
 * Haley Young (University of Pennsylvania)
 
 ### Code of Conduct
