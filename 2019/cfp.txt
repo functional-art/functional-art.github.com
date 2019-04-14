@@ -5,7 +5,6 @@ Berlin, Germany, August 23rd, 2019
 Key Dates:
 
 Paper submission deadline        May 15
-Performance submission deadline  May 22
 Author Notification              June 17
 Camera Ready                     June 30
 
@@ -105,22 +104,10 @@ program has been selected.
 
 Finances
 
-The performance evening will be free entry, although tickets will be
-limited. Unfortunately we are not able to offer an artist fee. In order
-to support broad participation we are able to offer the following, thanks
-to the support of ICFP and its sponsors.
-
-If you are an independent artist performing in the evening, but not
-presenting a paper during the daytime workshop, we are able to offer
-free registration to the workshop, and may also be able to support
-inland travel expenses in some circumstances.
-
-If you do not fit the description of "independent artist who is not
-presenting a paper at the workshop", but would nonetheless have financial
-difficulty attending, there is still the opportunity to apply for
+If you would have financial difficulty attending, you can apply for
 conference "PAC" funds.
 
-Please get in touch for more information in either case.
+Please get in touch for more information.
 
 
 Questions

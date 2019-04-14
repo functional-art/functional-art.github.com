@@ -40,15 +40,13 @@ within the scope.
 ### Key Dates
 
 | Paper submission deadline        || May 15    |  
-| Performance submission deadline  || May 22    |  
 | Author Notification              || June 17   |  
 | Camera Ready                     || June 30   |  
 | Workshop                         || August 23 |
 
 ### Call for Papers and Demos
 
-Submission deadline: May 15, 2019 (note that this is earlier than for
-performances).
+Submission deadline: May 15, 2019
 
 [**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
 
@@ -96,26 +94,6 @@ published on the FARM website. A summary of the
 demo performances will also be published as part of the conference
 proceedings, to be prepared by the program chair.
 
-
-### Call for Performances
-
-Submission deadline: May 22, 2019.
-
-[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
-
-FARM also hosts a traditional evening of performances. For this year’s
-event, FARM 2019 is seeking proposals for live performances which
-employ functional programming techniques, in whole or in part. We
-would like to support a diverse range of performing arts, including
-music, dance, video animation, and performance art.
-
-We encourage both risk-taking proposals which push forward the state
-of the art and refined presentations of highly-developed practice. In
-either case, please support your submission with a clear description
-of your performance including how your performance employs functional
-programming and a discussion of influences and prior art as
-appropriate.
-
 ### Authors take note
 
 The official publication date is the date the proceedings are made
@@ -131,22 +109,10 @@ requested on-site.
 
 ### Finances
 
-The performance evening will be free entry, although tickets will be limited.
-Unfortunately we are not able to offer an artist fee. In order to support
-broad participation we are able to offer the following, thanks to the
-support of ICFP and its sponsors.
+If you would have financial difficulty attending, you
+can apply for conference "PAC" funds.
 
-* If you are an independent artist performing in the evening, but not
-presenting a paper during the daytime workshop, we are able to offer free
-registration to the workshop, and may also be able to support inland travel
-expenses in some circumstances.
-
-* If you do not fit the description of "independent artist who is not
-presenting a paper at the workshop", but would nonetheless have
-financial difficulty attending, there is still the opportunity to apply
-for conference "PAC" funds.
-
-Please get in touch for more information in either case.
+Please get in touch for more information.
 
 ### Questions
 
@@ -160,7 +126,8 @@ itself, please contact the organisers at: `farm-2019@functional-art.org`
 
 **Program Chair**: Daniel Winograd-Cort (Target)
 
-**Performance Chair**: Timo Dufner (http://www.timodufner.com/)
+**Performance Chairs**: Timo Dufner (http://www.timodufner.com/),
+Michael Sperber, Active Group (http://www.deinprogramm.de/sperber/)
 
 #### Program Committee:
 
