@@ -85,14 +85,22 @@ Demo proposals should describe a demonstration to be given at the FARM
 workshop and its context, connecting it with the themes of FARM. A
 demo could be in the form of a short (10-20 minute) tutorial,
 presentation of work-in-progress, an exhibition of some work, or even
-a performance. Demo proposals should be in plain text, HTML or
-Markdown format, and not exceed 2000 words. A demo proposal should be
-clearly marked as such, by prepending Demo Proposal: to the title.
+a performance. Demo proposals should be in the
+form of an extended abstract (500 to 2000 words). A demo proposal should be
+clearly marked as such, by prepending “Demo Proposal:” to the title. Demo
+proposals will be published on the FARM website.
 
-Demo proposals should be in the form of extended abstracts and will be
-published on the FARM website. A summary of the
-demo performances will also be published as part of the conference
-proceedings, to be prepared by the program chair.
+#### Performances
+
+FARM also hosts a traditional evening of performances. FARM seeks proposals for
+live performances which employ functional programming techniques, in whole or in
+part. We would like to support a diverse range of performing arts, including
+music, dance, video animation, and performance art. We encourage both
+risk-taking proposals which push forward the state of the art and refined
+presentations of highly-developed practice. In either case, please support your
+submission with a clear description of your performance including how your
+performance employs functional programming and a discussion of influences and
+prior art as appropriate.
 
 ### Authors take note
 
@@ -118,7 +126,7 @@ Please get in touch for more information.
 
 If you have any questions about what type of contributions that might
 be suitable, or anything else regarding submission or the workshop
-itself, please contact the organisers at: `farm-2019@functional-art.org`
+itself, please contact the organizers at: `farm-2019@functional-art.org`
 
 ### Workshop Organization
 
