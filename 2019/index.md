@@ -67,7 +67,7 @@ All submissions must propose an original contribution to the FARM
 theme. FARM is an interdisciplinary conference, so a wide range of
 approaches are encouraged.
 
-An original paper should have 10 to 25 pages, be in portable document
+An original paper should have 5 to 12 pages, be in portable document
 format (PDF), using the ACM SIGPLAN style guidelines and the [ACM
 SIGPLAN template](http://www.sigplan.org/Resources/Author/) (use
 the 'sigplan' sub-format).
