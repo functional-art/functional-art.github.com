@@ -39,14 +39,14 @@ within the scope.
 
 ### Key Dates
 
-| Paper submission deadline        || May 15    |  
+| Paper submission deadline        || May 27  (extended from May 15) |  
 | Author Notification              || June 17   |  
 | Camera Ready                     || June 30   |  
 | Workshop                         || August 23 |
 
 ### Call for Papers and Demos
 
-Submission deadline: May 15, 2019
+Submission deadline: May 27, 2019 (extended from May 15)
 
 [**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
 

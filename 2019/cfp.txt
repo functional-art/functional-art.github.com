@@ -52,7 +52,7 @@ performance employs functional programming and a discussion of influences and
 prior art as appropriate.
 
 Important dates/deadlines:
-Submission deadline: May 15th
+Submission deadline: May 27th (extended from May 15th)
 Reviews returned: June 17th
 Camera ready submissions: June 30th
 Workshop: August 23rd
