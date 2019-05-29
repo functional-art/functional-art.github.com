@@ -44,6 +44,11 @@ within the scope.
 | Camera Ready                     || June 30   |  
 | Workshop                         || August 23 |
 
+### Call for Performance Proposals
+
+The [Call for Performances](call-for-performances.html) is
+[here](call-for-performances.html)!  (Deadline June 28.)
+
 ### Call for Papers and Demos
 
 Submission deadline: May 27, 2019 (extended from May 15)
