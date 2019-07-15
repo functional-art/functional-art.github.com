@@ -117,8 +117,8 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 ### Call for Performance Proposals
 
 The call for papers and performances is over, but the pages can be found
-[here (for papers and demos)](call-for-performances.html)
-and [here (for perfornances)](cfp.html).
+[here (for papers and demos)](cfp.html)
+and [here (for perfornances)](call-for-performances.html).
 
 ### Questions
 
