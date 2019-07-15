@@ -37,101 +37,93 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
-### Key Dates
 
-| Paper submission deadline        || May 27  (extended from May 15) |  
-| Author Notification              || June 17   |  
-| Camera Ready                     || June 30   |  
-| Workshop                         || August 23 |
+#### Workshop Registration
+
+You can register for the FARM workshop through
+the
+[ICFP registration page](http://icfp19.sigplan.org/attending/registration).
+Early registration deadline is **July 18**!
+
+At least one author of each accepted submission must register and present their paper at the workshop.
+
+
+### Tentative Program
+
+The following program is tentative and may change.
+A detailed schedule will be forthcoming on the ICFP conference website.
+
+-------
+
+##### 9:00-9:10 Welcome
+
+  Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
+
+##### 9:10-10:25: Session 1. Music Generation
+
+* **Music as Language: Putting Probabilistic Temporal Graph Grammars to Good Use**<br/>
+  Orestis Melkonian
+
+* **A Functional Model of Jazz Improvisation**<br/>
+  Donya Quick and Kelland Thomas
+
+* **Demo: Counterpoint by Construction**<br/>
+  Youyou Cong and John Leo
+
+##### 10:45-12:00: Session 2. Games and Graphics
+
+* **Fun with Interfaces (SVG Interfaces for Musical Expression)**<br/>
+  Benedict Gaster, Nathan Renney, and Carinna Parraman
+
+* **Mobile Game Programming in Haskell**<br/>
+  Christina Zeller and Ivan Perez
+
+* **Demo: Kaleidogen**<br/>
+  Joachim Breitner
+
+##### 13:30-14:20: Session 3. Live-Coding
+
+* **Demo: Functors and Music**
+  Heinrich Apfelmus
+
+* **The sound of lambda**
+  Felipe Ignacio Noriega and Anne Veinberg
+
+##### 14:40-15:30: Session 4. Sound
+
+* **Csound-expression: Haskell framework for computer music**
+  Anton Kholomiov
+
+* **Screaming in the IO Monad: A Realtime Audio Processing and Control Experiment in Haskell**
+  David Janin
+
+##### 15:50-16:40: Session 5. Musical Patterns
+
+* **Representing Music with Prefix Trees**
+  Yan Han, Nada Amin, and Neel Krishnaswami
+
+* **What Constitutes a Musical Pattern?**
+  Orestis Melkonian, Iris Yuping Ren, Wouter Swierstra, and Anja Volk
+
+##### 16:40-16:50: Closing
+
+  Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
+
+##### Evening: A performance, with details to be announced
+
+
+
 
 ### Call for Performance Proposals
 
-The [Call for Performances](call-for-performances.html) is
-[here](call-for-performances.html)!  (Deadline June 28.)
-
-### Call for Papers and Demos
-
-Submission deadline: May 27, 2019 (extended from May 15)
-
-[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2019)
-
-We welcome submissions from academic, professional, and independent
-programmers and artists.
-
-Submissions are invited in two categories:
-
-#### Original papers
-
-We solicit original papers in the following categories:
-
-- Original research
-- Overview / state of the art
-- Technology tutorial
-
-All submissions must propose an original contribution to the FARM
-theme. FARM is an interdisciplinary conference, so a wide range of
-approaches are encouraged.
-
-An original paper should have 5 to 12 pages, be in portable document
-format (PDF), using the ACM SIGPLAN style guidelines and the [ACM
-SIGPLAN template](http://www.sigplan.org/Resources/Author/) (use
-the 'sigplan' sub-format).
-
-Accepted papers will be published in the ACM Digital Library as part
-of the FARM 2019 proceedings. See the [information on the options
-available to authors](http://authors.acm.org/main.cfm). Authors are
-encouraged to submit auxiliary material for publication along with
-their paper (source code, data, videos, images, etc.); authors retain
-all rights to the auxiliary material.
-
-#### Demo proposals
-
-Demo proposals should describe a demonstration to be given at the FARM
-workshop and its context, connecting it with the themes of FARM. A
-demo could be in the form of a short (10-20 minute) tutorial,
-presentation of work-in-progress, an exhibition of some work, or even
-a performance. Demo proposals should be in the
-form of an extended abstract (500 to 2000 words). A demo proposal should be
-clearly marked as such, by prepending “Demo Proposal:” to the title. Demo
-proposals will be published on the FARM website.
-
-#### Performances
-
-FARM also hosts a traditional evening of performances. FARM seeks proposals for
-live performances which employ functional programming techniques, in whole or in
-part. We would like to support a diverse range of performing arts, including
-music, dance, video animation, and performance art. We encourage both
-risk-taking proposals which push forward the state of the art and refined
-presentations of highly-developed practice. In either case, please support your
-submission with a clear description of your performance including how your
-performance employs functional programming and a discussion of influences and
-prior art as appropriate.
-
-### Authors take note
-
-The official publication date is the date the proceedings are made
-available in the ACM Digital Library. This date may be up to two weeks
-prior to the first day of your conference. The official publication
-date affects the deadline for any patent filings related to published
-work.
-
-All presentations at FARM 2019 will be recorded. Permission to publish
-the resulting video (in all probability on YouTube, along with the
-videos of ICFP itself and the other ICFP-colocated events) will be
-requested on-site.
-
-### Finances
-
-If you would have financial difficulty attending, you
-can apply for conference "PAC" funds.
-
-Please get in touch for more information.
+The call for papers and performances is over, but the pages can be found
+[here (for papers and demos)](call-for-performances.html)
+and [here (for perfornances)](cfp.html).
 
 ### Questions
 
-If you have any questions about what type of contributions that might
-be suitable, or anything else regarding submission or the workshop
-itself, please contact the organizers at: `farm-2019@functional-art.org`
+If you have any questions about the workshop, please contact the organizers
+at: `farm-2019@functional-art.org`
 
 ### Workshop Organization
 
@@ -145,14 +137,12 @@ Michael Sperber, Active Group (http://www.deinprogramm.de/sperber/)
 #### Program Committee:
 
 * Youyou Cong (Ochanomizu University)
-* Jon Forsyth (Oscilloscape)
 * Ju Goncalves (Roskilde University)
 * Sarah Hennigh-Palermo (New York University)
 * Hans Hoglund (Tweag I/O)
 * David Janin (University of Bordeaux)
 * Kubota Akihiro (Tama Art UniversityFaculty of Art and Design)
 * Iris Ren (University of Utrecht)
-* S. P. Suresh (Chennai Mathematical Institute)
 * Dmitri Szamozvancev (University of Cambridge)
 * Haley Young (University of Pennsylvania)
 
