@@ -43,15 +43,14 @@ within the scope.
 You can register for the FARM workshop through
 the
 [ICFP registration page](http://icfp19.sigplan.org/attending/registration).
-Early registration deadline is **July 18**!
 
 At least one author of each accepted submission must register and present their paper at the workshop.
 
 
 ### Tentative Program
 
-The following program is tentative and may change.
-A detailed schedule will be forthcoming on the ICFP conference website.
+The schedule can also be found on the
+[ICFP conference website](https://icfp19.sigplan.org/home/farm-2019#program).
 
 -------
 
@@ -59,7 +58,15 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 
   Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
 
-##### 9:10-10:25: Session 1. Music Generation
+##### 9:10-10:10: Session 1. Sound
+
+* **Csound-expression: Haskell framework for computer music**
+  Anton Kholomiov
+
+* **Screaming in the IO Monad: A Realtime Audio Processing and Control Experiment in Haskell**
+  David Janin
+
+##### 10:30-12:00: Session 2. Music Generation
 
 * **Music as Language: Putting Probabilistic Temporal Graph Grammars to Good Use**<br/>
   Orestis Melkonian
@@ -70,7 +77,7 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 * **Demo: Counterpoint by Construction**<br/>
   Youyou Cong and John Leo
 
-##### 10:45-12:00: Session 2. Games and Graphics
+##### 13:30-15:00: Session 3. Games and Graphics
 
 * **Fun with Interfaces (SVG Interfaces for Musical Expression)**<br/>
   Benedict Gaster, Nathan Renney, and Carinna Parraman
@@ -81,7 +88,7 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 * **Demo: Kaleidogen**<br/>
   Joachim Breitner
 
-##### 13:30-14:20: Session 3. Live-Coding
+##### 15:30-16:30: Session 4. Live-Coding
 
 * **Demo: Functors and Music**
   Heinrich Apfelmus
@@ -89,15 +96,7 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 * **The sound of lambda**
   Felipe Ignacio Noriega and Anne Veinberg
 
-##### 14:40-15:30: Session 4. Sound
-
-* **Csound-expression: Haskell framework for computer music**
-  Anton Kholomiov
-
-* **Screaming in the IO Monad: A Realtime Audio Processing and Control Experiment in Haskell**
-  David Janin
-
-##### 15:50-16:40: Session 5. Musical Patterns
+##### 16:50-17:50: Session 5. Musical Patterns
 
 * **Representing Music with Prefix Trees**
   Yan Han, Nada Amin, and Neel Krishnaswami
@@ -105,7 +104,7 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 * **What Constitutes a Musical Pattern?**
   Orestis Melkonian, Iris Yuping Ren, Wouter Swierstra, and Anja Volk
 
-##### 16:40-16:50: Closing
+##### 17:50-18:00: Closing
 
   Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
 
@@ -114,7 +113,7 @@ A detailed schedule will be forthcoming on the ICFP conference website.
 
 
 
-### Call for Performance Proposals
+### Call for Papers and Performance Proposals
 
 The call for papers and performances is over, but the pages can be found
 [here (for papers and demos)](cfp.html)
