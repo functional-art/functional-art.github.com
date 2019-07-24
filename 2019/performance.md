@@ -57,7 +57,6 @@ storyteller, performance artist, filmmaker and actress.
 Her albums modernise the Sitar(lineage Pt Ravi Shankar), arranged
 centrally within layered harmonies, electronic soundscapes & complex
 grooves to showcase it in different genres and instrumentation.
-![Shama Rahman on stage| 20%](farm2019-03.png)
 From jazz to dubstep, punk to folk, trip hop to hip hop, swing to bosa
 nova, her stories start life as poems & take flight as cross-genre
 songs.
@@ -227,6 +226,7 @@ Center in 2010), electronic tablas for Kuljit Bahmra, and most
 recently, the Svampolin. She holds 4 degrees from MIT and completed a
 PhD at Queen Mary University of London where she continues research in
 collaboration with Aalborg University in Copenhagen looking at
+
 technologically based violin augmentations to redefine the way we
 learn and play the violin. She’s also an active violinist having
 played at festivals throughout the UK, France, NY, SF, live on BBC
