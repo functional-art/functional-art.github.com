@@ -49,7 +49,7 @@ in real time by a functional language, resulting in fugues and canons
 of soundscape which morph from rich and ambient to rhythmic and
 syncopated.
 
-### [Shama Rahman](https://shamarahman.bandcamp.com/)
+### [Shama Rahman](https://shamarahman.bandcamp.com/){:target="_blank" rel="noopener"}
 
 Shama Sarwat Rahman is a British singer-songwriter, sitarist,
 storyteller, performance artist, filmmaker and actress.
