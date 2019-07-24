@@ -8,7 +8,7 @@ active: farm2019
 
 # Performance Evening
 
-#### 23 Augst 2019, 20:30, [malzfabrik](http://www.malzfabrik.de/)
+#### 23 Augst 2019, 20:30, [malzfabrik](http://www.malzfabrik.de/){:target="_blank" rel="noopener"}
 
 An evening of strange and wonderful music and audio/visual work made
 from computer code. Featuring an international line-up of artists,
@@ -62,7 +62,7 @@ From jazz to dubstep, punk to folk, trip hop to hip hop, swing to bosa
 nova, her stories start life as poems & take flight as cross-genre
 songs.
 
-### [Nick Rothwell](http://www.cassiel.com/about/)
+### [Nick Rothwell](http://www.cassiel.com/about/){:target="_blank" rel="noopener"}
 
 <p>Nick Rothwell is a composer, performer, software architect, programmer and sound artist. He has built media performance systems for projects with <a href="http://www.theforsythecompany.com/">Ballett Frankfurt</a> and <a href="http://www.volksoper.at/">Vienna Volksoper</a> (choreographer: <a href="http://www.michaelklien.com/">Michael Klien</a>) and <a href="http://www.braunarts.com/">Braunarts</a>, and interactive installations for <a href="http://soundandmusic.org/">Sonic Arts Network</a>, <a href="http://www.techneplatform.org/">TECHNE</a> (Istanbul) and the <a href="http://www.kinetica-artfair.com/">Kinetica</a> kinetic art fair (London). He has worked at <a href="http://www.steim.org/">STEIM</a> (Amsterdam), <a href="http://www.camac.org/">CAMAC</a> (Paris) and <a href="http://www.zkm.de/">ZKM</a> (Karlsruhe) and has composed soundtracks for choreographers <a href="http://www.aydinteker.com/">Aydin Teker</a> (Istanbul) and <a href="http://www.thebakery.org/">Richard Siegal</a> (<a href="http://www.trinitylaban.ac.uk/">Laban Centre</a>), and performed with <a href="http://www.cueperformance.com/booth.html">Laurie Booth</a> (Dance Umbrella, New Territories), and at the <a href="http://www.differentskies.com/">Different Skies Festival</a> (Arcosanti, Arizona), the <a href="http://www.ica.org.uk/">ICA</a>, and the Science Museum&#8217;s <a href="http://www.danacentre.org.uk/">Dana Centre</a>.</p>
 
@@ -80,7 +80,7 @@ process of iterating the code mirroring the development of the
 music. I will also complement it with live performance of harmonica
 and melodica.
 
-### [Chris Ford, ThoughtWorks Spain](https://www.thoughtworks.com/profiles/chris-ford)
+### [Chris Ford, ThoughtWorks Spain](https://www.thoughtworks.com/profiles/chris-ford){:target="_blank" rel="noopener"}
 
 Chris began to make music with code to compensate for his poor piano
 technique. It was only later that he realised that programming offers
@@ -100,7 +100,7 @@ interactive jazz piece.  In this performance, Dony Quick will play
 piano solos during some sections, to which the computer will listen
 respond with its own solos in a different instrument.
 
-### [Donya Quick, Stevens Institute of Technology](http://donyaquick.com/)
+### [Donya Quick, Stevens Institute of Technology](http://donyaquick.com/){:target="_blank" rel="noopener"}
 
 Donya Quick is currently a Research Assistant Professor at Stevens
 Institute of Technology. Previously she was a Visiting Professor at
@@ -127,7 +127,7 @@ but with the adjustment of Veinberg using the Ckalcuλator system and
 thus composing and evaluating simple lambda-calculus arithmetic
 operations and number comparisons with her piano playing.
 
-### [Felipe Ignacio Noriega](https://felipeignacio.info/)
+### [Felipe Ignacio Noriega](https://felipeignacio.info/){:target="_blank" rel="noopener"}
 
 Felipe Ignacio Noriega is a composer, programmer and live-coding artist
 born in Mexico City and is co-creator of the CodeKlavier together with
@@ -142,7 +142,7 @@ Creative Industries Fund NL to develop the CodeKlavier. The first work
 of the CodeKlavier, “hello world”, was the winner of the 2017
 Uncaged:Conlon Foundation Composition Competition.
 
-### [Anne Veinberg, Leiden University/docARTES](https://anneveinberg.com/)
+### [Anne Veinberg, Leiden University/docARTES](https://anneveinberg.com/){:target="_blank" rel="noopener"}
 
 Anne Veinberg is an Australian pianist based in the Netherlands and is
 co-creator of the CodeKlavier together with Felipe Ignacio
@@ -168,7 +168,7 @@ Haskell-based live coding modular synth, inspired by the FRP
 approaches to sound and image of TidalCycles and parallel graphics
 shaders respectively.
 
-### [Dimitris Kyriakoudis,  Infinite Monkeys](http://lnfinitemonkeys.com/)
+### [Dimitris Kyriakoudis,  Infinite Monkeys](http://lnfinitemonkeys.com/){:target="_blank" rel="noopener"}
 
 Dimitris Kyriakoudis, occasionally known as `w1n5t0n`, is one of the
 Infinite Monkeys. He was taught music at a young age by being shown
@@ -190,7 +190,7 @@ The application selects a shader animation when detecting the note on
 the timing of TidalCycles via OSC, making synchronized complex
 animations automatically in real-time.
 
-### [Atsushi Tadokoro, Maebashi Institute of Technology](https://yoppa.org/)
+### [Atsushi Tadokoro, Maebashi Institute of Technology](https://yoppa.org/){:target="_blank" rel="noopener"}
 
 Atsushi Tadokoro is a creative coder. Currently teaching as an
 associate professor at Maebashi Institute of Technology, and as a
@@ -199,7 +199,7 @@ in Japan. Tadokoro makes music works of sound synthesis using an
 algorithm and performs improvisation with sounds and moving-images by
 a laptop. His lectures about "creative coding” and “Live Coding” for
 openFrameworks, Processing, Sonic Pi and TidalCycles, etc. are
-[online](http://yoppa.org/) to be practically used for students and
+[online](http://yoppa.org/){:target="_blank" rel="noopener"} to be practically used for students and
 creators.
 
 <br/>
@@ -235,7 +235,7 @@ artists including Sam Lee, Mishaped Pearls, Arnold Dreyblatt, and, as
 Bitchlovsky, playing semi-improvised violin with live electronic
 music.
 
-### [Jack Armitage (Lil Data), Queen Mary University of London](http://www.jackarmitage.com/) 
+### [Jack Armitage (Lil Data), Queen Mary University of London](http://www.jackarmitage.com/){:target="_blank" rel="noopener"}
 
 Jack Armitage is a designer, musician, artist, technologist and
 researcher, currently a PhD student in the Augmented Instruments Lab
