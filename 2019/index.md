@@ -108,10 +108,30 @@ The schedule can also be found on the
 
   Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
 
-##### Evening: A performance, with details to be announced
+## 20:30 [Performance Evening](performance.html), [malzfabrik](http://www.malzfabrik.de/)
 
+An [evening of strange and wonderful music and audio/visual work](performance.html) made
+from computer code. Featuring an international line-up of artists,
+including groundbreaking livecoders who work directly with the innards
+of software, writing and manipulating code while a computer runs it,
+projecting their screens so you can see the code behind the
+performance.
 
+Performances will include: interactive generated jazz, a co-performance
+with harmonica and melodica, three duets, a sitar-computer
+co-performance, audio-visual animations, and a hybrid electric-acoustic
+violin.
 
+- [Shama Rahman / Nick Rothwell: Khyal Geometries: Functional Live-Coding for Sitar and DAW](performance.html#rahmanrothwell)
+- [Chris Ford: Leipzig Live](performance.html#ford)
+- [Donya Quick: Ugly Purse Dog](performance.html#quick)
+- [Felipe Ignacio Noriega / Anne Veinberg: Off<>zzing the Ckalcuλator](performance.html#noriegaveinberg)
+- [Dimitris Kyriakoudis: On the Branch of a Tree](performance.html#kyriakoudis)
+- [Atsushi Tadokoro: Algorave 100 Fragments](performance.html#tadokoro)
+- [Laurel S. Pardue (Bitchlovsky) / Jack Armitage (Lil Data): Lil Data and Bitchlovsky play the Svampolin](performance.html#parduearmitage)
+
+Note you'll need a ticket (for a modest price) to attend the concert -
+details will be announced soon.
 
 ### Call for Papers and Performance Proposals
 
