@@ -39,7 +39,7 @@ performer submissions about their performances and bios.
 Performance Notes and Bios
 ==========================
 
-# Khyal Geometries: Functional Live-Coding for Sitar and DAW
+# Khyal Geometries: Functional Live-Coding for Sitar and DAW {#rahmanrothwell}
 
 Khyal Geometries is a new project which combines classical, jazz and
 folk technique on the sitar with improvised live-coding of a digital
@@ -62,7 +62,7 @@ From jazz to dubstep, punk to folk, trip hop to hip hop, swing to bosa
 nova, her stories start life as poems & take flight as cross-genre
 songs.
 
-### [Nick Rothwell](http://www.cassiel.com/about/) {#rahmanrothwell}
+### [Nick Rothwell](http://www.cassiel.com/about/)
 
 <p>Nick Rothwell is a composer, performer, software architect, programmer and sound artist. He has built media performance systems for projects with <a href="http://www.theforsythecompany.com/">Ballett Frankfurt</a> and <a href="http://www.volksoper.at/">Vienna Volksoper</a> (choreographer: <a href="http://www.michaelklien.com/">Michael Klien</a>) and <a href="http://www.braunarts.com/">Braunarts</a>, and interactive installations for <a href="http://soundandmusic.org/">Sonic Arts Network</a>, <a href="http://www.techneplatform.org/">TECHNE</a> (Istanbul) and the <a href="http://www.kinetica-artfair.com/">Kinetica</a> kinetic art fair (London). He has worked at <a href="http://www.steim.org/">STEIM</a> (Amsterdam), <a href="http://www.camac.org/">CAMAC</a> (Paris) and <a href="http://www.zkm.de/">ZKM</a> (Karlsruhe) and has composed soundtracks for choreographers <a href="http://www.aydinteker.com/">Aydin Teker</a> (Istanbul) and <a href="http://www.thebakery.org/">Richard Siegal</a> (<a href="http://www.trinitylaban.ac.uk/">Laban Centre</a>), and performed with <a href="http://www.cueperformance.com/booth.html">Laurie Booth</a> (Dance Umbrella, New Territories), and at the <a href="http://www.differentskies.com/">Different Skies Festival</a> (Arcosanti, Arizona), the <a href="http://www.ica.org.uk/">ICA</a>, and the Science Museum&#8217;s <a href="http://www.danacentre.org.uk/">Dana Centre</a>.</p>
 
