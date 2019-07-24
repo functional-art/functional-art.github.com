@@ -57,7 +57,7 @@ storyteller, performance artist, filmmaker and actress.
 Her albums modernise the Sitar(lineage Pt Ravi Shankar), arranged
 centrally within layered harmonies, electronic soundscapes & complex
 grooves to showcase it in different genres and instrumentation.
-![Shama Rahman on stage](farm2019-03.png | width=250)
+![Shama Rahman on stage| 20%](farm2019-03.png)
 From jazz to dubstep, punk to folk, trip hop to hip hop, swing to bosa
 nova, her stories start life as poems & take flight as cross-genre
 songs.
