@@ -8,7 +8,7 @@ active: farm2019
 
 # Performance Evening
 
-#### 23 Augst 2019
+#### 23 Augst 2019, 20:30, [malzfabrik](http://www.malzfabrik.de/)
 
 An evening of strange and wonderful music and audio/visual work made
 from computer code. Featuring an international line-up of artists,
