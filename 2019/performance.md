@@ -226,7 +226,6 @@ Center in 2010), electronic tablas for Kuljit Bahmra, and most
 recently, the Svampolin. She holds 4 degrees from MIT and completed a
 PhD at Queen Mary University of London where she continues research in
 collaboration with Aalborg University in Copenhagen looking at
-
 technologically based violin augmentations to redefine the way we
 learn and play the violin. She’s also an active violinist having
 played at festivals throughout the UK, France, NY, SF, live on BBC
