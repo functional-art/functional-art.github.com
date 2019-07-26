@@ -6,7 +6,6 @@ active: farm2019
 
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <script src='https://js.tito.io/v1' async></script>
-<script type="text/javascript" src="performance.js"></script>
 
 ## 7th ACM SIGPLAN Workshop on Functional Art, Music, Modeling and Design (FARM)
 
