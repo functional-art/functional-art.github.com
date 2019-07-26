@@ -4,6 +4,9 @@ title: FARM 2019 Performance Evening
 active: farm2019
 ---
 
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+<script src='https://js.tito.io/v1' async></script>
+
 ## 7th ACM SIGPLAN Workshop on Functional Art, Music, Modeling and Design (FARM)
 
 # Performance Evening
@@ -30,8 +33,9 @@ violin.
 - [Atsushi Tadokoro: Algorave 100 Fragments](#tadokoro)
 - [Laurel S. Pardue (Bitchlovsky) / Jack Armitage (Lil Data): Lil Data and Bitchlovsky play the Svampolin](#parduearmitage)
 
-Note you'll need a ticket (for a modest price) to attend the concert -
-details will be announced here soon.
+You'll need a ticket (for a modest price) to attend the concert:
+
+<tito-widget event="active-group/farm-2019-performance-evening"></tito-widget>
 
 What follows is a list of performers with brief notes edited from
 performer submissions about their performances and bios.
