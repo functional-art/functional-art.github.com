@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test
 title: FARM 2019 Performance Evening
 active: farm2019
 ---
@@ -8,7 +8,6 @@ active: farm2019
 <script src='https://js.tito.io/v1' async></script>
 
 ## 7th ACM SIGPLAN Workshop on Functional Art, Music, Modeling and Design (FARM)
-<script language="javascript" type="text/javascript" src="performance.js"></script>
 
 
 # Performance Evening
