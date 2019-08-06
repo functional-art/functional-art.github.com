@@ -727,7 +727,7 @@ var SEPARATION = 100,
     function init() {
  
         container = document.createElement('div');
-        document.body.appendChild(container);
+        document.getElementById('animation').appendChild(container);
  
         camera = new THREE.PerspectiveCamera(120, window.innerWidth / window.innerHeight, 1, 10000);
         camera.position.z = 1000;
