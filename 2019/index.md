@@ -40,14 +40,14 @@ within the scope.
 
 #### Workshop Registration
 
-You can register for the FARM workshop through
-the
+**Registration for FARM 2019 has closed.**
+You could previously register for the FARM workshop through the
 [ICFP registration page](http://icfp19.sigplan.org/attending/registration).
 
 At least one author of each accepted submission must register and present their paper at the workshop.
 
 
-### Tentative Program
+### Program
 
 The schedule can also be found on the
 [ICFP conference website](https://icfp19.sigplan.org/home/farm-2019#program).
@@ -56,7 +56,7 @@ The schedule can also be found on the
 
 ##### 9:00-9:10 Welcome
 
-  Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
+  Daniel Winograd-Cort
 
 ##### 9:10-10:10: Session 1. Sound
 
@@ -106,7 +106,7 @@ The schedule can also be found on the
 
 ##### 17:50-18:00: Closing
 
-  Daniel Winograd-Cort, Donya Quick, Michael Sperber, Timo Dufner
+  Daniel Winograd-Cort
 
 ## 20:30 [Performance Evening](performance.html), [malzfabrik](http://www.malzfabrik.de/)
 
@@ -130,9 +130,6 @@ violin.
 - [Atsushi Tadokoro: Algorave 100 Fragments](performance.html#tadokoro)
 - [Laurel S. Pardue (Bitchlovsky) / Jack Armitage (Lil Data): Lil Data and Bitchlovsky play the Svampolin](performance.html#parduearmitage)
 
-Note you'll need a ticket (for a modest price) to attend the concert -
-details will be announced soon.
-
 ### Call for Papers and Performance Proposals
 
 The call for papers and performances is over, but the pages can be found
@@ -155,8 +152,8 @@ Michael Sperber, Active Group (http://www.deinprogramm.de/sperber/)
 
 #### Program Committee:
 
-* Youyou Cong (Ochanomizu University)
-* Ju Goncalves (Roskilde University)
+* Youyou Cong (Tokyo Institute of Technology)
+* April Gonçalves (Roskilde University)
 * Sarah Hennigh-Palermo (New York University)
 * Hans Hoglund (Tweag I/O)
 * David Janin (University of Bordeaux)
