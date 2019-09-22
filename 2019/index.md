@@ -60,48 +60,48 @@ The schedule can also be found on the
 
 ##### 9:10-10:10: Session 1. Sound
 
-* **Csound-expression: Haskell framework for computer music**
+* **Csound-expression: Haskell framework for computer music** <a href="https://youtu.be/jjOAINrXK-c">[video]</a><br/>
   Anton Kholomiov
 
-* **Screaming in the IO Monad: A Realtime Audio Processing and Control Experiment in Haskell**
+* **Screaming in the IO Monad: A Realtime Audio Processing and Control Experiment in Haskell** <a href="https://youtu.be/-HM67q5IpA8">[video]</a><br/>
   David Janin
 
 ##### 10:30-12:00: Session 2. Music Generation
 
-* **Music as Language: Putting Probabilistic Temporal Graph Grammars to Good Use**<br/>
+* **Music as Language: Putting Probabilistic Temporal Graph Grammars to Good Use** <a href="https://youtu.be/r8q5eeFHXIQ">[video]</a><br/>
   Orestis Melkonian
 
-* **A Functional Model of Jazz Improvisation**<br/>
+* **A Functional Model of Jazz Improvisation** <a href="https://youtu.be/4BlERw-J5kc">[video]</a><br/>
   Donya Quick and Kelland Thomas
 
-* **Demo: Counterpoint by Construction**<br/>
+* **Demo: Counterpoint by Construction** <a href="https://youtu.be/2VAxSvG9n0A">[video]</a><br/>
   Youyou Cong and John Leo
 
 ##### 13:30-15:00: Session 3. Games and Graphics
 
-* **Fun with Interfaces (SVG Interfaces for Musical Expression)**<br/>
+* **Fun with Interfaces (SVG Interfaces for Musical Expression)** <a href="https://youtu.be/nOFMN5g2GTg">[video]</a><br/>
   Benedict Gaster, Nathan Renney, and Carinna Parraman
 
-* **Mobile Game Programming in Haskell**<br/>
+* **Mobile Game Programming in Haskell** <a href="https://youtu.be/WXXmBi4TC3o">[video]</a><br/>
   Christina Zeller and Ivan Perez
 
-* **Demo: Kaleidogen**<br/>
+* **Demo: Kaleidogen** <a href="https://youtu.be/ScAcoSPCqqQ">[video]</a><br/>
   Joachim Breitner
 
 ##### 15:30-16:30: Session 4. Live-Coding
 
-* **Demo: Functors and Music**
+* **Demo: Functors and Music** <a href="https://youtu.be/2zh8KfdlgJ8">[video]</a><br/>
   Heinrich Apfelmus
 
-* **The sound of lambda**
+* **The sound of lambda** <a href="https://youtu.be/tRR9KsB5a1g">[video]</a><br/>
   Felipe Ignacio Noriega and Anne Veinberg
 
 ##### 16:50-17:50: Session 5. Musical Patterns
 
-* **Representing Music with Prefix Trees**
+* **Representing Music with Prefix Trees** <a href="https://youtu.be/ZqumKZ3E-JQ">[video]</a><br/>
   Yan Han, Nada Amin, and Neel Krishnaswami
 
-* **What Constitutes a Musical Pattern?**
+* **What Constitutes a Musical Pattern?** <a href="https://youtu.be/vSjBnHnmndg">[video]</a><br/>
   Orestis Melkonian, Iris Yuping Ren, Wouter Swierstra, and Anja Volk
 
 ##### 17:50-18:00: Closing
