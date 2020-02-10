@@ -1,0 +1,105 @@
+FARM 2020 Call for Papers, Demos, and Performances
+Jersey City, New Jersey, United States, August 28, 2020
+
+The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and
+Design (FARM) gathers together people who are harnessing functional techniques
+in the pursuit of creativity and expression. FARM encourages submissions from
+across art, craft, and design, including textiles, visual art, music, 3D
+sculpture, animation, GUIs, video games, 3D printing and architectural models,
+choreography, poetry, and even VLSI layouts, GPU configurations, or mechanical
+engineering designs. Theoretical foundations, language design, implementation
+issues, and applications in industry or the arts are all within the scope of the
+workshop.
+
+In addition to the main workshop, FARM hosts a traditional evening of
+performances.  Thus, this call encompasses both papers/demos for the workshop
+(and its published proceedings) as well as performance proposals for the
+evening's event.  Authors are invited to make a single submission for each.
+Authors may submit both a paper/demo and performance proposal, but the
+submissions will be considered independently.
+
+PAPERS
+
+We welcome submissions from academic, professional, and independent programmers
+and artists. Paper submissions are invited in three categories:
+
+- Original research
+- Overview / state of the art
+- Technology tutorial
+
+All submissions must propose an original contribution to the FARM theme. FARM is
+an interdisciplinary conference, so a wide range of approaches are encouraged.
+An original paper should have 5 to 12 pages, be in portable document format
+(PDF), and use the ACM SIGPLAN style guides and template (using the SIGPLAN
+sub-format). Accepted papers will be published in the ACM Digital Library as
+part of the FARM 2020 proceedings. See here for information on the options
+available to authors. Authors are encouraged to submit auxiliary material for
+publication along with their paper (source code, data, videos, images, etc.);
+authors retain all rights to the auxiliary material.
+
+DEMO PROPOSALS
+
+Demo proposals should describe a demonstration to be given at the FARM workshop
+and its context, connecting it with the themes of FARM. A demo could be in the
+form of a short (10-20 minute) tutorial, presentation of work-in-progress, an
+exhibition of some work, or even a performance. Demo proposals should be in the
+form of an extended abstract (500 to 2000 words). A demo proposal should be
+clearly marked as such, by prepending “Demo Proposal:” to the title. Demo
+proposals will be published on the FARM website.
+
+PERFORMANCE PROPOSALS
+
+FARM seeks proposals for performances which employ functional programming
+techniques, in whole or in part. We invite a diverse range of
+functionally-themed submissions including music, video, dance, and performance
+art. Both live performances and fixed-media submissions are welcome. We
+encourage both risk-taking proposals that push forward the state of the art and
+refined presentations of highly developed practice. Please support your
+submission with a clear description of your intended performance including how
+it employs functional programming techniques and a description of the
+technical/equipment requirements for your performance.
+
+IMPORTANT DATES/DEADLINES:
+
+Submission Deadline: May 15th
+Author Notification: June 19th
+Camera Ready:        July 3rd
+Workshop:            August 28th
+
+SUBMISSION
+
+Submissions for papers and demos are accepted via the
+[**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2020).
+
+Submissions for performance proposals should be sent to:
+[`performance@functional-art.org`](mailto:performance@functional-art.org).
+We prefer submissions in plaintext/markdown, odf (libre office), doc/docx
+(Microsoft Word) or pdf formats. We will confirm receipt by return.
+
+AUTHORS TAKE NOTE
+
+For original papers and demos, the official publication date is the date the
+proceedings are made available in the ACM Digital Library. This date may be up
+to two weeks prior to the first day of the conference. The official publication
+date affects the deadline for any patent filings related to published work.
+
+All presentations at FARM 2020 will be recorded. Permission to publish the
+resulting video (in all probability on YouTube, along with the videos of ICFP
+itself and the other ICFP-colocated events) will be requested on-site.
+
+FINANCES
+
+If you would have financial difficulty attending, you can apply for conference
+"PAC" funds. Please get in touch for more information.
+
+QUESTIONS
+
+If you have any questions about what type of contributions that might be
+suitable, or anything else regarding submission or the workshop itself, please
+contact the organizers at: `farm-2020@functional-art.org`
+
+WORKSHOP ORGANIZATION
+
+General chair:     Daniel Winograd-Cort (Target)
+Program chair:     Jean-Louis Giavitto (IRCAM Paris)
+Performance chair: Donya Quick (Stevens Institute of Technology)

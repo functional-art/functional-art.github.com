@@ -3,6 +3,11 @@
 {% else %}
 <li><a href="/">Home</a></li>
 {% endif %}
+{% if page.active == "farm2020" %}
+<li class="active"><a href="/2020/">FARM 2020</a></li>
+{% else %}
+<li><a href="/2020/">FARM 2020</a></li>
+{% endif %}
 {% if page.active == "farm2019" %}
 <li class="dropdown">
   <a href="#" class="dropdown-toggle"
@@ -12,8 +17,6 @@
     <li><a href="/2019/performance.html">Performance Evening</a></li>
   </ul>
 </li>
-{% else %}
-<li><a href="/2019/">FARM 2019</a></li>
 {% endif %}
 {% if page.active == "farm2018" %}
 <li class="active"><a href="/2018/">FARM 2018</a></li>
@@ -38,6 +41,15 @@
   </ul>
 </li>
 {% endif %}
+{% if page.active == "farm2015" %}
+<li class="active"><a href="/2015/">FARM 2015</a></li>
+{% endif %}
+{% if page.active == "farm2014" %}
+<li class="active"><a href="/2014/">FARM 2014</a></li>
+{% endif %}
+{% if page.active == "farm2013" %}
+<li class="active"><a href="/2013/">FARM 2013</a></li>
+{% endif %}
 {% if page.active == "sc" %}
 <li class="active"><a href="/sc.html">Steering Committee</a></li>
 {% else %}
@@ -47,6 +59,7 @@
   <a href="#" class="dropdown-toggle"
   data-toggle="dropdown">Past Workshops <b class="caret"></b></a>
   <ul class="dropdown-menu">
+    <li><a href="/2019/">2019</a></li>
     <li><a href="/2018/">2018</a></li>
     <li><a href="/2017/">2017</a></li>
     <li><a href="/2016/">2016</a></li>
