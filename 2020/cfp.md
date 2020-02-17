@@ -74,13 +74,9 @@ technical/equipment requirements for your performance.
 
 ### Submission
 
-Submissions for papers and demos are accepted via the
+Submissions for papers, demos, and performances are accepted via the
 [**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2020).
-
-Submissions for performance proposals should be sent to:
-[`performance@functional-art.org`](mailto:performance@functional-art.org).
-We prefer submissions in plaintext/markdown, odf (libre office), doc/docx
-(Microsoft Word) or pdf formats. We will confirm receipt by return.
+(Please do NOT send submissions by email.)
 
 ### Authors take note
 
