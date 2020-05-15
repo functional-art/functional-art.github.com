@@ -9,7 +9,9 @@ active: farm2020
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
 **28th August, 2020**, co-located with
-[ICFP 2020](https://icfp20.sigplan.org/) ~in Jersey City, New Jersey, United States~ **Virtually**
+[ICFP 2020](https://icfp20.sigplan.org/)
+<span style="text-decoration: line-through;">in Jersey City, New Jersey, United States</span>
+ **Virtually**
 
 ### About
 

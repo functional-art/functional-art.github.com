@@ -1,6 +1,6 @@
 ## FARM 2020 Call for Papers, Demos, and Performances
 
-~Jersey City, New Jersey, United States~
+<span style="text-decoration: line-through;">Jersey City, New Jersey, United States</span>
 **Now Virtual**, August 28, 2020
 
 ### Call for Papers, Demos, and Performances
