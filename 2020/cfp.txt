@@ -1,5 +1,5 @@
 FARM 2020 Call for Papers, Demos, and Performances
-Jersey City, New Jersey, United States, August 28, 2020
+Online, August 28, 2020
 
 The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and
 Design (FARM) gathers together people who are harnessing functional techniques
@@ -52,12 +52,13 @@ PERFORMANCE PROPOSALS
 FARM seeks proposals for performances which employ functional programming
 techniques, in whole or in part. We invite a diverse range of
 functionally-themed submissions including music, video, dance, and performance
-art. Both live performances and fixed-media submissions are welcome. We
-encourage both risk-taking proposals that push forward the state of the art and
-refined presentations of highly developed practice. Please support your
-submission with a clear description of your intended performance including how
-it employs functional programming techniques and a description of the
-technical/equipment requirements for your performance.
+art. With ICFP moving to become a virtual conference this year, we are accepting
+two kinds of performance submissions: (1) fixed media audio or video submissions
+and (2) online interactive demos. Please note that we cannot provide web
+hosting for interactive demos. We encourage both risk-taking proposals that push
+forward the state of the art and refined presentations of highly developed
+practice. Please support your submission with a clear description of your work
+including how it employs functional programming techniques.
 
 IMPORTANT DATES/DEADLINES:
 
