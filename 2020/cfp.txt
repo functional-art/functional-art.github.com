@@ -18,7 +18,7 @@ evening's event.  Authors are invited to make a single submission for each.
 Authors may submit both a paper/demo and performance proposal, but the
 submissions will be considered independently.
 
-PAPERS
+PAPERS (CLOSED)
 
 We welcome submissions from academic, professional, and independent programmers
 and artists. Paper submissions are invited in three categories:
@@ -37,7 +37,7 @@ available to authors. Authors are encouraged to submit auxiliary material for
 publication along with their paper (source code, data, videos, images, etc.);
 authors retain all rights to the auxiliary material.
 
-DEMO PROPOSALS
+DEMO PROPOSALS (CLOSED)
 
 Demo proposals should describe a demonstration to be given at the FARM workshop
 and its context, connecting it with the themes of FARM. A demo could be in the
@@ -47,25 +47,45 @@ form of an extended abstract (500 to 2000 words). A demo proposal should be
 clearly marked as such, by prepending “Demo Proposal:” to the title. Demo
 proposals will be published on the FARM website.
 
-PERFORMANCE PROPOSALS
+PERFORMANCE PROPOSALS (OPEN)
 
-FARM seeks proposals for performances which employ functional programming
-techniques, in whole or in part. We invite a diverse range of
-functionally-themed submissions including music, video, dance, and performance
-art. With ICFP moving to become a virtual conference this year, we are accepting
-two kinds of performance submissions: (1) fixed media audio or video submissions
-and (2) online interactive demos. Please note that we cannot provide web
-hosting for interactive demos. We encourage both risk-taking proposals that push
-forward the state of the art and refined presentations of highly developed
-practice. Please support your submission with a clear description of your work
-including how it employs functional programming techniques.
+Extended submission deadline: August 1st
+
+FARM's Performance Night is seeking audio/visual works that utilize functional 
+programming techniques. Submissions need not be completely made with functional 
+techniques - hybrid works are also welcome. Both fixed media and interactive 
+systems are welcome, and we encourage a creative interpretation of what 
+‘performance’ means in order to encompass a truly broad range of creative 
+functional endeavors. We also encourage submissions from people of all backgrounds
+– students, hobbyists, and professionals alike. 
+
+FARM invites a diverse range of functionally-themed submissions including music, 
+video, dance, and performance art. We encourage both risk-taking proposals that 
+push forward the state of the art and refined presentations of highly developed 
+practice. There are no submission/registration fees for FARM performers. 
+
+Works created in part or in whole by autonomous systems are also welcome, but 
+subject to the constraint that the submitting author(s) must have made a significant 
+contribution to the creation of the system itself. 
+
+Due to current travel restrictions and social distancing guidelines, all performances 
+will be held online.  Details of the exact technological accommodations available for 
+this at ICFP are still forthcoming. As such, creating recordings of live audio/visual 
+works as a backup option is strongly encouraged.
+
+Submission deadline:  August 1, 2020 (notification to take place on a rolling basis)
+Submission materials: a sample recording (audio or video) and a description explaining how functional programming was involved in the work.
+All performance submissions must be made through EasyChair.
+Please send any performance-related questions directly to Donya Quick (donyaquick@gmail.com) 
+
 
 IMPORTANT DATES/DEADLINES:
 
-Submission Deadline: May 15th
-Author Notification: June 19th
-Camera Ready:        July 3rd
-Workshop:            August 28th
+Papers/Demos Submission Deadline: May 15th
+Papers/Demos Author Notification: June 19th
+Papers/Demos Camera Ready:        July 3rd
+Performance Submission Deadline:  August 1st (notification on a rolling basis)
+Online Workshop:                  August 28th
 
 SUBMISSION
 
