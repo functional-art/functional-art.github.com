@@ -14,7 +14,8 @@ active: farm2020
  **Virtually**
  
 Due to the current circumstances, the papers/demos aspect of FARM has been canceled this year. 
-However, we are still intending to hold a virtual performance event affiliated with ICFP.
+However, we are still intending to hold a virtual performance event affiliated with ICFP. 
+The call for performances will remain open through August 1st.
 
 ### About
 
@@ -47,7 +48,7 @@ within the scope.
 Performance submission deadline: August 1 (notification on a rolling basis)
 FARM Performance Night: August 28 
 
-### [Call for Papers, Demos, and Performances](cfp.md)
+### [Call for Performances](cfp.md)
 
 ### Questions
 
