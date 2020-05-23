@@ -22,74 +22,48 @@ evening's event.  Authors are invited to make a single submission for each.
 Authors may submit both a paper/demo and performance proposal, but the
 submissions will be considered independently.
 
-#### Original papers
+#### Original papers and demos 
 
-We solicit original papers in the following categories:
+Due to the current circumstances, the papers/demos aspect of FARM has been 
+canceled this year. However, we are still intending to hold a virtual 
+performance event affiliated with ICFP.
 
-- Original research
-- Overview / state of the art
-- Technology tutorial
+#### Performance proposals 
 
-All submissions must propose an original contribution to the FARM theme. FARM is
-an interdisciplinary conference, so a wide range of approaches are encouraged.
+FARM seeks audio/visual works that utilize functional programming techniques. Submissions 
+need not be completely made with functional techniques - hybrid works are also welcome. 
+Both fixed media and interactive systems are welcome, and we encourage a creative 
+interpretation of what ‘performance’ means in order to encompass a truly broad range of 
+creative functional endeavors. We also encourage submissions from people of all backgrounds
+– students, hobbyists, and professionals alike.
 
-An original paper should have 5 to 12 pages, be in portable document format
-(PDF), using the ACM SIGPLAN style guidelines and the [ACM SIGPLAN
-template](http://www.sigplan.org/Resources/Author/) (use the 'sigplan'
-sub-format).
+FARM invites a diverse range of functionally-themed submissions including music, video, dance, 
+and performance art. We encourage both risk-taking proposals that push forward the state of 
+the art and refined presentations of highly developed practice. There are no 
+submission/registration fees for FARM performers. 
 
-Accepted papers will be published in the ACM Digital Library as part of the FARM
-2020 proceedings. See the [information on the options available to
-authors](http://authors.acm.org/main.cfm). Authors are encouraged to submit
-auxiliary material for publication along with their paper (source code, data,
-videos, images, etc.); authors retain all rights to the auxiliary material.
+Works created in part or in whole by autonomous systems are also welcome, but subject 
+to the constraint that the submitting author(s) must have made a significant contribution 
+to the creation of the system itself. 
 
-#### Demo proposals
+Due to current travel restrictions and social distancing guidelines, all performances will 
+be held online.  Details of the exact technological accommodations available for this at 
+ICFP are still forthcoming. As such, creating recordings of live audio/visual works as a 
+backup option is strongly encouraged.
 
-Demo proposals should describe a demonstration to be given at the FARM workshop
-and its context, connecting it with the themes of FARM. A demo could be in the
-form of a short (10-20 minute) tutorial, presentation of work-in-progress, an
-exhibition of some work, or even a performance. Demo proposals should be in the
-form of an extended abstract (500 to 2000 words). A demo proposal should be
-clearly marked as such, by prepending “Demo Proposal:” to the title. Demo
-proposals will be published on the FARM website.
+All performance submissions should be made using EasyChair. Please send any questions 
+regarding performances directly to Donya Quick (donyaquick@gmail.com).
 
-#### Performance proposals
-
-FARM seeks proposals for performances which employ functional programming
-techniques, in whole or in part. We invite a diverse range of
-functionally-themed submissions including music, video, dance, and performance
-art. With ICFP moving to become a virtual conference this year, we are accepting
-two kinds of performance submissions: (1) fixed media audio or video submissions
-and (2) online interactive demos. Please note that we cannot provide web
-hosting for interactive demos. We encourage both risk-taking proposals that push
-forward the state of the art and refined presentations of highly developed
-practice. Please support your submission with a clear description of your work
-including how it employs functional programming techniques.
 
 ### Key Dates
-
-| Submission Deadline  || May 15    |  
-| Author Notification  || June 19   |  
-| Camera Ready         || July 3    |  
-| Workshop             || August 28 |  
+| Performance submission deadline || August 1 (notification on a rolling basis) |
+| FARM Performance Night          || August 28 | 
 
 ### Submission
 
-Submissions for papers, demos, and performances are accepted via the
+Performance submissions should be made via the
 [**Submission page on Easychair**](https://easychair.org/conferences/?conf=farm2020).
 (Please do NOT send submissions by email.)
-
-### Authors take note
-
-For original papers and demos, the official publication date is the date the
-proceedings are made available in the ACM Digital Library. This date may be up
-to two weeks prior to the first day of the conference. The official publication
-date affects the deadline for any patent filings related to published work.
-
-All presentations at FARM 2020 will be recorded. Permission to publish the
-resulting video (in all probability on YouTube, along with the videos of ICFP
-itself and the other ICFP-colocated events) will be requested on-site.
 
 #### Finances
 
