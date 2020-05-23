@@ -56,8 +56,10 @@ regarding performances directly to Donya Quick (donyaquick@gmail.com).
 
 
 ### Key Dates
-| Performance submission deadline || August 1 (notification on a rolling basis) |
-| FARM Performance Night          || August 28 | 
+
+Performance submission deadline: August 1 (notification on a rolling basis)
+
+FARM Performance Night: August 28 
 
 ### Submission
 
