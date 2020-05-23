@@ -12,6 +12,9 @@ active: farm2020
 [ICFP 2020](https://icfp20.sigplan.org/)
 <span style="text-decoration: line-through;">in Jersey City, New Jersey, United States</span>
  **Virtually**
+ 
+Due to the current circumstances, the papers/demos aspect of FARM has been canceled this year. 
+However, we are still intending to hold a virtual performance event affiliated with ICFP.
 
 ### About
 
@@ -41,10 +44,8 @@ within the scope.
 
 ### Key Dates
 
-| Submission Deadline  || May 15    |  
-| Author Notification  || June 19   |  
-| Camera Ready         || July 3    |  
-| Workshop             || August 28 |  
+Performance submission deadline: August 1 (notification on a rolling basis)
+FARM Performance Night: August 28 
 
 ### [Call for Papers, Demos, and Performances](cfp.md)
 
