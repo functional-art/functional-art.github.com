@@ -13,48 +13,15 @@ active: farm2020
 <span style="text-decoration: line-through;">in Jersey City, New Jersey, United States</span>
  **Virtually**
  
-Due to the current circumstances, the papers/demos aspect of FARM has been canceled this year. 
-However, we are still intending to hold a virtual performance event affiliated with ICFP. 
-The call for performances will remain open through August 1st.
+FARM 2020 takes the form of a virtual performance night featuring functionally-inspired art, music, and demos in a wide range of styles and from many locations.
 
-### About
+**Date/Time**: August 28, 2020 at 17:30PM EDT. 
 
-The ACM SIGPLAN International Workshop on Functional Art, Music,
-Modelling and Design (FARM) gathers together people who are harnessing
-functional techniques in the pursuit of creativity and expression.
+### [FARM 2020 Performances Program](https://functional-art.org/2020/performances)
 
-Functional Programming has emerged as a mainstream software
-development paradigm, and its artistic and creative use is booming. A
-growing number of software toolkits, frameworks and environments for
-art, music and design now employ functional programming languages and
-techniques. FARM is a forum for exploration and critical evaluation of
-these developments, for example to consider potential benefits of
-greater consistency, tersity, and closer mapping to a problem domain.
+### Attending the Performances
 
-FARM encourages submissions from across art, craft and design,
-including textiles, visual art, music, 3D sculpture, animation, GUIs,
-video games, 3D printing and architectural models, choreography,
-poetry, and even VLSI layouts, GPU configurations, or mechanical
-engineering designs. Theoretical foundations, language design,
-implementation issues, and applications in industry or the arts are
-all within the scope of the workshop. The language used need not be
-purely functional (“mostly functional” is fine), and may be manifested
-as a domain specific language or tool. Moreover, submissions focusing
-on questions or issues about the use of functional programming are
-within the scope.
-
-### Key Dates
-
-Performance submission deadline: August 1 (notification on a rolling basis)
-FARM Performance Night: August 28 
-
-### [Call for Performances](cfp.md)
-
-### Questions
-
-If you have any questions about what type of contributions that might
-be suitable, or anything else regarding submission or the workshop
-itself, please contact the organizers at: `farm-2020@functional-art.org`
+The FARM Performances event is part of the International Conference on Functional Programming (ICFP). Attendance by regular audience members requires an ICFP registration and the event will be streamed through Clowdr/Zoom as has been done for other ICFP talks and events this year. Please see the ICFP website for more information: https://icfp20.sigplan.org/
 
 ### Workshop Organization
 
@@ -63,10 +30,6 @@ itself, please contact the organizers at: `farm-2020@functional-art.org`
 **Program Chair**: Jean-Louis Giavitto (IRCAM Paris)
 
 **Performance Chair**: Donya Quick (Stevens Institute of Technology)
-
-#### Program Committee:
-
-TBA
 
 ### Code of Conduct
 
