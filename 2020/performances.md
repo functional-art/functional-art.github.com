@@ -1,5 +1,3 @@
-The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design (FARM) gathers together people who are harnessing functional techniques in the pursuit of creativity and expression. This year, FARM is happening in the form of a virtual performance night featuring functionally-inspired art, music, and demos in a wide range of styles and from many locations. More information about FARM and past years' iterations of the workshop can be found at https://functional-art.org/.
-
 # FARM 2020 Performance Program
 
 ICFP Conference inofmration: https://icfp20.sigplan.org/
