@@ -1,6 +1,8 @@
 The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design (FARM) gathers together people who are harnessing functional techniques in the pursuit of creativity and expression. This year, FARM is happening in the form of a virtual performance night featuring functionally-inspired art, music, and demos in a wide range of styles and from many locations. More information about FARM and past years' iterations of the workshop can be found at https://functional-art.org/.
 
-##FARM 2020 Performance Program
+# FARM 2020 Performance Program
+
+ICFP Conference inofmration: https://icfp20.sigplan.org/
 
 **Date/Time:** August 28th, 5:30PM EDT
 
@@ -17,7 +19,7 @@ The ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and D
 
 More information about each piece and the performers can be found below.
 
-###1. Y 
+## 1. Y 
 
 **Michal Janocha & Poznań Laptop Orchestra**
 
@@ -32,9 +34,11 @@ Michał Janocha (conductor);
 λ-ensemble (Poznań Laptop Orchestra):
 Damian Banasiak, Konrad Baranek, Artur Białoskorski, Rafał Ciećwierz, Marek Garniec, Marek Godlewski, Kamil Górny, Mateusz Górzyński, Damian Kaczmarczyk,  Paweł Karczewski, Jędrzej Klepacki, Anna Aleksandra Kopińska, Anna Aleksandra Kopińska, Bartosz Kordylewski, Patryk Krzyżaniak, Michał Malinowski, Wojciech Matuszewski, Eryk Miszczuk, Sandra Neukirch, Sylwia Nowastowska, Jędrzej Panczak, Tymek Sala, Jakub Siedlecki, Hubert Słomion, Aleksandra Słyż, Łukasz Tatrocki, Peter Umreyan, Joann Wilczyńska, Andrei Yakushau
 
-###2. A Very Short Introduction to Phonetic Languages and Poetry 
+## 2. A Very Short Introduction to Phonetic Languages and Poetry 
 
 **Oleksandr Zhabenko**
+
+[Paper (PDF)](https://functional-art.org/2020/papers/Poetry-OleksandrZhabenko.pdf)
 
 In the performance paper a question of creating the somewhat suitable for poetry and music text in Ukrainian is explored. An idea of "phonetic" 
 languages is introduced, for which the phonetic properties are of greater importance than the grammar rules with possibly preserving the semantics of the text. 
@@ -42,7 +46,7 @@ Several programs in Haskell are used to test the idea. An algorithm and respecti
 in such a phonetic language for poetry and music. The results are used to create and analyze some Ukrainian texts and music using the programs and additionally 
 SoX and Audacity. The idea can be extrapolated and extended for the other languages especially those ones that do not request a strict words order.
 
-###3. The (not so) lonely Haskell Multimedia Live Programmer
+## 3. The (not so) lonely Haskell Multimedia Live Programmer
 
 **Manuel Barenz**
 
@@ -54,13 +58,13 @@ internet...
 In his spare time, Manuel Barenz turns into a Functional Reactive Programmer in
 Haskell who has recently acquired a taste for Live Coding.
 
-###4. Improv: Live Coding with TidalCycles
+## 4. Improv: Live Coding with TidalCycles
 
 **Ron Herrema**  (http://ronherrema.net/). Composer, developer & digital artist. Senior Lecturer in Creative Computing, Bath Spa University.
 
 
 
-###5. Lightning Bug 
+## 5. Lightning Bug 
 
 **Donya Quick** (http://www.donyaquick.com)
 
@@ -68,13 +72,16 @@ Lightning Bug is a largely algorithmic audio-visual work heavily inspired by the
 
 Donya Quick is a researcher in AI, language, and music who regularly uses Haskell in her work.  
 
-###6. Rhythmr, Or Semi-Automated Audio Loops
+## 6. Rhythmr, Or Semi-Automated Audio Loops
 
 **Gregory Travis**
 
+
+[Paper (PDF)](https://functional-art.org/2020/papers/Rhythmr-GregoryTravis.pdf)
+
 Rhythmr is an interactive system, implemented in Haskell, for creating ear-pleasing rhythm loops from randomly-acquired audio files. The user iterates through an unending stream of randomly combined music loops, swiping left or right on each one to indicate whether they like it or not. Rhythmr derives a model of which combinations sound good based on user input, and from that, produces a complete song by inserting the chosen combinations into a predefined score.
 
-###7. Time Garden, Morning 
+## 7. Time Garden, Morning 
 
 **Zach Duer, Scotty Hardwig, and Charles Nichols**
 
@@ -93,7 +100,7 @@ Scotty Hardwig (Viginia Tech, http://hardwigdance.com) is an experimental moveme
 Charles Nichols (Virginia Tech, http://www.charlesnichols.com). 
 Composer, violinist, and computer music researcher Charles Nichols (www.charlesnichols.com) explores the expressive potential of instrumental ensembles, computer music systems, and combinations of the two, for the concert stage, and collaborations with dance, video, and installation art.  He has worked with ensembles including the Beo String Quartet, Earplay, FLUX Quartet, Hypercube, Klang String Quartet, loadbang, PEN Trio, Sapphire Trio, Third Angle Ensemble, and Transient Canvas, and soloists including Brett Deubner, Susan Fancher, William Lang, Darragh Morgan, Sarah Plum, Kathleen Supové, and Steve Vacchi.  He has collaborated with choreographers including Jane Comfort, Scotty Hardwig, and Amy Ragsdale, and artists including Paola Zellner Bassett, Meaghan Dee, Marie Yoho Dorsey, Zach Duer, and Joan Grossman.  He teaches Composition and Creative Technologies at Virginia Tech, is a Faculty Fellow of the Institute for Creativity Arts and Technology, and earned degrees from the Eastman School of Music, Yale University, and Stanford University.
 
-###8. Live Coding 
+## 8. Live Coding 
 
 **Tom Murhpy**
 
