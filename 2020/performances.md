@@ -62,13 +62,15 @@ Haskell who has recently acquired a taste for Live Coding.
 
 ## 4. Improv: Live Coding with TidalCycles
 
-**Ron Herrema**  (http://ronherrema.net/). Composer, developer & digital artist. Senior Lecturer in Creative Computing, Bath Spa University.
+**Ron Herrema**  ( http://ronherrema.net/ ). 
+
+Ron Herrema is a composer, developer & digital artist. Senior Lecturer in Creative Computing, Bath Spa University.
 
 
 
 ## 5. Lightning Bug 
 
-**Donya Quick** (http://www.donyaquick.com)
+**Donya Quick** ( http://www.donyaquick.com )
 
 Lightning Bug is a largely algorithmic audio-visual work heavily inspired by the Goa Trance genre. The musical score was created largely using Haskell and the Euterpea library, and MIDI output from the code was processed through a variety of synthesizers, both analog and digital. Reactive visuals were created in Processing, where numerous agents, some seen and others unseen, influence each other and dance in response to the various parts in the music.  
 
@@ -100,7 +102,7 @@ Zach Duer (Virginia Tech, http://www.zachduer.com) is an educator and artist.  H
 Scotty Hardwig (Viginia Tech, http://hardwigdance.com) is an experimental movement artist, performer, and teacher originally from southwest Virginia. His research practice stems from the confluence of sensory media and the moving body, creating movement-based artwork through live performance, installation/site-specific, and cinematic frames. He received his MFA in Dance from the University of Utah, and has served on the faculty at the University of Utah and Middlebury College, and is currently an Assistant Professor in Movement, Performance and Integrated Media at Virginia Tech, where he is experimenting and creating choreographic and cinematic works at the intersection of technology and the body.
 
 Charles Nichols (Virginia Tech, http://www.charlesnichols.com). 
-Composer, violinist, and computer music researcher Charles Nichols (www.charlesnichols.com) explores the expressive potential of instrumental ensembles, computer music systems, and combinations of the two, for the concert stage, and collaborations with dance, video, and installation art.  He has worked with ensembles including the Beo String Quartet, Earplay, FLUX Quartet, Hypercube, Klang String Quartet, loadbang, PEN Trio, Sapphire Trio, Third Angle Ensemble, and Transient Canvas, and soloists including Brett Deubner, Susan Fancher, William Lang, Darragh Morgan, Sarah Plum, Kathleen Supové, and Steve Vacchi.  He has collaborated with choreographers including Jane Comfort, Scotty Hardwig, and Amy Ragsdale, and artists including Paola Zellner Bassett, Meaghan Dee, Marie Yoho Dorsey, Zach Duer, and Joan Grossman.  He teaches Composition and Creative Technologies at Virginia Tech, is a Faculty Fellow of the Institute for Creativity Arts and Technology, and earned degrees from the Eastman School of Music, Yale University, and Stanford University.
+Composer, violinist, and computer music researcher Charles Nichols explores the expressive potential of instrumental ensembles, computer music systems, and combinations of the two, for the concert stage, and collaborations with dance, video, and installation art.  He has worked with ensembles including the Beo String Quartet, Earplay, FLUX Quartet, Hypercube, Klang String Quartet, loadbang, PEN Trio, Sapphire Trio, Third Angle Ensemble, and Transient Canvas, and soloists including Brett Deubner, Susan Fancher, William Lang, Darragh Morgan, Sarah Plum, Kathleen Supové, and Steve Vacchi.  He has collaborated with choreographers including Jane Comfort, Scotty Hardwig, and Amy Ragsdale, and artists including Paola Zellner Bassett, Meaghan Dee, Marie Yoho Dorsey, Zach Duer, and Joan Grossman.  He teaches Composition and Creative Technologies at Virginia Tech, is a Faculty Fellow of the Institute for Creativity Arts and Technology, and earned degrees from the Eastman School of Music, Yale University, and Stanford University.
 
 ## 8. Live Coding 
 
