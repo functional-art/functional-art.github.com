@@ -13,7 +13,7 @@ ICFP Conference inofmration: https://icfp20.sigplan.org/
 5. Lightning Bug (Donya Quick
 6. Rhythmr, Or Semi-Automated Audio Loops (Gregory Travis)
 7. Time Garden, Morning (Zach Duer, Scotty Hardwig, and Charles Nichols)
-8. Live Coding (Tom Murhpy)
+8. 18th Century Vivid (Tom Murhpy)
 
 More information about each piece and the performers can be found below.
 
@@ -64,6 +64,8 @@ Haskell who has recently acquired a taste for Live Coding.
 
 **Ron Herrema**  ( http://ronherrema.net/ ). 
 
+"I once asked Pauline Oliveros if it was possible to make a mistake when improvising. She answered that the only mistake would be to not listen. For me live coding begins and ends with listening - initially to what is happening in my 'inner ear', and subsequently both internally and externally. I work with the affordances and constraints of TidalCycles to see what kind of journey this process will lead to, searching for a place of balance, and engaging in what Tim Ingold calls 'the textility of making'."
+
 Ron Herrema is a composer, developer & digital artist. Senior Lecturer in Creative Computing, Bath Spa University.
 
 
@@ -104,8 +106,8 @@ Scotty Hardwig (Viginia Tech, http://hardwigdance.com) is an experimental moveme
 Charles Nichols (Virginia Tech, http://www.charlesnichols.com). 
 Composer, violinist, and computer music researcher Charles Nichols explores the expressive potential of instrumental ensembles, computer music systems, and combinations of the two, for the concert stage, and collaborations with dance, video, and installation art.  He has worked with ensembles including the Beo String Quartet, Earplay, FLUX Quartet, Hypercube, Klang String Quartet, loadbang, PEN Trio, Sapphire Trio, Third Angle Ensemble, and Transient Canvas, and soloists including Brett Deubner, Susan Fancher, William Lang, Darragh Morgan, Sarah Plum, Kathleen Supové, and Steve Vacchi.  He has collaborated with choreographers including Jane Comfort, Scotty Hardwig, and Amy Ragsdale, and artists including Paola Zellner Bassett, Meaghan Dee, Marie Yoho Dorsey, Zach Duer, and Joan Grossman.  He teaches Composition and Creative Technologies at Virginia Tech, is a Faculty Fellow of the Institute for Creativity Arts and Technology, and earned degrees from the Eastman School of Music, Yale University, and Stanford University.
 
-## 8. Live Coding 
+## 8. 18th Century Vivid 
 
 **Tom Murhpy**
 
-(Details coming soon)
+Tom Murphy is a Haskell programmer, musician, and filmmaker. He is the author of Vivid, a Haskell library for music and sound with SuperCollider, and is one of the founders of Livecode.NYC.
