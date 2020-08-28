@@ -38,11 +38,15 @@ Damian Banasiak, Konrad Baranek, Artur Białoskorski, Rafał Ciećwierz, Marek G
 
 [Paper (PDF)](https://functional-art.org/2020/papers/Poetry-OleksandrZhabenko.pdf)
 
-In the performance paper a question of creating the somewhat suitable for poetry and music text in Ukrainian is explored. An idea of "phonetic" 
-languages is introduced, for which the phonetic properties are of greater importance than the grammar rules with possibly preserving the semantics of the text. 
-Several programs in Haskell are used to test the idea. An algorithm and respective programs in Haskell are introduced to evaluate the suitability of the text 
-in such a phonetic language for poetry and music. The results are used to create and analyze some Ukrainian texts and music using the programs and additionally 
-SoX and Audacity. The idea can be extrapolated and extended for the other languages especially those ones that do not request a strict words order.
+In the performance paper a question of creating the somewhat suitable for poetry and music
+text is explored. An idea of ”phonetic” languages is introduced, for which the phonetic properties
+are of greater importance than the grammar rules with possibly preserving the semantics
+of the text. Several programs in Haskell are used to test the idea. An algorithm and respective
+programs in Haskell are introduced to evaluate the suitability of the text in such a phonetic language
+for poetry and music. The results are used to create and analyze some Ukrainian texts
+and music using the programs and additionally SoX. Shown that The idea can be extrapolated
+and extended for the other languages especially those ones that do not request a strict words
+order.
 
 ## 3. The (not so) lonely Haskell Multimedia Live Programmer
 
