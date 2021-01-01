@@ -4,7 +4,7 @@ title: FARM 2020
 active: farm2020
 ---
 
-## 7th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design (FARM)
+## 8th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design (FARM)
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
