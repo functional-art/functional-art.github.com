@@ -8,9 +8,8 @@ active: farm2021
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
-**27th August, 2021**, co-located with
-[ICFP 2021](https://icfp21.sigplan.org/) in Daejon, South Korea,
-with the possibility of a virtual conference.
+**27th August, 2021**, co-virtual with
+[ICFP 2021](https://icfp21.sigplan.org/), held entirely online.
 
 ### About
 
