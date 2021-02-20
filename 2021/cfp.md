@@ -135,3 +135,4 @@ itself, please contact the organizers at:
 - General chair: Daniel Winograd-Cort (Target) 
 - Program chair: Jean-Louis Giavitto (IRCAM Paris)
 - Publicity chair: Mike Sperber (Active Group GmbH)
+- Performance Chair: John MacCallum (HfMT Hamburg)
