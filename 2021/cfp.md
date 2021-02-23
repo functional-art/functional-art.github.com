@@ -10,12 +10,17 @@ Virtual, August 27, 2021
 
 ### Key Dates
 
+#### Papers and Demos
+
 | Paper submission deadline        || May 15 |
-| Author Notification              || June 5   |
-| Performance submission deadline  || June 13 |
-| Camera Ready                     || June 26   |
-| Performance Notification         || June 26 |
+| Author notification              || June 5   |
+| Camera ready                     || June 26   |
 | Workshop                         || August 27 |
+
+#### Performances
+
+| Performance submission deadline  || June 13 |
+| Performance notification         || June 26 |
 
 ### Call for Papers
 
@@ -23,7 +28,7 @@ After an 2020 online edition restricted to the performance session,
 the ACM SIGPLAN International Workshop on Functional Art, Music,
 Modelling and Design (FARM) will also be held online in 2021 but open
 to all tracks (paper, demo and performance). Pursuing its mission,
-this 9 th workshop aims to bring together people who are harnessing
+this 9th workshop aims to bring together people who are harnessing
 functional techniques in the pursuit of creativity and artistic
 expression.
 
