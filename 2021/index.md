@@ -39,14 +39,16 @@ within the scope.
 
 ### Key Dates
 
-| Submission Deadline  || TBA       |  
-| Author Notification  || TBA       |  
-| Camera Ready         || TBA       |  
-| Workshop             || August 27 |  
+| Paper submission deadline        || May 15 |
+| Author Notification              || June 5   |
+| Performance submission deadline  || June 13 |
+| Camera Ready                     || June 26   |
+| Performance Notification         || June 26 |
+| Workshop                         || August 27 |
 
 ### Call for Papers, Demos, and Performances
 
-TBA
+Go [here](cfp.html)!
 
 ### Questions
 
@@ -62,11 +64,7 @@ itself, please contact the organizers at: `farm-2021@functional-art.org`
 
 **Publicity Chair**: Michael Sperber (Active Group GmbH)
 
-**Performance Chair**: TBA
-
-#### Program Committee:
-
-TBA
+**Performance Chair**: John MacCallum (HfMT Hamburg)
 
 ### Code of Conduct
 

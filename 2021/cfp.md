@@ -12,7 +12,9 @@ Virtual, August 27, 2021
 
 | Paper submission deadline        || May 15 |
 | Author Notification              || June 5   |
+| Performance submission deadline  || June 13 |
 | Camera Ready                     || June 26   |
+| Performance Notification         || June 26 |
 | Workshop                         || August 27 |
 
 ### Call for Papers
@@ -88,21 +90,23 @@ of functionally-themed submissions including music, video, dance, and
 performance art. Both live performances and fixed-media submissions
 are welcome. We encourage both risk-taking proposals that push forward
 the state of the art and refined presentations of highly developed
-practice.
+practice. Performances will be held online.
 
-Performance proposals should be submitted to the 'paper’ track field
-as a PDF and must include: a description of the proposed performance,
-an explanation of the use of functional programming in the work, and a
-list of technical requirements. All proposals should also be supported
-by an audio or video example, which can either be attached as a
-separate supplementary file or linked in the proposal PDF if hosted in
-a publicly accessible place (such as YouTube)
+Performance proposals should be emailed to
+[`performance@functional-art.org`](mailto:performance@functional-art.org),
+and must include: a description of the performance (please be as
+specific as possible), an explanation of the use of functional
+programming in the work, and a list of technical requirements. All
+proposals should be supported by a link to an audio or video example
+(YouTube, Vimeo, Bandcamp, etc.).
 
 # Important dates/deadlines:
 
 - Submission Deadline: May, 15th 
 - Author Notification: June, 5th 
+- Performance Submission Deadlione: June 13th
 - Camera Ready: June 26th 
+- Performance Notification: June 26
 - Workshop: August 27th 
 
 # Authors take note
