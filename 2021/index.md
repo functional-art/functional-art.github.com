@@ -46,7 +46,7 @@ within the scope.
 | Performance Notification         || June 26 |
 | Workshop                         || August 27 |
 
-### Call for Papers, Demos, and Performances
+### [Call for Papers, Demos, and Performances](cfp.html)
 
 Go [here](cfp.html)!
 
