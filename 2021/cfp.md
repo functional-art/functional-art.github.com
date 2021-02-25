@@ -6,6 +6,8 @@ active: farm2021
 
 ## FARM 2021 Call for Papers, Demos, and Performances
 
+<img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px; width:30em" />
+
 Virtual, August 27, 2021
 
 ### Key Dates
@@ -49,6 +51,8 @@ performance proposal, but the submissions will be considered
 independently.
 
 # Submission
+
+<span style="float: right; padding: 0 0 1em 2em"><img style="width: 30em" src="yulippe.jpg" /><br />
 
 We welcome submissions from academic, professional, and independent
 programmers and artists. Submissions are accepted via the [Submission
@@ -104,6 +108,8 @@ specific as possible), an explanation of the use of functional
 programming in the work, and a list of technical requirements. All
 proposals should be supported by a link to an audio or video example
 (YouTube, Vimeo, Bandcamp, etc.).
+
+<span style="float: right; padding: 0 0 1em 2em"><img style="width: 30em" src="renick.jpg" /><br />
 
 # Important dates/deadlines:
 
