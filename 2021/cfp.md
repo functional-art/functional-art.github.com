@@ -50,6 +50,14 @@ single submission for each. Authors may submit both a paper/demo and
 performance proposal, but the submissions will be considered
 independently.
 
+# Note on Finances
+
+Paid registration to the FARM workshop is usually required for paper
+and demo submitters, but will be waived for performers.
+
+If you would have financial difficulty attending, you can apply for
+conference "PAC" funds. Please get in touch for more information.
+
 # Submission
 
 <span style="float: right; padding: 0 0 1em 2em"><img style="width: 30em" src="yulippe.jpg" /><br />
@@ -132,11 +140,6 @@ All presentations at FARM 2021 will be recorded. Permission to publish
 the resulting video (in all probability on YouTube, along with the
 videos of ICFP itself and the other ICFP-colocated events) will be
 requested on-site.
-
-# Finances
-
-If you would have financial difficulty attending, you can apply for
-conference "PAC" funds. Please get in touch for more information.
 
 # Questions
 
