@@ -13,5 +13,5 @@ Current members are:
 * [Mike Sperber](http://www.deinprogramm.de/sperber/)
 * [Brent Yorgey](https://byorgey.wordpress.com/)
 * [David Janin](http://www.labri.fr/perso/janin/)
-* [Jean Bresson](http://repmus.ircam.fr/bresson)
+* [Jean Bresson](https://j-bresson.github.io/)
 * [Donya Quick](http://donyaquick.com/)
