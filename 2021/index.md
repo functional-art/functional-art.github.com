@@ -40,7 +40,7 @@ within the scope.
 ### Key Dates
 
 | Paper submission deadline        || May 15 |
-| Author Notification              || June 5   |
+| Author Notification              || ~June 5~ June 15  |
 | Performance submission deadline  || June 13 |
 | Camera Ready                     || June 26   |
 | Performance Notification         || June 26 |
