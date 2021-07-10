@@ -37,24 +37,22 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
-### Key Dates
-
-| Paper submission deadline        || May 15 |
-| Author Notification              || June 5   |
-| Performance submission deadline  || June 13 |
-| Camera Ready                     || June 26   |
-| Performance Notification         || June 26 |
-| Workshop                         || August 27 |
-
 ### [Call for Papers, Demos, and Performances](cfp.html)
 
-Go [here](cfp.html)!
+[Closed](cfp.html)!
 
-### Questions
+### Program
 
-If you have any questions about what type of contributions that might
-be suitable, or anything else regarding submission or the workshop
-itself, please contact the organizers at: `farm-2021@functional-art.org`
+* **MidifilePerformer: a case study for chronologies** <br/>
+  Juliette Chabassier, Myriam Desainte-Catherine, Jean Haury, Marin Pobel and Bernard Serpette
+* **mimium: a self-extensible programming language for sound and music**<br/>
+  Tomoya Matsuura and Kazuhiro Jo
+* **The W-calculus: A Synchronous Framework for the Verified Modelling of Digital Signal Processing Algorithms**<br/>
+Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblancs
+* **Temporal-Scope Grammars for Polyphonic Music Generation**<br/>
+  Lukas Eibensteiner, Martin Ilčík and Michael Wimmer
+* **Human-in-the-loop Program Synthesis for Live Coding**<br/>
+  Mark Santolucito
 
 ### Workshop Organization
 
