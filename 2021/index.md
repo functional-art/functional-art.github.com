@@ -37,22 +37,52 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
-### [Call for Papers, Demos, and Performances](cfp.html)
+#### Workshop Registration
 
-[Closed](cfp.html)!
+You can register for the FARM workshop through the
+[ICFP registration page](http://icfp21.sigplan.org/attending/registration).
+
+At least one author of each accepted submission must register and present their paper at the workshop.
 
 ### Program
 
-* **MidifilePerformer: a case study for chronologies** <br/>
-  Juliette Chabassier, Myriam Desainte-Catherine, Jean Haury, Marin Pobel and Bernard Serpette
+The schedule can also be found on the
+[ICFP conference website](https://icfp21.sigplan.org/home/farm-2021#program).
+
+All times in the Paris timezone (UTC+2) and *preliminary*.
+
+-------
+
+##### 11:15 Welcome
+
+##### 11:30
+
 * **mimium: a self-extensible programming language for sound and music**<br/>
   Tomoya Matsuura and Kazuhiro Jo
-* **The W-calculus: A Synchronous Framework for the Verified Modelling of Digital Signal Processing Algorithms**<br/>
-Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblancs
+
+##### 12:00
+
+* **MidifilePerformer: a case study for chronologies** <br/>
+  Juliette Chabassier, Myriam Desainte-Catherine, Jean Haury, Marin
+  Pobel and Bernard Serpette
+  
+##### 12:30 Break
+
+##### 13:00
+
 * **Temporal-Scope Grammars for Polyphonic Music Generation**<br/>
   Lukas Eibensteiner, Martin Ilčík and Michael Wimmer
+
+##### 13:30
+* **The W-calculus: A Synchronous Framework for the Verified Modelling of Digital Signal Processing Algorithms**<br/>
+Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblancs
+
+##### 14:00
+
 * **Human-in-the-loop Program Synthesis for Live Coding**<br/>
   Mark Santolucito
+
+-------
 
 ### Workshop Organization
 
