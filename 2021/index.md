@@ -82,6 +82,15 @@ Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblan
 * **Human-in-the-loop Program Synthesis for Live Coding**<br/>
   Mark Santolucito
 
+##### 14:30 Break
+
+##### 15:00 Performances session
+
+* [John Leo](http://www.halfaya.org/leo/), Logical Soundness
+* [Emiddio Vasquez](https://emiddiovasquez.info/), Title TBA
+* [José Miguel Fernandez](https://zkm.de/en/person/jose-miguel-fernandez), Homotopy
+
+
 -------
 
 ### Workshop Organization
