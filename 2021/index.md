@@ -90,6 +90,9 @@ Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblan
 * [Emiddio Vasquez](https://emiddiovasquez.info/), Title TBA
 * [José Miguel Fernandez](https://zkm.de/en/person/jose-miguel-fernandez), Homotopy
 
+##### 16:00 Break
+
+##### 16:30 Keynote: [Phoenix Perry](https://phoenixperry.com/)
 
 -------
 
