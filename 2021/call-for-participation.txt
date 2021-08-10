@@ -8,7 +8,7 @@ Subject: Functional Art, Music, Modeling and Design (FARM 2021) Aug 21: Call for
 
 	      27 August, 2021, co-virtuel with ICFP 2021
 
-		   http://functional-art.org/2021/
+		   https://functional-art.org/2021/
 ======================================================================
 				   
 The ACM SIGPLAN International Workshop on Functional Art, Music,
