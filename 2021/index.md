@@ -87,8 +87,32 @@ Emilio Jesus Gallego Arias, Pierre Jouvelot, Sylvain Ribstein and Dorian Desblan
 ##### 15:00 Performances session
 
 * [John Leo](http://www.halfaya.org/leo/), Logical Soundness
+
+"Logical Soundness" aims to express a mathematical proof in a way so
+that the basic structure of the proof is audible. Elements of the
+proof are represented as musical motifs, and other aspects may modify
+the music or sound. Recursive aspects of the proof are also
+represented, for example by doubling the speed.
+
+I have chosen a soundness proof to express in sound, in particular
+lemma 4.3 of [this paper](https://dl.acm.org/doi/10.1145/3158111). 
+This proof has been
+formalized in Agda. Also using Agda, my own program uses reflection to
+get the intermediate representation of the proof, and converts this
+into music using a mapping from names to motifs, maintaining the basic
+structure. It uses my library
+[MusicTools]((https://github.com/halfaya/MusicTools) to handle most of the work and
+generate a MIDI file as output.
+
 * [Emiddio Vasquez](https://emiddiovasquez.info/), Title TBA
 * [José Miguel Fernandez](https://zkm.de/en/person/jose-miguel-fernandez), Homotopy
+  
+The piece captures the gesture of the percussionist to drive the
+electronics. A first version was created by percussionist Thierry
+Miroglio in Shizuoka (Japan) in 2016. The final version has been
+commissioned by the Biennale de Venise in 2017. The electronics has
+been rewritten in 2020 to use SuperCollider and this work is part of
+my PhD.
 
 ##### 16:00 Break
 
