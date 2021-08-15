@@ -114,6 +114,19 @@ commissioned by the Biennale de Venise in 2017. The electronics has
 been rewritten in 2020 to use SuperCollider and this work is part of
 my PhD.
 
+The programming of the piece is structured using "actors" (parallel
+objects) that represent inputs from the environment (accelerometers,
+onset detection and spectral analysis of the percussion) and output
+sound sources (generative process, synthesis, spatialization's data,
+etc.). Each sound sources "listen" to some "gestures" (kicks, sliding
+hands, etc.) that are detected in the accelerometers inputs.
+
+The synthesis relies on a SuperCollider server which is driven by the
+antescofo program. The interaction between the two is completely
+applicative from the antescofo point of view (the actors attack an API
+which hide all the technical details of the asynchronous
+communications via OSC with the SuperCollider server).
+
 ##### 16:00 Break
 
 ##### 16:30 Keynote: [Phoenix Perry](https://phoenixperry.com/)
