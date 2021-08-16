@@ -101,7 +101,7 @@ formalized in Agda. Also using Agda, my own program uses reflection to
 get the intermediate representation of the proof, and converts this
 into music using a mapping from names to motifs, maintaining the basic
 structure. It uses my library
-[MusicTools]((https://github.com/halfaya/MusicTools) to handle most of the work and
+[MusicTools](https://github.com/halfaya/MusicTools) to handle most of the work and
 generate a MIDI file as output.
 
 * [Emiddio Vasquez](https://emiddiovasquez.info/), Title TBA
