@@ -104,7 +104,21 @@ structure. It uses my library
 [MusicTools](https://github.com/halfaya/MusicTools) to handle most of the work and
 generate a MIDI file as output.
 
-* [Emiddio Vasquez](https://emiddiovasquez.info/), Title TBA
+* [Emiddio Vasquez](https://emiddiovasquez.info/), Can One Hear the Shape of a Marble Drum?
+
+Drawing inspiration from Mark Kac's famous essay, 
+["Can One Hear the Shape of a Drum?"](https://www.math.ucdavis.edu/~hunter/m207b/kac.pdf), 
+in which he asks if one can determine the shape (boundary limits) of a
+2D drum from its eigenfrequencies, this hybrid
+presentation/performance will present previous work done with modal
+synthesis. The work looked at materiality by implementing various
+parameters drawn from different types of marble on modal drums with a
+fixed geometry. In conclusion I will provide early experiments and
+motivations for further developing the design of drums and meshes with
+different geometries to sonically explore the question above and
+develop compositional techniques that take into consideration
+topological properties of meshes.
+
 * [José Miguel Fernandez](https://zkm.de/en/person/jose-miguel-fernandez), Homotopy
   
 The piece captures the gesture of the percussionist to drive the
