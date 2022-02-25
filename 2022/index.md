@@ -45,6 +45,8 @@ within the scope.
 
 **Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
 
+**Performance Chair**: [Luka Frelih](https://wiki.ljudmila.org/Luka_Frelih_CV) (Ljudmila Art & Science Laboratory)
+
 **Publicity Chair**: [Michael Sperber](https://www.deinprogramm.de/sperber/) (Active Group GmbH)
 
 ### Code of Conduct
