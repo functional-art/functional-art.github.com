@@ -49,6 +49,24 @@ within the scope.
 
 **Publicity Chair**: [Michael Sperber](https://www.deinprogramm.de/sperber/) (Active Group GmbH)
 
+#### Program Comittee
+
+- [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai/), Ochanomizu
+  University
+- [Jean Bresson](https://j-bresson.github.io/), Ableton
+- [Jose Calderon](http://jmct.cc/), Galois
+- [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), University
+  of Oxford
+- [Jay McCarthy](https://jeapostrophe.github.io/), University of
+  Massachusetts Lowell & Reach
+- [Yoshiki Ohshima](https://tinlizzie.org/ohshima), Croquet Studios
+- [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde/), University of
+  Waterloo
+- [Benjamin Sherman](http://www.ben-sherman.net/), Waymo
+- [Wouter Swierstra](http://www.staff.science.uu.nl/~swier004),
+  Utrecht University
+- [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/), University of Cambridge
+
 ### Code of Conduct
 
 FARM adheres to ICFP 2020's
