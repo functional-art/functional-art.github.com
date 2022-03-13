@@ -86,7 +86,7 @@ meet the following requirements:
 Accepted demos will be published in the ACM Digital Library as part of
 the FARM 2022 proceedings.
 
-## Parformances
+## Performances
 
 FARM seeks proposals for performances which employ functional
 programming techniques, in whole or in part. We invite a diverse range
