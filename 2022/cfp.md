@@ -15,7 +15,7 @@ active: farm2022
 
 | Submission deadline        || June 1 |
 | Author notification              || July 1   |
-| Workshop                         || September  |
+| Workshop                         || September 16 |
 
 ### Call for Papers
 
