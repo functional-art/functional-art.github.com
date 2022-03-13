@@ -110,6 +110,16 @@ and must include:
 
 Accepted performances will be presented at the performance evening.
 
+## Workshop Organization
+
+**Workshop Chair**: [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
+
+**Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
+
+**Performance Chair**: [Luka Frelih](https://wiki.ljudmila.org/Luka_Frelih_CV) (Ljudmila Art & Science Laboratory)
+
+**Publicity Chair**: [Michael Sperber](https://www.deinprogramm.de/sperber/) (Active Group GmbH)
+
 ## Contact
 
 For any questions, issues or comments, email [`farm-2022@functional-art.org`](farm-2022@functional-art.org),
