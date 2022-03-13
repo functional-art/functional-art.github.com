@@ -19,21 +19,14 @@ active: farm2022
 
 ### Call for Papers
 
-After an 2020 online edition restricted to the performance session,
-the ACM SIGPLAN International Workshop on Functional Art, Music,
-Modelling and Design (FARM) will also be held online in 2022 but open
-to all tracks (paper, demo and performance). Pursuing its mission,
-this 9th workshop aims to bring together people who are harnessing
-functional techniques in the pursuit of creativity and artistic
-expression.
-
-FARM encourages submissions from across art, craft, and design,
-including textiles, visual art, music, 3D sculpture, animation, GUIs,
-video games, 3D printing and architectural models, choreography,
-poetry, and even VLSI layouts, GPU configurations, or mechanical
-engineering designs. Theoretical foundations, language design,
-implementation issues, and applications in industry or the arts are
-all within the scope of the workshop.
+The ACM SIGPLAN International Workshop on Functional Art, Music,
+Modelling and Design (FARM) encourages submissions from across art,
+craft, and design, including textiles, visual art, music, 3D
+sculpture, animation, GUIs, video games, 3D printing and architectural
+models, choreography, poetry, and even VLSI layouts, GPU
+configurations, or mechanical engineering designs. Theoretical
+foundations, language design, implementation issues, and applications
+in industry or the arts are all within the scope of the workshop.
 
 In addition to the main workshop, FARM hosts a traditional evening of
 performances. Thus, this call encompasses both papers/demos for the
