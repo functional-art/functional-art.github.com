@@ -109,3 +109,7 @@ and must include:
 - A link to an audio or video example (YouTube, Vimeo, Bandcamp, etc.)
 
 Accepted performances will be presented at the performance evening.
+
+## Contact
+
+For any questions, issues or comments, email [`farm-2022@functional-art.org`](farm-2022@functional-art.org),
