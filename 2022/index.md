@@ -11,7 +11,7 @@ active: farm2022
 **16th September, 2022**, co-virtual with
 [ICFP 2022](https://icfp21.sigplan.org/), held in Ljubljana, Slovenia.
 
-### About
+## About
 
 The ACM SIGPLAN International Workshop on Functional Art, Music,
 Modelling and Design (FARM) gathers together people who are harnessing
@@ -37,9 +37,11 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
--------
+## Call for Papers, Demos, and Performances
 
-### Workshop Organization
+... is open [here](cfp.html), submission deadline is June 1.
+
+## Workshop Organization
 
 **Workshop Chair**: [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
 
@@ -49,7 +51,7 @@ within the scope.
 
 **Publicity Chair**: [Michael Sperber](https://www.deinprogramm.de/sperber/) (Active Group GmbH)
 
-#### Program Comittee
+### Program Comittee
 
 - [Kenichi Asai](http://pllab.is.ocha.ac.jp/~asai/), Ochanomizu
   University
