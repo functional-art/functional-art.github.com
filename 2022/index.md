@@ -4,7 +4,7 @@ title: FARM 2022
 active: farm2022
 ---
 
-## 9th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design (FARM)
+## 10th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design (FARM)
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
