@@ -9,7 +9,7 @@ active: farm2022
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
 **16th September, 2022**, co-virtual with
-[ICFP 2022](https://icfp21.sigplan.org/), held in Ljubljana, Slovenia.
+[ICFP 2022](https://icfp22.sigplan.org/), held in Ljubljana, Slovenia.
 
 ## About
 
