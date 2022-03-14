@@ -71,5 +71,5 @@ within the scope.
 
 ### Code of Conduct
 
-FARM adheres to ICFP 2020's
-[Code of Conduct](http://icfp20.sigplan.org/attending/code-of-conduct).
+FARM adheres to SIGPLAN's
+[Code of Conduct](http://sigplan.org/Resources/Policies/CodeOfConduct/).
