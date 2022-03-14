@@ -43,9 +43,9 @@ within the scope.
 
 ## Workshop Organization
 
-**Workshop Chair**: [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
+**Workshop Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
 
-**Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
+**Program Chair**: [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
 
 **Performance Chair**: [Luka Frelih](https://wiki.ljudmila.org/Luka_Frelih_CV) (Ljudmila Art & Science Laboratory)
 
