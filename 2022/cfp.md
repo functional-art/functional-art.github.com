@@ -13,7 +13,7 @@ active: farm2022
 
 ### Key Dates
 
-| Submission deadline        || June 1 |
+| Submission deadline        || June 7 |
 | Author notification              || July 1   |
 | Workshop                         || September 16 |
 

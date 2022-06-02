@@ -39,7 +39,7 @@ within the scope.
 
 ## Call for Papers, Demos, and Performances
 
-... is open [here](cfp.html), submission deadline is June 1.
+... is open [here](cfp.html), submission deadline is June 7.
 
 ## Workshop Organization
 
