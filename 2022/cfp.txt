@@ -1,4 +1,4 @@
-Subject: Final CfP - ACM Workshop on Functional Art, Music, Modelling and Design - Deadline June 1
+Subject: CfP deadline extension June 8 - ACM Workshop on Functional Art, Music, Modelling and Design
 
 ===============================================================================
 	      10th ACM SIGPLAN International Workshop on
@@ -13,7 +13,7 @@ Subject: Final CfP - ACM Workshop on Functional Art, Music, Modelling and Design
 Key Dates
 ---------
 
-Submission deadline 	  	June 1
+Submission deadline 	  	June 8
 Author notification 	  	July 1
 Workshop 	  	        September 16
 
