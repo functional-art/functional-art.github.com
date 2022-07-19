@@ -8,7 +8,7 @@ active: farm2022
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
-**16th September, 2022**, co-virtual with
+**15th September, 2022**, co-virtual with
 [ICFP 2022](https://icfp22.sigplan.org/), held in Ljubljana, Slovenia.
 
 ## About
@@ -37,9 +37,29 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
-## Call for Papers, Demos, and Performances
+## Program
 
-... is open [here](cfp.html), submission deadline is June 8.
+This year, we'll do the keynote, demos and the performance evening all
+on the evening of Thursday, September 15.  The program is preliminary
+and incomplete; we'll add sessions as they're confirmed.
+
+The schedule can also be found on the
+[ICFP conference website](https://icfp22.sigplan.org/home/farm-2022#program).
+
+* **Keynote: Early Computer Art and the East**<br/>
+  Ida Hiršenfelder
+
+* **Demo: Counterpoint Analysis and Synthesis**<br/>
+  John Leo
+  
+* **Demo: New View on Plasma Fractals -- From the High Point of Array
+  Languages**<br/>
+  Oleg Kiselyov, Toshihiro Nakayama
+
+## Code of Conduct
+
+FARM adheres to the ICFP 2022
+[Code of Conduct](https://icfp22.sigplan.org/attending/code-of-conduct).
 
 ## Workshop Organization
 
@@ -69,7 +89,3 @@ within the scope.
   Utrecht University
 - [Dmitrij Szamozvancev](https://www.cl.cam.ac.uk/~ds709/), University of Cambridge
 
-### Code of Conduct
-
-FARM adheres to the ICFP 2022
-[Code of Conduct](https://icfp22.sigplan.org/attending/code-of-conduct).
