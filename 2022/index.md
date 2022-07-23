@@ -46,7 +46,7 @@ and incomplete; we'll add sessions as they're confirmed.
 The schedule can also be found on the
 [ICFP conference website](https://icfp22.sigplan.org/home/farm-2022#program).
 
-* **Keynote: Early Computer Art and the East**<br/>
+* [**Keynote: Early Computer Art and the East**](https://icfp22.sigplan.org/details/farm-2022-papers/3/Early-Computer-Art-and-the-East)<br/>
   Ida Hiršenfelder
 
 * **Demo: Counterpoint Analysis and Synthesis**<br/>
