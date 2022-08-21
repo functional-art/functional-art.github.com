@@ -97,7 +97,8 @@ with an undefined linkage. It creates and proposes an altered, alien reality in 
 and, consequently, our perception and experience become deceptive. Which media is the cause or consequence of the other? Does a relationship 
 really exist?
 
-#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Adapt
+#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Live coding
+with Adapt
 
 Despite the enormous creative potential, most of the recent
 developments in live coding are based on the idea of the sequencer and
@@ -129,7 +130,7 @@ written in real time. The performer does not touch the piano but
 concentrates on his programming which is clearly visible on the
 projection.
 
-#### [Flordefuego](https://flordefuego.github.io/) - Specific site: remembering is never a faithful copy
+#### [Flor De Fuego](https://flordefuego.github.io/) - Specific site: remembering is never a faithful copy
 
 The performance approaches the concept of memory as a living and
 interactive entity moving through space and time. A metaphor of how we
