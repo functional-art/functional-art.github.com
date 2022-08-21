@@ -62,11 +62,10 @@ The schedule can also be found on the
 * [**Keynote: Early Computer Art and the East**](https://icfp22.sigplan.org/details/farm-2022-papers/3/Early-Computer-Art-and-the-East)<br/>
   Ida Hiršenfelder
 
-* **Demo: Counterpoint Analysis and Synthesis**<br/>
+* [**Demo: Counterpoint Analysis and Synthesis**](https://icfp22.sigplan.org/details/farm-2022-papers/2/Demo-Counterpoint-Analysis-and-Synthesis)<br/>
   John Leo
 
-* **Demo: New View on Plasma Fractals -- From the High Point of Array
-  Languages**<br/>
+* [**Demo: New View on Plasma Fractals -- From the High Point of Array Languages**](https://icfp22.sigplan.org/details/farm-2022-papers/1/Demo-New-View-on-Plasma-Fractals-From-the-High-Point-of-Array-Languages)<br/>
   Oleg Kiselyov, Toshihiro Nakayama
 
 ### Performances
