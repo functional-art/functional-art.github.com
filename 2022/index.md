@@ -132,15 +132,17 @@ projection.
 
 #### [Flor De Fuego](https://flordefuego.github.io/) - Specific site: remembering is never a faithful copy
 
-The performance approaches the concept of memory as a living and
-interactive entity moving through space and time. A metaphor of how we
-interact with objects and the environment and the relation of this
-with the digital world.
+The proposal of this project is to approach memory as a concept
+through space and time as a living and interactive entity. A metaphor
+of how we interact with objects and the environment and the relation
+of this with the digital world.
 
-This audiovisual live coding performance is constituted by a virtual
-VR space where 3D photogrammetry sculptures and sound are being
-distorted in real time. The performer connects different live coding
-tools such as Hydra and Orca into an experience of travel through
+This is an audiovisual live coding performance constituted by a
+virtual VR space where 3D photogrammetry sculptures and sound are
+being distorted in real time.
+
+Through the usage of live coding tools such as Hydra and Orca, the
+proposal connects everything as an experience to travel through
 different live coded universes on this DIY browser instrument.
 
 ## Code of Conduct
