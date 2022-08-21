@@ -89,16 +89,20 @@ dose of free improvisation and mutant rock noises.
 
 #### [Enrico Dorigatti](https://www.enricodorigatti.com/) - Xeno
 
-Xeno is an experimental, abstract short film based on the intense, dense and continuous twine between audio and video.
+*Xeno* is an experimental, abstract short film based on the intense,
+dense and continuous twine between audio and video.
 
-Our concept and perception of sounds derive from a world where sonic events are always the consequences of physical actions. Xeno aims to 
-break this rule by employing creatively the audio-video relationship, in a scenario where sonic and visual objects appear simultaneously, yet 
-with an undefined linkage. It creates and proposes an altered, alien reality in which the action-reaction bond is puzzled and jeopardised 
-and, consequently, our perception and experience become deceptive. Which media is the cause or consequence of the other? Does a relationship 
-really exist?
+Our concept and perception of sounds derive from a world where sonic
+events are always the consequences of physical actions. Xeno aims to
+break this rule by employing creatively the audio-video relationship,
+in a scenario where sonic and visual objects appear simultaneously,
+yet with an undefined linkage. It creates and proposes an altered,
+alien reality in which the action-reaction bond is puzzled and
+jeopardised and, consequently, our perception and experience become
+deceptive. Which media is the cause or consequence of the other? Does
+a relationship really exist?
 
-#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Live coding
-with Adapt
+#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Live coding with Adapt
 
 Despite the enormous creative potential, most of the recent
 developments in live coding are based on the idea of the sequencer and
