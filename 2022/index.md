@@ -50,7 +50,9 @@ within the scope.
 This year, we'll do the keynote, demos and the performance evening all
 on the evening of Thursday, September 15.
 
-Note that the performance evening will call an admissions fee.
+The event is open to the public.  Very reasonably-priced tickets will
+be available at the venue.  Admissions is free for folks registered
+for ICFP.
 
 The schedule can also be found on the
 [ICFP conference website](https://icfp22.sigplan.org/home/farm-2022#program).
