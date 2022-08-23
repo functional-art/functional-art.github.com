@@ -52,7 +52,7 @@ on the evening of Thursday, September 15.
 
 The event is open to the public.  Very reasonably-priced tickets will
 be available at the venue.  Admissions is free for folks registered
-for ICFP.
+for ICFP.  We intend to live-stream the event.
 
 The schedule can also be found on the
 [ICFP conference website](https://icfp22.sigplan.org/home/farm-2022#program).
