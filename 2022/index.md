@@ -39,11 +39,11 @@ within the scope.
 
 ## Schedule
 
-16:00-17:00 FARM demos
+14:00-15:30 FARM demos
 
-19:00-20:00 FARM keynote
+18:30-19:30 FARM keynote
 
-20:00-22:00 FARM performances
+19:30-21:00 FARM performances
 
 ## Program
 
