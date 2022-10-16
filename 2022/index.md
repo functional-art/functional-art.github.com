@@ -59,18 +59,17 @@ The schedule can also be found on the
 
 ### Keynote and Demos
 
-* [**Keynote: Early Computer Art and the East**](https://icfp22.sigplan.org/details/farm-2022-papers/3/Early-Computer-Art-and-the-East)<br/>
-  Ida Hiršenfelder
-
 * [**Demo: Counterpoint Analysis and Synthesis**](https://icfp22.sigplan.org/details/farm-2022-papers/2/Demo-Counterpoint-Analysis-and-Synthesis)<br/>
-  John Leo
+  John Leo [(video)](https://www.youtube.com/watch?v=znjisTSoKCE&list=PLtMEg_-CnhOLiyn8hmdkcx3Lr3KvPJHIv&index=1&t=102s)
 
 * [**Demo: New View on Plasma Fractals -- From the High Point of Array Languages**](https://icfp22.sigplan.org/details/farm-2022-papers/1/Demo-New-View-on-Plasma-Fractals-From-the-High-Point-of-Array-Languages)<br/>
   Oleg Kiselyov, Toshihiro Nakayama
 
 ### Performances
-  
-#### [Rob Canning](https://www.mfru.org/people/rob-caning) - Fold Yer Loops!
+
+#### Luka Frelih: Meet the Artists [(video)](https://www.youtube.com/watch?v=QvW1m7ZyPm8)
+
+#### [Rob Canning](https://www.mfru.org/people/rob-caning) - Fold Yer Loops! [(video)](https://www.youtube.com/watch?v=0Y4W7phUXZs&list=PLtMEg_-CnhOJw9dFzhrxI_VImU05KCRw0&index=2&t=9s)
 
 *Fold Yer Loops!* is a solo electronic music performance for augmented
 electric guitar and computer. The guitar is augmented with extra
@@ -102,7 +101,7 @@ jeopardised and, consequently, our perception and experience become
 deceptive. Which media is the cause or consequence of the other? Does
 a relationship really exist?
 
-#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Live coding with Adapt
+#### Francesco Corvi aka [Nesso](https://nesso.xyz/) - Live coding with Adapt [(video)](https://www.youtube.com/watch?v=83yBrlRiOFE&list=PLtMEg_-CnhOJw9dFzhrxI_VImU05KCRw0&index=3)
 
 Despite the enormous creative potential, most of the recent
 developments in live coding are based on the idea of the sequencer and
@@ -119,7 +118,7 @@ interacts with this evolving system, trying to manage its behavior
 over time by altering the structure while discovering new
 possibilities and configurations.
 
-#### [Luka Prinčič](https://music.lukaprincic.si/) - Algoforte
+#### [Luka Prinčič](https://music.lukaprincic.si/) - Algoforte [(video)](https://www.youtube.com/watch?v=QN9RJh1fDG8&list=PLtMEg_-CnhOJw9dFzhrxI_VImU05KCRw0&index=5)
 
 *Algoforte* is a livecoded performance involving a Disklavier (a
 player-piano that is controlled via midi), two microphones, a sound
@@ -134,7 +133,7 @@ written in real time. The performer does not touch the piano but
 concentrates on his programming which is clearly visible on the
 projection.
 
-#### [Flor De Fuego](https://flordefuego.github.io/) - Specific site: remembering is never a faithful copy
+#### [Flor De Fuego](https://flordefuego.github.io/) - Specific site: remembering is never a faithful copy [(video)](https://www.youtube.com/watch?v=MK_IoedDGWQ&list=PLtMEg_-CnhOJw9dFzhrxI_VImU05KCRw0&index=4)
 
 The proposal of this project is to approach memory as a concept
 through space and time as a living and interactive entity. A metaphor
