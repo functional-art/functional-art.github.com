@@ -37,6 +37,10 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
+## Program
+
+Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UCLA)
+
 ## Workshop Organization
 
 **Workshop Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
