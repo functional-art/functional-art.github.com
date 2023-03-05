@@ -43,9 +43,9 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 
 ## Workshop Organization
 
-**Workshop Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
+**Workshop Chair**: [Mae Milano](https://www.languagesforsyste.ms//) (University of California, Berkeley Sky)
 
-**Program Chair**: [Mae Milano](https://www.languagesforsyste.ms//) (University of California, Berkeley Sky)
+**Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
 
 **Performance Chair**: [Kaley Eaton](http://www.kaleylaneeaton.com/) (Cornish College of the Arts)
 
@@ -54,7 +54,7 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 ### Program Comittee
 
 - [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
-- [Visda Goudarzi](https://www.colum.edu/academics/faculty/detail/visda-goudarzi.html) (Columbia College)
+- [Visda Goudarzi](https://www.colum.edu/academics/faculty/detail/visda-goudarzi.html) (Columbia College Chicago)
 - [John Hui](https://j-hui.com/) (Columbia University)
 - [Anton Kholomiov](https://github.com/anton-k)
 - [Oleg Kiselyov](ttps://okmij.org/ftp/) (Tohoku University)
