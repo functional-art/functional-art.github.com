@@ -51,4 +51,19 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 
 **Publicity Chair**: [Michael Sperber](https://www.deinprogramm.de/sperber/) (Active Group GmbH)
 
+### Program Comittee
 
+- [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Tokyo Institute of Technology)
+- [Visda Goudarzi](https://www.colum.edu/academics/faculty/detail/visda-goudarzi.html) (Columbia College)
+- [John Hui](https://j-hui.com/) (Columbia University)
+- [Anton Kholomiov](https://github.com/anton-k)
+- [Oleg Kiselyov](ttps://okmij.org/ftp/) (Tohoku University)
+- [Yoshiki Oshima](https://tinlizzie.org/ohshima/) (Croquet Studios)
+- [Christopher Raphael](https://luddy.indiana.edu/contact/profile/?profile_id=279) (Indiana University)
+- [Butch Rovan](http://www.soundidea.org/rovan/index.html) (Brown University)
+- [Chung-chieh	Shan](https://homes.luddy.indiana.edu/ccshan/) (Indiana University)
+- [Ben Sherman](ttps://www.ben-sherman.net/) (Waymo)
+- [Jeffrey Snyder](https://music.princeton.edu/people/jeff-snyder/) (Princeton University)
+- [Andrew Sorenson](https://www.moso.com.au/) (MOSO Corporation)
+- [Daniel Winograd-Cort](https://www.danwc.com/) (Luminous Computing)
+- [Halley Young](https://www.cis.upenn.edu/~halleyy/) (University of Pennsylvania)
