@@ -43,7 +43,7 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 
 ## Workshop Organization
 
-**Workshop Chair**: [Mae Milano](https://www.languagesforsyste.ms//) (University of California, Berkeley Sky)
+**Workshop Chair**: [Mae Milano](https://www.languagesforsyste.ms//) (University of California, Berkeley)
 
 **Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
 
