@@ -65,5 +65,6 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 - [Ben Sherman](ttps://www.ben-sherman.net/) (Waymo)
 - [Jeffrey Snyder](https://music.princeton.edu/people/jeff-snyder/) (Princeton University)
 - [Andrew Sorenson](https://www.moso.com.au/) (MOSO Corporation)
+- [Dima Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (Cambridge University)
 - [Daniel Winograd-Cort](https://www.danwc.com/) (Luminous Computing)
 - [Halley Young](https://www.cis.upenn.edu/~halleyy/) (University of Pennsylvania)
