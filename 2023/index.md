@@ -61,7 +61,7 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 - [John Hui](https://j-hui.com/) (Columbia University)
 - [Anton Kholomiov](https://github.com/anton-k)
 - [Oleg Kiselyov](ttps://okmij.org/ftp/) (Tohoku University)
-- [Yoshiki Oshima](https://tinlizzie.org/ohshima/) (Croquet Studios)
+- [Yoshiki Ohshima](https://tinlizzie.org/ohshima/) (Croquet Corporation)
 - [Christopher Raphael](https://luddy.indiana.edu/contact/profile/?profile_id=279) (Indiana University)
 - [Butch Rovan](http://www.soundidea.org/rovan/index.html) (Brown University)
 - [Chung-chieh	Shan](https://homes.luddy.indiana.edu/ccshan/) (Indiana University)
