@@ -9,7 +9,7 @@ active: farm2023
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
 **8th September, 2023**, co-located with
-, held in Seattle, USA.
+[ICFP 2023](https://icfp23.sigplan.org/), held in Seattle, Washington, USA.
 
 ## About
 
