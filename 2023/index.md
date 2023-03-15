@@ -40,7 +40,7 @@ within the scope.
 ## Program
 
 Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UCLA): 
-<br/>**Perfectly Imperfect: Music, Math and the Keyboard**
+"Perfectly Imperfect: Music, Math and the Keyboard"
 
 ## Workshop Organization
 
