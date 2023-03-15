@@ -9,7 +9,7 @@ active: farm2023
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px;" />
 
 **8th September, 2023**, co-located with
-[ICFP 2023](https://icfp23.sigplan.org/), held in Seattle, USA.
+, held in Seattle, USA.
 
 ## About
 
@@ -38,6 +38,8 @@ on questions or issues about the use of functional programming are
 within the scope.
 
 ## Program
+
+[FARM 2023 ICFP Page](https://icfp23.sigplan.org/home/farm-2023)
 
 Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UCLA): 
 "Perfectly Imperfect: Music, Math and the Keyboard"
