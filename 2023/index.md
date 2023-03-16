@@ -37,6 +37,11 @@ as a domain specific language or tool. Moreover, submissions focusing
 on questions or issues about the use of functional programming are
 within the scope.
 
+## [Call for Papers, Demos, and Performance](cfp.html)
+
+The [Call for Papers, Demos, and Performance is open](cfp.html) is
+open - deadline is June 1!
+
 ## Program
 
 [FARM 2023 ICFP Page](https://icfp23.sigplan.org/home/farm-2023)
