@@ -70,7 +70,7 @@ Keynote: [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (UC
 - [Christopher Raphael](https://luddy.indiana.edu/contact/profile/?profile_id=279) (Indiana University)
 - [Butch Rovan](http://www.soundidea.org/rovan/index.html) (Brown University)
 - [Chung-chieh	Shan](https://homes.luddy.indiana.edu/ccshan/) (Indiana University)
-- [Ben Sherman](https://www.ben-sherman.net/) (Waymo)
+- [Ben Sherman](https://www.ben-sherman.net/)
 - [Jeffrey Snyder](https://music.princeton.edu/people/jeff-snyder/) (Princeton University)
 - [Andrew Sorenson](https://www.moso.com.au/) (MOSO Corporation)
 - [Dima Szamozvancev](https://www.cl.cam.ac.uk/~ds709/) (Cambridge University)
