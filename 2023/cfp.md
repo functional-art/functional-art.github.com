@@ -13,7 +13,7 @@ active: farm2023
 
 ### Key Dates
 
-| Submission deadline              || June 1 |
+| Submission deadline              || June 8 |
 | Author notification              || July 1   |
 | Camera-ready deadline            || July 15   |
 | Workshop                         || September 8 |

@@ -40,7 +40,7 @@ within the scope.
 ## [Call for Papers, Demos, and Performance](cfp.html)
 
 The [Call for Papers, Demos, and Performance is open](cfp.html) is
-open - deadline is June 1!
+open - deadline is June 8!
 
 ## Program
 
