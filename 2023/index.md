@@ -39,6 +39,10 @@ within the scope.
 
 [Call for Papers, Demos, and Performance](cfp.html) (expired)
 
+## Code of Conduct
+
+FARM adheres to the [SIGPLAN/ICFP Code of Conduct](https://icfp23.sigplan.org/attending/code-of-conduct).
+
 ## Program
 
 [FARM 2023 ICFP Page](https://icfp23.sigplan.org/home/farm-2023)
