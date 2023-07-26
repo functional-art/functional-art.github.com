@@ -50,6 +50,24 @@ FARM adheres to the [SIGPLAN/ICFP Code of Conduct](https://icfp23.sigplan.org/at
 ### Keynote: "Perfectly Imperfect: Music, Math and the Keyboard"
 #### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/)
 
+As a concert pianist and harpsichordist, I am devoted to extracting
+expression and meaning out of the silent abstractions of a musical
+score. Behind the preparation for any performance is my stark wonder
+at how such innovative, suggestive sonic domains are realized by
+composers, literally out of thin air. We’ll explore some basic
+mathematic principles that underlie all musical discourse, with a
+focus, given time constraints, on Western classical music. With
+recorded and live examples from the keyboard, we’ll look at Harmony:
+from the acoustical demonstrations of Pythagoras, through the
+contentious battles over tunings and temperaments during the Baroque,
+to the microtonal experiments of modern times in the work of Harry
+Partch and Iannis Xenakis. And Rhythm: another vast realm of
+experimentation and invention, how did we get from 2/4 to the
+polymeters and irrational meters of Conlon Nancarrow and Thomas Adès?
+
+Looking at music through a mathematical lens is one effort out of many
+to understand—though never explain—how this remarkable acoustic
+phenomenon can move us to tears.
 
 ### Demo: A functional EDSL for mathematics visualization that compiles to JavaScript
 #### Alistair Beharry
