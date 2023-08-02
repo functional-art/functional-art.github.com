@@ -47,10 +47,10 @@ FARM adheres to the [SIGPLAN/ICFP Code of Conduct](https://icfp23.sigplan.org/at
 
 ## Program
 
-- [Workshop](#workshop) (Thursday, Sep 8)
-- [Performance evening](#performance) (Friday, Sep 9)
+- [Workshop](#workshop)
+- [Performance evening](#performance)
 
-## Workshop (Thursday, Sep 8) {#workshop}
+## Workshop {#workshop}
 
 ### Demo: A functional EDSL for mathematics visualization that compiles to JavaScript
 #### Alistair Beharry
@@ -141,7 +141,7 @@ a weight representing the importance of that predicate. In this paper,
 we present a weighted refinement type system that has core features
 required for composing species counterpoint. We also discuss
 
-## Performance Evening (Friday, Sep 9) {#performance}
+## Performance Evening {#performance}
 
 At the [Raisbeck Performance
 Hall](https://www.discoverslu.com/location/raisbeck-hall/).
