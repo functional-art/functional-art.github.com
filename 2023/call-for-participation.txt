@@ -7,7 +7,7 @@ Subject: Functional Art, Music, Modeling and Design (FARM 2023) Sep 8: Call for 
 		   Seattle, USA, 8th September 2023
 		   https://functional-art.org/2023/
 ===============================================================================
-				   
+
 The ACM SIGPLAN International Workshop on Functional Art, Music,
 Modelling and Design (FARM) gathers together people who are harnessing
 functional techniques in the pursuit of creativity and expression.
@@ -65,7 +65,6 @@ Gloria Cheng will hold the keynote "Perfectly Imperfect: Music, Math and the Key
 Live Performances
 -----------------
 
-
 Marcin Paczkowski (Featured)
 Alexandra Cardenas (Featured)
 Cecila Suhr - Humanity: From Survival to Revival
@@ -75,12 +74,13 @@ Joy Lee - Aurora: Goddess of Dawn
 Workshop Organisation
 ---------------------
 
-Workshop Chair: John Leo (Halfaya Research)
-Program Chair: Youyou Cong (Tokyo Institute of Technology)
-Performance Chair: Luka Frelih (Ljudmila Art & Science Laboratory)
+Workshop Chair: Mae Milano (University of California, Berkeley)
+Program Chair: John Leo (Halfaya Research)
+Performance Chair: Kaley Eaton (Cornish College of the Arts)
 Publicity Chair: Michael Sperber (Active Group GmbH)
 
 Program Comittee
+----------------
 
 Youyou Cong (Tokyo Institute of Technology)
 Visda Goudarzi (Columbia College Chicago)
@@ -97,3 +97,4 @@ Andrew Sorenson (MOSO Corporation)
 Dima Szamozvancev (Cambridge University)
 Daniel Winograd-Cort (Luminous Computing)
 Halley Young (University of Pennsylvania)
+
