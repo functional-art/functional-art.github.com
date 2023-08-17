@@ -52,65 +52,20 @@ FARM adheres to the [SIGPLAN/ICFP Code of Conduct](https://icfp23.sigplan.org/at
 
 ## Workshop {#workshop}
 
-### Demo: A functional EDSL for mathematics visualization that compiles to JavaScript
-#### Alistair Beharry
+### 9:00AM - Weighted Refinement Types for Counterpoint Composition
+#### Youyou Cong
 
-Visualizations are a critical part of mathematics practice and
-education, and computers and open-source web technologies provide
-accessible ways to create high-quality mathematics visualizations at
-virtually no cost. However libraries and languages to create
-visualizations for mathematics are typically fine-grained, low-level,
-and targeted to vector graphics domain experts or web developers, not
-mathematics students or teachers or end-users. We present demos of a
-functional domain-specific language interface to the JSXGraph
-visualization library embedded in F# that emphasizes readability,
-composability, and the ability of end-users to easily create and
-manipulate elements of high-quality interactive mathematics
-visualizations without needing vector graphics or web development
-domain knowledge.
+Refinement types are useful for describing specifications of
+programs. When applied to music theory, however, refinement types are
+too restrictive in that they do not allow breaking of rules.
 
-### Demo: Sonic Catalog of Rare Diseases
-#### Stephen Taylor, Aditi Kantipuly
-  
-This 15-20 minute demo will present our work in progress, a sonic
-catalog of rare diseases, along with prior work of data-driven music
-(fixed media) based on genetic sequences from SARS CoV-2. These
-sonifications are created from spreadsheets, imported into Max and
-Kyma and processed in various ways.
-  
-### Exploring Self-Embedded Knitting Programs with Twine
-#### Amy Zhu, Adriana Schulz, Zachary Tatlock
+To relax this restriction, we propose weighted refinement types, a
+variation of refinement types where each refinement predicate carries
+a weight representing the importance of that predicate. In this paper,
+we present a weighted refinement type system that has core features
+required for composing species counterpoint. We also discuss
 
-This paper delves into the concept of manufacturing quines, which
-explicitly embeds the intricate details of the fabrication process in
-the design of an object; the goal is for the programs that manufacture
-the object to also produce themselves within the object. We highlight
-how concretizing the design process of an object in the real object
-can help reconstruct items and remind us of the reality that all
-objects must be manufactured, incurring labour and environmental
-costs. By drawing inspiration from self-reproducing programs, we
-outline a new language design centred around quines for knitting, a
-versatile technique in fabric construction, with both historical
-significance and recent advances in programmable whole-garment
-machines for their manufacture. We show some preliminary results of
-using this language design to create knitted quines, and discuss how
-this interesting question might be further advanced.
-
-### Homotopy Type Theory for Sewn Quilts
-#### Charlotte Clark, Rose Bohrer
-
-This paper introduces PieceWork, an imperative programming language
-for the construction of designs for sewn quilt, whose semantics are
-inspired by Homotopy Type Theory. The goals of PieceWork include
-improving the diversity of sewn designs that can be represented in
-computational methods, demonstrating a creative application of
-Homotopy Type Theory, and demonstrating that the craft of quilting is
-a worthy object of study in programming language theory. We develop an
-operational semantics, provide a prototype implementation and
-examples, and provide initial theoretical results, among which
-development of a type system is preliminary.
-
-### The Beauty and Elegance of Functional Reactive Animation
+### 9:30AM - The Beauty and Elegance of Functional Reactive Animation
 #### Ivan Perez
 
 It has been over 20 years since Elliott and Hudak published Functional
@@ -128,25 +83,70 @@ that, when embraced fully, Functional Programming can result in
 declarative constructs that are aesthetically beautiful and
 notationally elegant.
 
-### Weighted Refinement Types for Counterpoint Composition
-#### Youyou Cong
+### 10:00AM - Demo: A functional EDSL for mathematics visualization that compiles to JavaScript
+#### Alistair Beharry
 
-Refinement types are useful for describing specifications of
-programs. When applied to music theory, however, refinement types are
-too restrictive in that they do not allow breaking of rules.
+Visualizations are a critical part of mathematics practice and
+education, and computers and open-source web technologies provide
+accessible ways to create high-quality mathematics visualizations at
+virtually no cost. However libraries and languages to create
+visualizations for mathematics are typically fine-grained, low-level,
+and targeted to vector graphics domain experts or web developers, not
+mathematics students or teachers or end-users. We present demos of a
+functional domain-specific language interface to the JSXGraph
+visualization library embedded in F# that emphasizes readability,
+composability, and the ability of end-users to easily create and
+manipulate elements of high-quality interactive mathematics
+visualizations without needing vector graphics or web development
+domain knowledge.
 
-To relax this restriction, we propose weighted refinement types, a
-variation of refinement types where each refinement predicate carries
-a weight representing the importance of that predicate. In this paper,
-we present a weighted refinement type system that has core features
-required for composing species counterpoint. We also discuss
+### 11:00AM - Exploring Self-Embedded Knitting Programs with Twine
+#### Amy Zhu, Adriana Schulz, Zachary Tatlock
 
+This paper delves into the concept of manufacturing quines, which
+explicitly embeds the intricate details of the fabrication process in
+the design of an object; the goal is for the programs that manufacture
+the object to also produce themselves within the object. We highlight
+how concretizing the design process of an object in the real object
+can help reconstruct items and remind us of the reality that all
+objects must be manufactured, incurring labour and environmental
+costs. By drawing inspiration from self-reproducing programs, we
+outline a new language design centred around quines for knitting, a
+versatile technique in fabric construction, with both historical
+significance and recent advances in programmable whole-garment
+machines for their manufacture. We show some preliminary results of
+using this language design to create knitted quines, and discuss how
+this interesting question might be further advanced.
+
+### 11:30AM - Homotopy Type Theory for Sewn Quilts
+#### Charlotte Clark, Rose Bohrer
+
+This paper introduces PieceWork, an imperative programming language
+for the construction of designs for sewn quilt, whose semantics are
+inspired by Homotopy Type Theory. The goals of PieceWork include
+improving the diversity of sewn designs that can be represented in
+computational methods, demonstrating a creative application of
+Homotopy Type Theory, and demonstrating that the craft of quilting is
+a worthy object of study in programming language theory. We develop an
+operational semantics, provide a prototype implementation and
+examples, and provide initial theoretical results, among which
+development of a type system is preliminary.
+
+### 12:00 noon - Demo: Sonic Catalog of Rare Diseases
+#### Stephen Taylor, Aditi Kantipuly
+  
+This 15-20 minute demo will present our work in progress, a sonic
+catalog of rare diseases, along with prior work of data-driven music
+(fixed media) based on genetic sequences from SARS CoV-2. These
+sonifications are created from spreadsheets, imported into Max and
+Kyma and processed in various ways.
+  
 ## Performance Evening {#performance}
 
-At the [Raisbeck Performance
+At 7PM the [Raisbeck Performance
 Hall](https://www.discoverslu.com/location/raisbeck-hall/).
 
-### Keynote: "Perfectly Imperfect: Music, Math and the Keyboard"
+### 7:30PM - Keynote: "Perfectly Imperfect: Music, Math and the Keyboard"
 #### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/)
 
 As a concert pianist and harpsichordist, I am devoted to extracting
