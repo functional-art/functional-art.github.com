@@ -146,7 +146,23 @@ Kyma and processed in various ways.
 At 7PM the [Raisbeck Performance
 Hall](https://www.discoverslu.com/location/raisbeck-hall/).
 
-### 7:30PM - Keynote: "Perfectly Imperfect: Music, Math and the Keyboard"
+
+### This, now.
+#### [Andrea Mazzariello](https://www.andreamazzariello.com/)
+
+In September 2022 I released an album called [*War Footing*](https://www.andreamazzariello.com/work/war-footing). I
+subsequently built an installation around it, linking sound to the
+transformation of video in a dedicated listening room. As music
+overheard, as image made light carries that idea forward. Vocal and
+keyboard improvisations drive software designed to analyze, filter,
+sample, and re-articulate them, then recombine and manipulate simple
+short videos of acrylic-painted color blocks. I wanted to create a
+sympathetic ear in the software instrument, a system that would
+encourage me to play and sing intentionally and with care. I also
+hoped it would support and reward that effort, in both sound and
+vision, as well as the efforts of listeners more generally.
+
+### Keynote: "Perfectly Imperfect: Music, Math and the Keyboard"
 #### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/)
 
 As a concert pianist and harpsichordist, I am devoted to extracting
@@ -168,13 +184,76 @@ Looking at music through a mathematical lens is one effort out of many
 to understand—though never explain—how this remarkable acoustic
 phenomenon can move us to tears.
 
-### Performances
+### Humanity: From Survival to Revival
+#### [Cecila Suhr](https://www.ceciliasuhr.com/)
 
-- [Marcin Paczkowski](http://marcinpaczkowski.com/) (Featured)
-- [Alexandra Cardenas](https://cargocollective.com/tiemposdelruido) (Featured)
-- [Cecila Suhr](https://www.ceciliasuhr.com/) - Humanity: From Survival to Revival
-- [Andrea Mazzariello](https://www.andreamazzariello.com/) - This, now.
-- [Joy Lee](https://www.joyderose.com/) - Aurora: Goddess of Dawn
+*Humanity: From Survival to Revival*is an award-winning (2023 Best of
+Competition Award in interactive media and emerging technologies
+category from the Broadcast Education Association) interactive
+audio-visual performance work that depicts the transformation of the
+dystopian state of humanity to utopianism in both the visual and sonic
+realms by including the faces of live audiences as part of the
+multimedia performance. Not only do audiences play an interactive
+survival game via microphone (sound interactive), but the
+collaborative efforts are meant to represent saving humanity through
+collective transformation, healing, and renewal. This work will
+culminate in a participatory experimental performance where audiences
+and live music improvisation synergistically drive the work's visual
+storytelling framework.
+
+### Accelerometers as an Instrument (Featured)
+#### [Marcin Paczkowski](http://marcinpaczkowski.com/) 
+
+Performing music is typically associated with various forms of
+physical movement. This can include playing an instrument, conducting
+an ensemble, or incorporating dance and dramatic elements in staged
+productions. With a personal interest in integrating movement into
+electronic music performances, I have been actively exploring
+different forms of motion sensing, particularly using accelerometers,
+within my own musical practice.
+
+I will discuss specific aspects of this technology, with a focus on
+the practical implications of expressiveness, reliability, and
+technical solutions. Following the presentation, I will perform my
+recent piece titled *Here Comes a Candle to Light You to Bed*,
+showcasing how these concepts are applied.
+
+### Aurora: Goddess of Dawn
+#### [Joy Lee](https://www.joyderose.com/)
+
+*AURORA: GODDSS OF DAWN* is an immersive audiovisual live performance
+experience inspired by spectacular nature phenomenon “AURORA”, which
+is also known as the Roman goddess of dawn, who brings light and
+hope. Through this interactive live performance, I would like to
+create a fully immersive and fantastical atmosphere with narratives,
+sounds, interactive visuals programming and spatial audio system so
+that the audience really can experience the breathtaking beauty of
+aurora and the magic it creates beyond imagination.  Through creating
+a space where the artist’s imagination merges with cutting-edge
+technology, I would like to push the boundary of immersive live show
+experience.
+
+### FLOW
+#### [Alexandra Cardenas](https://cargocollective.com/tiemposdelruido) (Featured)
+
+Under the title *FLOW*, my live coding set presents a captivating
+fusion of my musical heritage. Drawing inspiration from both the
+intricate landscapes of electroacoustic music and the pulsating
+rhythms of techno, I will guide you through an immersive experience
+that showcases the versatility of sound and code.
+
+As an academic composer, I have ventured beyond traditional
+boundaries, embracing the transformative potential of live
+coding. Witness the interplay between code and sound as I reveal the
+intricacies of musical patterns on TidalCycles, a platform that
+empowers artists to craft real-time compositions through code.
+
+The screen becomes a window into my creative process, displaying the
+code I write while simultaneously unveiling the intricate ways in
+which musical patterns are described and executed within
+TidalCycles. This visual and auditory synthesis invites you to delve
+into the convergence of technology and artistry, showcasing how code
+can be harnessed to sculpt soundscapes that transcend genres.
 
 ## Workshop Organization
 
