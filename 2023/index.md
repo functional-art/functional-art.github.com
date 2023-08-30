@@ -143,9 +143,10 @@ Kyma and processed in various ways.
   
 ## Performance Evening {#performance}
 
-At 7PM the [Raisbeck Performance
-Hall](https://www.discoverslu.com/location/raisbeck-hall/).
-
+Starts at 7:30pm at the **Raisbeck Auditorium** (2017 Boren Ave).
+This is in the glass building to the right of the Raisbeck Performance
+Hall. The concert is free and open to the public, but seating may
+be limited and conference/workshop attendees have preference.
 
 ### This, now.
 #### [Andrea Mazzariello](https://www.andreamazzariello.com/)
@@ -183,6 +184,9 @@ polymeters and irrational meters of Conlon Nancarrow and Thomas Adès?
 Looking at music through a mathematical lens is one effort out of many
 to understand—though never explain—how this remarkable acoustic
 phenomenon can move us to tears.
+
+### Solo Piano Performance
+#### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (Featured)
 
 ### Humanity: From Survival to Revival
 #### [Cecila Suhr](https://www.ceciliasuhr.com/)
@@ -232,9 +236,6 @@ aurora and the magic it creates beyond imagination.  Through creating
 a space where the artist’s imagination merges with cutting-edge
 technology, I would like to push the boundary of immersive live show
 experience.
-
-### Solo Piano Performance
-#### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (Featured)
 
 ## Workshop Organization
 
