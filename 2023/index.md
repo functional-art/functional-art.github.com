@@ -148,7 +148,7 @@ This is in the glass building to the right of the Raisbeck Performance
 Hall. The concert is free and open to the public, but seating may
 be limited and conference/workshop attendees have preference.
 
-### This, now.
+### As music overheard, as image made light.
 #### [Andrea Mazzariello](https://www.andreamazzariello.com/)
 
 In September 2022 I released an album called [*War Footing*](https://www.andreamazzariello.com/work/war-footing). I
