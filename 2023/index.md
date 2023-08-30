@@ -233,27 +233,8 @@ a space where the artist’s imagination merges with cutting-edge
 technology, I would like to push the boundary of immersive live show
 experience.
 
-### FLOW
-#### [Alexandra Cardenas](https://cargocollective.com/tiemposdelruido) (Featured)
-
-Under the title *FLOW*, my live coding set presents a captivating
-fusion of my musical heritage. Drawing inspiration from both the
-intricate landscapes of electroacoustic music and the pulsating
-rhythms of techno, I will guide you through an immersive experience
-that showcases the versatility of sound and code.
-
-As an academic composer, I have ventured beyond traditional
-boundaries, embracing the transformative potential of live
-coding. Witness the interplay between code and sound as I reveal the
-intricacies of musical patterns on TidalCycles, a platform that
-empowers artists to craft real-time compositions through code.
-
-The screen becomes a window into my creative process, displaying the
-code I write while simultaneously unveiling the intricate ways in
-which musical patterns are described and executed within
-TidalCycles. This visual and auditory synthesis invites you to delve
-into the convergence of technology and artistry, showcasing how code
-can be harnessed to sculpt soundscapes that transcend genres.
+### Solo Piano Performance
+#### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (Featured)
 
 ## Workshop Organization
 
