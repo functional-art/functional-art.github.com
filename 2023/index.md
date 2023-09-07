@@ -143,7 +143,8 @@ Kyma and processed in various ways.
   
 ## Performance Evening {#performance}
 
-Starts at 7:30pm at the **Raisbeck Auditorium** (2017 Boren Ave).
+Starts at 7:30pm at the **Raisbeck Auditorium** (2017 Boren Ave); doors
+open at 7:00pm.
 This is in the glass building to the right of the Raisbeck Performance
 Hall. The concert is free and open to the public, but seating may
 be limited and conference/workshop attendees have preference.
