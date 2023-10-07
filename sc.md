@@ -9,9 +9,9 @@ workshop.
 
 Current members are:
 
-* [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/) (Chair)
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/)
+* [John Leo](http://www.cs.nott.ac.uk/~nhn/)
+* [Mae Milano](https://www.languagesforsyste.ms/)
+* [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/)
 * [Mike Sperber](http://www.deinprogramm.de/sperber/)
-* [Brent Yorgey](https://byorgey.wordpress.com/)
-* [David Janin](http://www.labri.fr/perso/janin/)
-* [Jean Bresson](https://j-bresson.github.io/)
-* [Donya Quick](http://donyaquick.com/)
+* [Daniel Winograd-Cort](https://www.danwc.com/)
