@@ -238,7 +238,7 @@ experience.
 
 ## Workshop Organization
 
-**Workshop Chair**: [Mae Milano](https://www.languagesforsyste.ms//) (University of California, Berkeley)
+**Workshop Chair**: [Mae Milano](https://www.languagesforsyste.ms/) (University of California, Berkeley)
 
 **Program Chair**: [John Leo](http://www.halfaya.org/leo/) (Halfaya Research)
 
