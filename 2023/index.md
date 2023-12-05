@@ -205,8 +205,6 @@ phenomenon can move us to tears.
 ### Solo Piano Performance
 #### [Gloria Cheng](https://schoolofmusic.ucla.edu/people/gloria-cheng/) (Featured)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hiX79cmHGxk?si=h-uInlVx6Nrvup2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### Humanity: From Survival to Revival
 #### [Cecila Suhr](https://www.ceciliasuhr.com/)
 
