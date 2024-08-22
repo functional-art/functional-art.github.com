@@ -45,6 +45,9 @@ within the scope.
 
 FARM adheres to the [SIGPLAN/ICFP Code of Conduct](https://icfp24.sigplan.org/attending/code-of-conduct).
 
+## Program
+
+Please see the program on the [ICFP FARM website](https://icfp24.sigplan.org/home/farm-2024#program)
 
 ## Workshop Organization
 
