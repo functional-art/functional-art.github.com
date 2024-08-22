@@ -1,7 +1,7 @@
-Subject: Final Call for Papers: ACM Workshop on Functional Art, Music, Modelling and Design (Deadline June 1)
+Subject: Final Call: ACM Workshop on Functional Art, Music, Modelling and Design (Deadline June 1)
 
 ===============================================================================
-	      11th ACM SIGPLAN International Workshop on
+	      12th ACM SIGPLAN International Workshop on
 	     Functional Art, Music, Modelling and Design
 				(FARM)
 	       Call for Papers, Demos, and Performance
