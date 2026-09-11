@@ -1,29 +1,15 @@
 ---
 layout: default
-title: FARM 2024
-active: farm2024
+title: FARM 2025
+active: farm2025
 ---
 
-## FARM 2024 Call for Papers, Demos, and Performances
+## FARM 2025 Call for Papers, Demos, and Performances
 
 <img src="/files/farm-lambda-small.jpg" style="float: right; margin: 10px; width:30em" />
 
-**2nd September, 2024**, colocated with
-[ICFP 2024](https://icfp24.sigplan.org/), held in Milan, Italy.
-
-### Key Dates
-
-| Submission deadline              || June 1 |
-| Author notification              || July 1   |
-| Camera-ready deadline            || July 15   |
-| Workshop                         || September 2 |
-
-
-**Authors take note**<br />
-The official publication date is the date the proceedings are made
-available in the ACM Digital Library. This date may be up to two weeks
-prior to the first day of your conference. The official publication date
-affects the deadline for any patent filings related to published work.
+**12th October, 2025**, co-located with
+[ICFP/SPLASH 2025](https://2025.splashcon.org/), held in Singapore.
 
 ## Call for Papers
 
@@ -42,7 +28,10 @@ workshop (and its published proceedings) as well as performance
 proposals for the evening's event. Authors are invited to make a
 single submission for each. Authors may submit both a paper/demo and
 performance proposal, but the submissions will be considered
-independently.
+independently. Performances may be of previously-produced work, and
+may be in any medium (including traditional acoustic performances) so
+long as the principles of programming (or actual programs) were used
+in their composition or performance.
 
 <span style="float: right; padding: 0 0 1em 2em"><img style="width: 30em" src="yulippe.jpg" /><br />
 
@@ -54,28 +43,28 @@ Paper submissions are invited in three categories:
 - Overview / state of the art
 - Technology tutorial (especially tools and environments for distributed artistic workflow)
 
-Papers must be submitted via [HotCRP](https://farm24.hotcrp.com/), and meet the following requirements:
+Papers must be submitted via [HotCRP](https://farm25.hotcrp.com), and meet the following requirements:
 
 - 5 to 12 pages
-- PDF format 
+- PDF format
 - Adhere to the [ACM SIGPLAN template](https://www.sigplan.org/Resources/ProceedingsFormat/)
 
-Accepted papers will be published in the ACM Digital Library as part of the FARM 2024 proceedings.
+Accepted papers will be published in the ACM Digital Library as part of the FARM 2025 proceedings.
 
 Authors are encouraged to submit auxiliary material for publication along with their paper (source code, data, videos, images, etc.). Authors retain all rights to the auxiliary material.
 
 ### Demos
 
-Demo submissions should describe a demonstration and its context, connecting it with the themes of FARM. A demo could be in the form of a short (10 to 20 minute) tutorial, a presentation of work in progress, an exhibition of some work, or even a performance. 
+Demo submissions should describe a demonstration and its context, connecting it with the themes of FARM. A demo could be in the form of a short (10 to 20 minute) tutorial, a presentation of work in progress, an exhibition of some work, or even a performance.
 
-Demos must be submitted via [HotCRP](https://farm24.hotcrp.com/), and meet the following requirements:
+Demos must be submitted via [HotCRP](https://farm25.hotcrp.com), and meet the following requirements:
 
 - 500 to 2000 words
-- Have a title starting with “Demo: ” 
-- PDF format 
+- Have a title starting with “Demo: ”
+- PDF format
 - Adhere to the [ACM SIGPLAN template](https://www.sigplan.org/Resources/ProceedingsFormat/)
 
-Accepted demos will be published in the ACM Digital Library as part of the FARM 2024 proceedings.
+Accepted demos will be published in the ACM Digital Library as part of the FARM 2025 proceedings.
 
 ### Performances
 
@@ -93,14 +82,13 @@ may use some of your performance time for a short lecture or
 presentation; this must supplement, and not take the place of, a
 primary performance.
 
-
 Performance proposals should be emailed to
 performance@functional-art.org or submitted via HotCRP, and must
 include:
 
 - A description of the performance (please be as specific as possible)
-- An explanation of the use of functional programming in the work
-- A list of technical requirements 
+- An explanation of the use of programming in the work
+- A list of technical requirements
 - A link to an audio or video example (YouTube, Vimeo, Bandcamp, etc.)
 
 Accepted performances will be presented at the performance evening.
@@ -113,14 +101,12 @@ If you have financial difficulty attending, you can apply for the [PAC funds](ht
 
 ### Contact
 
-For any questions, issues or comments, email `farm-2024@functional-art.org`.
+For any questions, issues or comments, email `farm-2025@functional-art.org`.
 
 ## Workshop Organization
 
-**General Chair**: [Mae Milano](https://www.languagesforsyste.ms/) (Princeton University)
+### Organizing Committee
 
-**Program Chair**: [Stephen A. Taylor](https://www.stephenandrewtaylor.net/) (University of Illinois Urbana-Champaign)
-
-## Contact
-
-For any questions, issues or comments, email [`farm-2024@functional-art.org`](farm-2024@functional-art.org),
+- [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/) (Institute of Science Tokyo)
+- [Mae Milano](https://www.languagesforsyste.ms/) (Princeton University)
+- Tae Hong Park (Purdue University)
